@@ -1,0 +1,1489 @@
+{
+ "fps": 30,
+ "durationSec": 63.919,
+ "voSrc": "audio/5-mcp-servers/voice.mp3",
+ "musicSrc": "audio/5-mcp-servers/music.mp3",
+ "musicVolume": 0.11,
+ "watermark": "rocketlaunchmedia.com",
+ "beats": [
+  {
+   "id": "hook",
+   "start": 0.0,
+   "lines": [
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "Claude",
+       "t": 0.0,
+       "end": 0.383,
+       "emph": false
+      },
+      {
+       "text": "Code",
+       "t": 0.418,
+       "end": 0.743,
+       "emph": false
+      },
+      {
+       "text": "runs",
+       "t": 0.789,
+       "end": 0.987,
+       "emph": false
+      },
+      {
+       "text": "my",
+       "t": 1.033,
+       "end": 1.103,
+       "emph": false
+      }
+     ],
+     "size": "md",
+     "box": false
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "marketing",
+       "t": 1.184,
+       "end": 1.509,
+       "emph": true
+      },
+      {
+       "text": "agency",
+       "t": 1.556,
+       "end": 1.881,
+       "emph": true
+      },
+      {
+       "text": "now.",
+       "t": 1.939,
+       "end": 2.264,
+       "emph": false
+      }
+     ],
+     "size": "lg",
+     "box": false
+    },
+    {
+     "kind": "card",
+     "name": "claude",
+     "w": 760,
+     "t": 2.314,
+     "title": "Claude Code",
+     "subtitle": "5 connections \u00b7 1 agency"
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "Here",
+       "t": 2.577,
+       "end": 2.752,
+       "emph": false
+      },
+      {
+       "text": "are",
+       "t": 2.786,
+       "end": 2.879,
+       "emph": false
+      },
+      {
+       "text": "the",
+       "t": 2.902,
+       "end": 2.972,
+       "emph": false
+      },
+      {
+       "text": "5",
+       "t": 3.019,
+       "end": 3.274,
+       "emph": true
+      },
+      {
+       "text": "connections",
+       "t": 3.309,
+       "end": 3.75,
+       "emph": true
+      }
+     ],
+     "size": "lg",
+     "box": false
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "that",
+       "t": 3.785,
+       "end": 3.889,
+       "emph": false
+      },
+      {
+       "text": "made",
+       "t": 3.936,
+       "end": 4.075,
+       "emph": false
+      },
+      {
+       "text": "it",
+       "t": 4.098,
+       "end": 4.145,
+       "emph": false
+      },
+      {
+       "text": "possible.",
+       "t": 4.18,
+       "end": 4.725,
+       "emph": false
+      }
+     ],
+     "size": "md",
+     "box": false,
+     "color": "#8E8E8E"
+    }
+   ],
+   "layout": "center",
+   "grid": false,
+   "deco": true,
+   "camera": {
+    "zoom": [
+     1,
+     1.06
+    ]
+   },
+   "end": 5.023
+  },
+  {
+   "id": "save",
+   "start": 5.023,
+   "lines": [
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "Save",
+       "t": 5.143,
+       "end": 5.457,
+       "emph": false
+      },
+      {
+       "text": "this",
+       "t": 5.492,
+       "end": 5.642,
+       "emph": false
+      },
+      {
+       "text": "if",
+       "t": 5.7,
+       "end": 5.77,
+       "emph": false
+      },
+      {
+       "text": "you",
+       "t": 5.817,
+       "end": 5.886,
+       "emph": false
+      },
+      {
+       "text": "run",
+       "t": 5.979,
+       "end": 6.107,
+       "emph": false
+      },
+      {
+       "text": "a",
+       "t": 6.153,
+       "end": 6.177,
+       "emph": false
+      },
+      {
+       "text": "business",
+       "t": 6.223,
+       "end": 6.629,
+       "emph": false
+      }
+     ],
+     "size": "md",
+     "box": false
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "and",
+       "t": 6.711,
+       "end": 6.873,
+       "emph": false
+      },
+      {
+       "text": "still",
+       "t": 6.92,
+       "end": 7.14,
+       "emph": false
+      },
+      {
+       "text": "do",
+       "t": 7.187,
+       "end": 7.279,
+       "emph": false
+      },
+      {
+       "text": "everything",
+       "t": 7.338,
+       "end": 7.628,
+       "emph": true
+      },
+      {
+       "text": "by",
+       "t": 7.674,
+       "end": 7.767,
+       "emph": true
+      },
+      {
+       "text": "hand.",
+       "t": 7.825,
+       "end": 8.208,
+       "emph": true
+      }
+     ],
+     "size": "lg",
+     "box": false
+    },
+    {
+     "kind": "icon",
+     "name": "bookmark",
+     "w": 150,
+     "t": 8.258,
+     "rotate": 0
+    }
+   ],
+   "layout": "center",
+   "grid": true,
+   "deco": false,
+   "camera": {
+    "zoom": [
+     1,
+     1.05
+    ]
+   },
+   "transition": "whip",
+   "end": 8.866
+  },
+  {
+   "id": "one",
+   "start": 8.866,
+   "lines": [
+    {
+     "kind": "badge",
+     "text": "1",
+     "size": 150,
+     "t": 9.036
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "GoHighLevel,",
+       "t": 9.822,
+       "end": 10.646,
+       "emph": true
+      },
+      {
+       "text": "my",
+       "t": 10.716,
+       "end": 10.809,
+       "emph": false
+      },
+      {
+       "text": "CRM.",
+       "t": 10.879,
+       "end": 11.459,
+       "emph": false
+      }
+     ],
+     "size": "lg",
+     "box": false
+    },
+    {
+     "kind": "image",
+     "src": "images/5-mcp-servers/ghl.png",
+     "w": 1200,
+     "t": 11.509,
+     "tilt": 0,
+     "blur": 0,
+     "reveal": true,
+     "pan": [
+      90,
+      -90
+     ]
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "Claude",
+       "t": 12.04,
+       "end": 12.365,
+       "emph": false
+      },
+      {
+       "text": "reads",
+       "t": 12.411,
+       "end": 12.608,
+       "emph": false
+      },
+      {
+       "text": "the",
+       "t": 12.632,
+       "end": 12.701,
+       "emph": false
+      },
+      {
+       "text": "pipeline,",
+       "t": 12.748,
+       "end": 13.375,
+       "emph": false
+      },
+      {
+       "text": "moves",
+       "t": 13.537,
+       "end": 13.793,
+       "emph": false
+      },
+      {
+       "text": "the",
+       "t": 13.839,
+       "end": 13.909,
+       "emph": false
+      },
+      {
+       "text": "deals,",
+       "t": 13.956,
+       "end": 14.455,
+       "emph": false
+      }
+     ],
+     "size": "md",
+     "box": false
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "and",
+       "t": 14.652,
+       "end": 14.803,
+       "emph": false
+      },
+      {
+       "text": "schedules",
+       "t": 14.861,
+       "end": 15.256,
+       "emph": false
+      },
+      {
+       "text": "my",
+       "t": 15.314,
+       "end": 15.395,
+       "emph": false
+      },
+      {
+       "text": "social",
+       "t": 15.477,
+       "end": 15.802,
+       "emph": false
+      },
+      {
+       "text": "posts",
+       "t": 15.871,
+       "end": 16.138,
+       "emph": false
+      }
+     ],
+     "size": "md",
+     "box": false
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "without",
+       "t": 16.173,
+       "end": 16.452,
+       "emph": false
+      },
+      {
+       "text": "me",
+       "t": 16.487,
+       "end": 16.568,
+       "emph": false
+      },
+      {
+       "text": "opening",
+       "t": 16.614,
+       "end": 16.87,
+       "emph": true
+      },
+      {
+       "text": "the",
+       "t": 16.905,
+       "end": 16.974,
+       "emph": true
+      },
+      {
+       "text": "app.",
+       "t": 17.021,
+       "end": 17.346,
+       "emph": true
+      }
+     ],
+     "size": "lg",
+     "box": false
+    }
+   ],
+   "layout": "top",
+   "grid": true,
+   "deco": false,
+   "camera": {
+    "zoom": [
+     1,
+     1.05
+    ]
+   },
+   "end": 17.888
+  },
+  {
+   "id": "two",
+   "start": 17.888,
+   "lines": [
+    {
+     "kind": "badge",
+     "text": "2",
+     "size": 150,
+     "t": 18.058
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "Google",
+       "t": 19.134,
+       "end": 19.505,
+       "emph": true
+      },
+      {
+       "text": "Workspace",
+       "t": 19.54,
+       "end": 20.271,
+       "emph": true
+      }
+     ],
+     "size": "lg",
+     "box": false
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "Drive",
+       "t": 20.321,
+       "end": 20.521,
+       "emph": false
+      },
+      {
+       "text": "\u00b7",
+       "t": 20.401,
+       "end": 20.601,
+       "emph": false
+      },
+      {
+       "text": "Gmail",
+       "t": 20.481,
+       "end": 20.681,
+       "emph": false
+      },
+      {
+       "text": "\u00b7",
+       "t": 20.561,
+       "end": 20.761,
+       "emph": false
+      },
+      {
+       "text": "Calendar",
+       "t": 20.641,
+       "end": 20.841,
+       "emph": false
+      }
+     ],
+     "size": "md",
+     "box": true
+    },
+    {
+     "kind": "chat",
+     "text": "Find the new client's onboarding file, draft the reply, and book our call for Thursday.",
+     "who": "you",
+     "w": 860,
+     "t": 20.891
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "It",
+       "t": 23.383,
+       "end": 23.511,
+       "emph": false
+      },
+      {
+       "text": "finds",
+       "t": 23.569,
+       "end": 23.813,
+       "emph": false
+      },
+      {
+       "text": "the",
+       "t": 23.847,
+       "end": 23.917,
+       "emph": false
+      },
+      {
+       "text": "client",
+       "t": 23.952,
+       "end": 24.265,
+       "emph": false
+      },
+      {
+       "text": "file,",
+       "t": 24.312,
+       "end": 24.765,
+       "emph": false
+      },
+      {
+       "text": "drafts",
+       "t": 25.182,
+       "end": 25.542,
+       "emph": false
+      },
+      {
+       "text": "the",
+       "t": 25.589,
+       "end": 25.659,
+       "emph": false
+      },
+      {
+       "text": "reply,",
+       "t": 25.717,
+       "end": 26.285,
+       "emph": false
+      }
+     ],
+     "size": "md",
+     "box": false
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "and",
+       "t": 26.32,
+       "end": 26.46,
+       "emph": false
+      },
+      {
+       "text": "books",
+       "t": 26.506,
+       "end": 26.715,
+       "emph": true
+      },
+      {
+       "text": "the",
+       "t": 26.75,
+       "end": 26.82,
+       "emph": true
+      },
+      {
+       "text": "call.",
+       "t": 26.854,
+       "end": 27.214,
+       "emph": true
+      }
+     ],
+     "size": "lg",
+     "box": false
+    }
+   ],
+   "layout": "top",
+   "grid": false,
+   "deco": false,
+   "camera": {
+    "zoom": [
+     1,
+     1.05
+    ]
+   },
+   "transition": "whip",
+   "end": 27.756
+  },
+  {
+   "id": "three",
+   "start": 27.756,
+   "lines": [
+    {
+     "kind": "badge",
+     "text": "3",
+     "size": 150,
+     "t": 27.926
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "WordPress",
+       "t": 28.886,
+       "end": 29.687,
+       "emph": true
+      }
+     ],
+     "size": "lg",
+     "box": false
+    },
+    {
+     "kind": "image",
+     "src": "images/5-mcp-servers/wordpress.png",
+     "w": 1200,
+     "t": 29.737,
+     "tilt": 0,
+     "blur": 0,
+     "reveal": true,
+     "pan": [
+      -90,
+      90
+     ]
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "It",
+       "t": 30.047,
+       "end": 30.198,
+       "emph": false
+      },
+      {
+       "text": "edits",
+       "t": 30.279,
+       "end": 30.604,
+       "emph": false
+      },
+      {
+       "text": "pages,",
+       "t": 30.662,
+       "end": 31.289,
+       "emph": false
+      },
+      {
+       "text": "fixes",
+       "t": 31.405,
+       "end": 31.8,
+       "emph": false
+      },
+      {
+       "text": "SEO",
+       "t": 31.916,
+       "end": 32.265,
+       "emph": false
+      },
+      {
+       "text": "titles,",
+       "t": 32.323,
+       "end": 32.88,
+       "emph": false
+      }
+     ],
+     "size": "md",
+     "box": false
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "and",
+       "t": 33.043,
+       "end": 33.194,
+       "emph": false
+      },
+      {
+       "text": "publishes",
+       "t": 33.252,
+       "end": 33.646,
+       "emph": false
+      },
+      {
+       "text": "blog",
+       "t": 33.705,
+       "end": 33.948,
+       "emph": false
+      },
+      {
+       "text": "posts",
+       "t": 34.018,
+       "end": 34.355,
+       "emph": false
+      }
+     ],
+     "size": "md",
+     "box": false
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "straight",
+       "t": 34.494,
+       "end": 34.761,
+       "emph": false
+      },
+      {
+       "text": "to",
+       "t": 34.784,
+       "end": 34.831,
+       "emph": false
+      },
+      {
+       "text": "the",
+       "t": 34.889,
+       "end": 34.958,
+       "emph": false
+      },
+      {
+       "text": "live",
+       "t": 34.993,
+       "end": 35.191,
+       "emph": true
+      },
+      {
+       "text": "site.",
+       "t": 35.214,
+       "end": 35.562,
+       "emph": true
+      }
+     ],
+     "size": "lg",
+     "box": false
+    }
+   ],
+   "layout": "top",
+   "grid": true,
+   "deco": false,
+   "camera": {
+    "zoom": [
+     1,
+     1.05
+    ]
+   },
+   "end": 35.86
+  },
+  {
+   "id": "four",
+   "start": 35.86,
+   "lines": [
+    {
+     "kind": "badge",
+     "text": "4",
+     "size": 150,
+     "t": 36.03
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "Meta",
+       "t": 36.804,
+       "end": 37.118,
+       "emph": true
+      },
+      {
+       "text": "Ads",
+       "t": 37.199,
+       "end": 37.733,
+       "emph": true
+      }
+     ],
+     "size": "lg",
+     "box": false
+    },
+    {
+     "kind": "terminal",
+     "lines": [
+      "$ claude  \u203a  morning ad report",
+      "spend: $1,578  \u00b7  leads: 36",
+      "cost per lead: $43.85",
+      "\u2713 pause 2 ad sets over target"
+     ],
+     "w": 900,
+     "title": "meta-ads",
+     "t": 37.783
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "Every",
+       "t": 38.047,
+       "end": 38.314,
+       "emph": false
+      },
+      {
+       "text": "morning",
+       "t": 38.383,
+       "end": 38.65,
+       "emph": false
+      },
+      {
+       "text": "it",
+       "t": 38.697,
+       "end": 38.755,
+       "emph": false
+      },
+      {
+       "text": "pulls",
+       "t": 38.813,
+       "end": 39.057,
+       "emph": false
+      },
+      {
+       "text": "the",
+       "t": 39.092,
+       "end": 39.161,
+       "emph": false
+      },
+      {
+       "text": "spend",
+       "t": 39.196,
+       "end": 39.451,
+       "emph": false
+      },
+      {
+       "text": "and",
+       "t": 39.498,
+       "end": 39.568,
+       "emph": false
+      },
+      {
+       "text": "the",
+       "t": 39.591,
+       "end": 39.66,
+       "emph": false
+      },
+      {
+       "text": "cost",
+       "t": 39.695,
+       "end": 39.997,
+       "emph": false
+      },
+      {
+       "text": "per",
+       "t": 40.055,
+       "end": 40.183,
+       "emph": false
+      },
+      {
+       "text": "lead,",
+       "t": 40.253,
+       "end": 40.636,
+       "emph": false
+      }
+     ],
+     "size": "sm",
+     "box": false,
+     "color": "#8E8E8E"
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "and",
+       "t": 40.949,
+       "end": 41.1,
+       "emph": false
+      },
+      {
+       "text": "tells",
+       "t": 41.147,
+       "end": 41.379,
+       "emph": false
+      },
+      {
+       "text": "me",
+       "t": 41.425,
+       "end": 41.495,
+       "emph": false
+      },
+      {
+       "text": "what",
+       "t": 41.53,
+       "end": 41.657,
+       "emph": true
+      },
+      {
+       "text": "to",
+       "t": 41.704,
+       "end": 41.75,
+       "emph": true
+      },
+      {
+       "text": "pause.",
+       "t": 41.808,
+       "end": 42.296,
+       "emph": true
+      }
+     ],
+     "size": "lg",
+     "box": false
+    }
+   ],
+   "layout": "top",
+   "grid": false,
+   "deco": false,
+   "camera": {
+    "zoom": [
+     1,
+     1.05
+    ]
+   },
+   "transition": "whip",
+   "end": 42.664
+  },
+  {
+   "id": "five",
+   "start": 42.664,
+   "lines": [
+    {
+     "kind": "badge",
+     "text": "5",
+     "size": 150,
+     "t": 42.834
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "ElevenLabs",
+       "t": 43.701,
+       "end": 44.606,
+       "emph": true
+      }
+     ],
+     "size": "lg",
+     "box": false
+    },
+    {
+     "kind": "image",
+     "src": "images/5-mcp-servers/elevenlabs.png",
+     "w": 1200,
+     "t": 44.656,
+     "tilt": 0,
+     "blur": 0,
+     "reveal": true,
+     "pan": [
+      90,
+      -90
+     ]
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "It",
+       "t": 44.966,
+       "end": 45.106,
+       "emph": false
+      },
+      {
+       "text": "voices",
+       "t": 45.164,
+       "end": 45.523,
+       "emph": false
+      },
+      {
+       "text": "every",
+       "t": 45.64,
+       "end": 45.895,
+       "emph": false
+      },
+      {
+       "text": "video",
+       "t": 45.941,
+       "end": 46.22,
+       "emph": false
+      },
+      {
+       "text": "I",
+       "t": 46.301,
+       "end": 46.325,
+       "emph": false
+      },
+      {
+       "text": "post,",
+       "t": 46.441,
+       "end": 46.893,
+       "emph": false
+      }
+     ],
+     "size": "md",
+     "box": false
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "including",
+       "t": 46.94,
+       "end": 47.393,
+       "emph": true
+      },
+      {
+       "text": "this",
+       "t": 47.439,
+       "end": 47.578,
+       "emph": true
+      },
+      {
+       "text": "one.",
+       "t": 47.648,
+       "end": 47.95,
+       "emph": true
+      }
+     ],
+     "size": "xl",
+     "box": false,
+     "emphColor": "#E5744C"
+    }
+   ],
+   "layout": "top",
+   "grid": true,
+   "deco": false,
+   "camera": {
+    "zoom": [
+     1,
+     1.05
+    ]
+   },
+   "end": 48.19
+  },
+  {
+   "id": "how",
+   "start": 48.19,
+   "lines": [
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "They're",
+       "t": 48.31,
+       "end": 48.554,
+       "emph": false
+      },
+      {
+       "text": "called",
+       "t": 48.577,
+       "end": 48.809,
+       "emph": false
+      }
+     ],
+     "size": "md",
+     "box": false
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "MCP",
+       "t": 48.879,
+       "end": 49.366,
+       "emph": true
+      },
+      {
+       "text": "servers.",
+       "t": 49.506,
+       "end": 50.11,
+       "emph": true
+      }
+     ],
+     "size": "xl",
+     "box": false
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "Connect",
+       "t": 50.16,
+       "end": 50.36,
+       "emph": false
+      },
+      {
+       "text": "once",
+       "t": 50.24,
+       "end": 50.44,
+       "emph": false
+      },
+      {
+       "text": "\u00b7",
+       "t": 50.32,
+       "end": 50.52,
+       "emph": false
+      },
+      {
+       "text": "Use",
+       "t": 50.4,
+       "end": 50.6,
+       "emph": false
+      },
+      {
+       "text": "forever",
+       "t": 50.48,
+       "end": 50.68,
+       "emph": false
+      }
+     ],
+     "size": "md",
+     "box": true
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "You",
+       "t": 50.469,
+       "end": 50.609,
+       "emph": false
+      },
+      {
+       "text": "connect",
+       "t": 50.678,
+       "end": 50.969,
+       "emph": false
+      },
+      {
+       "text": "each",
+       "t": 51.05,
+       "end": 51.247,
+       "emph": false
+      },
+      {
+       "text": "one",
+       "t": 51.317,
+       "end": 51.491,
+       "emph": false
+      },
+      {
+       "text": "once,",
+       "t": 51.538,
+       "end": 51.955,
+       "emph": false
+      },
+      {
+       "text": "and",
+       "t": 52.072,
+       "end": 52.223,
+       "emph": false
+      },
+      {
+       "text": "from",
+       "t": 52.269,
+       "end": 52.408,
+       "emph": false
+      },
+      {
+       "text": "then",
+       "t": 52.455,
+       "end": 52.606,
+       "emph": false
+      },
+      {
+       "text": "on,",
+       "t": 52.687,
+       "end": 53.082,
+       "emph": false
+      }
+     ],
+     "size": "sm",
+     "box": false,
+     "color": "#8E8E8E"
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "Claude",
+       "t": 53.279,
+       "end": 53.627,
+       "emph": false
+      },
+      {
+       "text": "Code",
+       "t": 53.662,
+       "end": 53.918,
+       "emph": false
+      },
+      {
+       "text": "uses",
+       "t": 53.964,
+       "end": 54.254,
+       "emph": false
+      },
+      {
+       "text": "them",
+       "t": 54.289,
+       "end": 54.428,
+       "emph": false
+      },
+      {
+       "text": "like",
+       "t": 54.498,
+       "end": 54.649,
+       "emph": false
+      },
+      {
+       "text": "an",
+       "t": 54.684,
+       "end": 54.742,
+       "emph": false
+      },
+      {
+       "text": "employee",
+       "t": 54.777,
+       "end": 55.264,
+       "emph": false
+      }
+     ],
+     "size": "md",
+     "box": false
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "who",
+       "t": 55.311,
+       "end": 55.427,
+       "emph": false
+      },
+      {
+       "text": "never",
+       "t": 55.485,
+       "end": 55.671,
+       "emph": true
+      },
+      {
+       "text": "sleeps.",
+       "t": 55.717,
+       "end": 56.228,
+       "emph": true
+      }
+     ],
+     "size": "lg",
+     "box": false
+    }
+   ],
+   "layout": "center",
+   "grid": false,
+   "deco": true,
+   "camera": {
+    "zoom": [
+     1,
+     1.05
+    ]
+   },
+   "transition": "whip",
+   "end": 56.77
+  },
+  {
+   "id": "cta",
+   "start": 56.77,
+   "lines": [
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "Comment",
+       "t": 56.89,
+       "end": 57.25,
+       "emph": false
+      }
+     ],
+     "size": "md",
+     "box": false
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "MCP",
+       "t": 57.308,
+       "end": 57.795,
+       "emph": true
+      }
+     ],
+     "size": "xl",
+     "box": true
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "and",
+       "t": 57.935,
+       "end": 58.004,
+       "emph": false
+      },
+      {
+       "text": "I'll",
+       "t": 58.062,
+       "end": 58.202,
+       "emph": false
+      },
+      {
+       "text": "send",
+       "t": 58.248,
+       "end": 58.399,
+       "emph": false
+      },
+      {
+       "text": "you",
+       "t": 58.434,
+       "end": 58.504,
+       "emph": false
+      },
+      {
+       "text": "the",
+       "t": 58.55,
+       "end": 58.62,
+       "emph": false
+      },
+      {
+       "text": "list",
+       "t": 58.666,
+       "end": 58.863,
+       "emph": false
+      }
+     ],
+     "size": "md",
+     "box": false
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "with",
+       "t": 58.91,
+       "end": 59.038,
+       "emph": false
+      },
+      {
+       "text": "the",
+       "t": 59.061,
+       "end": 59.13,
+       "emph": false
+      },
+      {
+       "text": "exact",
+       "t": 59.2,
+       "end": 59.572,
+       "emph": false
+      },
+      {
+       "text": "setup",
+       "t": 59.618,
+       "end": 59.873,
+       "emph": false
+      },
+      {
+       "text": "for",
+       "t": 59.92,
+       "end": 60.013,
+       "emph": false
+      },
+      {
+       "text": "each",
+       "t": 60.048,
+       "end": 60.187,
+       "emph": false
+      },
+      {
+       "text": "one.",
+       "t": 60.257,
+       "end": 60.582,
+       "emph": false
+      }
+     ],
+     "size": "sm",
+     "box": false,
+     "color": "#8E8E8E"
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "And",
+       "t": 60.895,
+       "end": 61.058,
+       "emph": false
+      },
+      {
+       "text": "follow,",
+       "t": 61.139,
+       "end": 61.65,
+       "emph": true
+      },
+      {
+       "text": "I",
+       "t": 61.731,
+       "end": 61.789,
+       "emph": false
+      },
+      {
+       "text": "post",
+       "t": 61.905,
+       "end": 62.114,
+       "emph": false
+      },
+      {
+       "text": "what",
+       "t": 62.149,
+       "end": 62.265,
+       "emph": false
+      },
+      {
+       "text": "I",
+       "t": 62.3,
+       "end": 62.323,
+       "emph": false
+      },
+      {
+       "text": "build.",
+       "t": 62.416,
+       "end": 63.02,
+       "emph": false
+      }
+     ],
+     "size": "md",
+     "box": false
+    }
+   ],
+   "layout": "center",
+   "grid": false,
+   "deco": true,
+   "camera": {
+    "zoom": [
+     1,
+     1.08
+    ]
+   },
+   "end": 63.919
+  }
+ ]
+}

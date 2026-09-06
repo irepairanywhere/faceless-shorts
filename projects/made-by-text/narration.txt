@@ -1,0 +1,19 @@
+This entire video was made from a text file. No editor, no camera, no timeline.
+
+Save this if you've ever wanted to post every day without filming anything.
+
+Here's the entire stack. Claude Code writes the script as a simple list of beats: what the voice says, and what shows on screen.
+
+ElevenLabs reads it out loud and returns the exact timestamp of every single word.
+
+That's why each word pops the moment it's spoken.
+
+Then Remotion, a free tool that turns React code into video, animates everything: the text, the icons, the camera moves.
+
+Even the music underneath was generated from a one-line prompt.
+
+The whole thing renders in about forty seconds. Change one line in the file, and you get a new video.
+
+One system. Unlimited videos. And you never have to be on camera.
+
+Follow, I'm building this in public and sharing every piece of it.

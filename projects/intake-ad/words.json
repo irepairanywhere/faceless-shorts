@@ -1,0 +1,602 @@
+{
+ "text": "A law firm misses one in three calls.\n\nEach one is a case walking to the next firm.\n\nHere's what we install in 30 days.\n\nOne. Missed-call text-back. The second a call drops, the caller gets a text, and the conversation starts.\n\nTwo. Bilingual intake. English and Spanish, twenty-four seven, so no one hangs up because nobody understood them.\n\nThree. Instant follow-up. Every lead gets a call, a text, and an email within five minutes. Automatically.\n\nYou own the whole system after 90 days. And if you invest and don't get a qualified lead worth more than what you paid within 30 days, you get all your money back. No questions.\n\nComment INTAKE and I'll send you the setup.",
+ "voice_id": "nPczCjzI2devNBz1zQrb",
+ "speed": 1.05,
+ "words": [
+  {
+   "text": "A",
+   "start": 0.0,
+   "end": 0.093
+  },
+  {
+   "text": "law",
+   "start": 0.186,
+   "end": 0.348
+  },
+  {
+   "text": "firm",
+   "start": 0.418,
+   "end": 0.604
+  },
+  {
+   "text": "misses",
+   "start": 0.639,
+   "end": 0.94
+  },
+  {
+   "text": "one",
+   "start": 1.033,
+   "end": 1.3
+  },
+  {
+   "text": "in",
+   "start": 1.347,
+   "end": 1.416
+  },
+  {
+   "text": "three",
+   "start": 1.463,
+   "end": 1.683
+  },
+  {
+   "text": "calls.",
+   "start": 1.73,
+   "end": 2.276
+  },
+  {
+   "text": "Each",
+   "start": 2.589,
+   "end": 2.798
+  },
+  {
+   "text": "one",
+   "start": 2.868,
+   "end": 3.03
+  },
+  {
+   "text": "is",
+   "start": 3.065,
+   "end": 3.135
+  },
+  {
+   "text": "a",
+   "start": 3.181,
+   "end": 3.216
+  },
+  {
+   "text": "case",
+   "start": 3.262,
+   "end": 3.564
+  },
+  {
+   "text": "walking",
+   "start": 3.622,
+   "end": 3.959
+  },
+  {
+   "text": "to",
+   "start": 4.017,
+   "end": 4.075
+  },
+  {
+   "text": "the",
+   "start": 4.133,
+   "end": 4.203
+  },
+  {
+   "text": "next",
+   "start": 4.238,
+   "end": 4.412
+  },
+  {
+   "text": "firm.",
+   "start": 4.458,
+   "end": 4.865
+  },
+  {
+   "text": "Here's",
+   "start": 5.224,
+   "end": 5.503
+  },
+  {
+   "text": "what",
+   "start": 5.526,
+   "end": 5.642
+  },
+  {
+   "text": "we",
+   "start": 5.689,
+   "end": 5.77
+  },
+  {
+   "text": "install",
+   "start": 5.828,
+   "end": 6.165
+  },
+  {
+   "text": "in",
+   "start": 6.223,
+   "end": 6.269
+  },
+  {
+   "text": "30",
+   "start": 6.327,
+   "end": 6.513
+  },
+  {
+   "text": "days.",
+   "start": 6.571,
+   "end": 6.989
+  },
+  {
+   "text": "One.",
+   "start": 7.407,
+   "end": 7.814
+  },
+  {
+   "text": "Missed-call",
+   "start": 8.173,
+   "end": 8.824
+  },
+  {
+   "text": "text-back.",
+   "start": 8.905,
+   "end": 9.601
+  },
+  {
+   "text": "The",
+   "start": 9.915,
+   "end": 10.043
+  },
+  {
+   "text": "second",
+   "start": 10.112,
+   "end": 10.437
+  },
+  {
+   "text": "a",
+   "start": 10.495,
+   "end": 10.519
+  },
+  {
+   "text": "call",
+   "start": 10.588,
+   "end": 10.786
+  },
+  {
+   "text": "drops,",
+   "start": 10.844,
+   "end": 11.389
+  },
+  {
+   "text": "the",
+   "start": 11.459,
+   "end": 11.564
+  },
+  {
+   "text": "caller",
+   "start": 11.622,
+   "end": 11.9
+  },
+  {
+   "text": "gets",
+   "start": 11.947,
+   "end": 12.098
+  },
+  {
+   "text": "a",
+   "start": 12.132,
+   "end": 12.156
+  },
+  {
+   "text": "text,",
+   "start": 12.214,
+   "end": 12.643
+  },
+  {
+   "text": "and",
+   "start": 12.678,
+   "end": 12.817
+  },
+  {
+   "text": "the",
+   "start": 12.852,
+   "end": 12.922
+  },
+  {
+   "text": "conversation",
+   "start": 12.968,
+   "end": 13.642
+  },
+  {
+   "text": "starts.",
+   "start": 13.688,
+   "end": 14.187
+  },
+  {
+   "text": "Two.",
+   "start": 14.547,
+   "end": 15.047
+  },
+  {
+   "text": "Bilingual",
+   "start": 15.36,
+   "end": 15.987
+  },
+  {
+   "text": "intake.",
+   "start": 16.057,
+   "end": 16.58
+  },
+  {
+   "text": "English",
+   "start": 16.939,
+   "end": 17.334
+  },
+  {
+   "text": "and",
+   "start": 17.381,
+   "end": 17.45
+  },
+  {
+   "text": "Spanish,",
+   "start": 17.497,
+   "end": 18.054
+  },
+  {
+   "text": "twenty-four",
+   "start": 18.124,
+   "end": 18.565
+  },
+  {
+   "text": "seven,",
+   "start": 18.623,
+   "end": 19.087
+  },
+  {
+   "text": "so",
+   "start": 19.401,
+   "end": 19.552
+  },
+  {
+   "text": "no",
+   "start": 19.645,
+   "end": 19.737
+  },
+  {
+   "text": "one",
+   "start": 19.807,
+   "end": 19.923
+  },
+  {
+   "text": "hangs",
+   "start": 19.958,
+   "end": 20.179
+  },
+  {
+   "text": "up",
+   "start": 20.225,
+   "end": 20.318
+  },
+  {
+   "text": "because",
+   "start": 20.364,
+   "end": 20.62
+  },
+  {
+   "text": "nobody",
+   "start": 20.689,
+   "end": 21.073
+  },
+  {
+   "text": "understood",
+   "start": 21.131,
+   "end": 21.537
+  },
+  {
+   "text": "them.",
+   "start": 21.572,
+   "end": 21.862
+  },
+  {
+   "text": "Three.",
+   "start": 22.64,
+   "end": 23.139
+  },
+  {
+   "text": "Instant",
+   "start": 23.557,
+   "end": 24.022
+  },
+  {
+   "text": "follow-up.",
+   "start": 24.091,
+   "end": 24.707
+  },
+  {
+   "text": "Every",
+   "start": 25.194,
+   "end": 25.473
+  },
+  {
+   "text": "lead",
+   "start": 25.542,
+   "end": 25.74
+  },
+  {
+   "text": "gets",
+   "start": 25.786,
+   "end": 25.96
+  },
+  {
+   "text": "a",
+   "start": 26.007,
+   "end": 26.03
+  },
+  {
+   "text": "call,",
+   "start": 26.1,
+   "end": 26.669
+  },
+  {
+   "text": "a",
+   "start": 26.738,
+   "end": 26.82
+  },
+  {
+   "text": "text,",
+   "start": 26.901,
+   "end": 27.365
+  },
+  {
+   "text": "and",
+   "start": 27.388,
+   "end": 27.679
+  },
+  {
+   "text": "an",
+   "start": 27.748,
+   "end": 27.83
+  },
+  {
+   "text": "email",
+   "start": 27.888,
+   "end": 28.236
+  },
+  {
+   "text": "within",
+   "start": 28.294,
+   "end": 28.526
+  },
+  {
+   "text": "five",
+   "start": 28.584,
+   "end": 28.805
+  },
+  {
+   "text": "minutes.",
+   "start": 28.84,
+   "end": 29.316
+  },
+  {
+   "text": "Automatically.",
+   "start": 29.896,
+   "end": 30.72
+  },
+  {
+   "text": "You",
+   "start": 31.034,
+   "end": 31.173
+  },
+  {
+   "text": "own",
+   "start": 31.255,
+   "end": 31.394
+  },
+  {
+   "text": "the",
+   "start": 31.429,
+   "end": 31.498
+  },
+  {
+   "text": "whole",
+   "start": 31.556,
+   "end": 31.812
+  },
+  {
+   "text": "system",
+   "start": 31.858,
+   "end": 32.183
+  },
+  {
+   "text": "after",
+   "start": 32.23,
+   "end": 32.415
+  },
+  {
+   "text": "90",
+   "start": 32.485,
+   "end": 32.694
+  },
+  {
+   "text": "days.",
+   "start": 32.752,
+   "end": 33.182
+  },
+  {
+   "text": "And",
+   "start": 33.495,
+   "end": 33.634
+  },
+  {
+   "text": "if",
+   "start": 33.693,
+   "end": 33.762
+  },
+  {
+   "text": "you",
+   "start": 33.809,
+   "end": 33.901
+  },
+  {
+   "text": "invest",
+   "start": 33.983,
+   "end": 34.389
+  },
+  {
+   "text": "and",
+   "start": 34.436,
+   "end": 34.528
+  },
+  {
+   "text": "don't",
+   "start": 34.61,
+   "end": 34.83
+  },
+  {
+   "text": "get",
+   "start": 34.865,
+   "end": 34.981
+  },
+  {
+   "text": "a",
+   "start": 35.016,
+   "end": 35.039
+  },
+  {
+   "text": "qualified",
+   "start": 35.086,
+   "end": 35.538
+  },
+  {
+   "text": "lead",
+   "start": 35.585,
+   "end": 35.84
+  },
+  {
+   "text": "worth",
+   "start": 36.003,
+   "end": 36.258
+  },
+  {
+   "text": "more",
+   "start": 36.34,
+   "end": 36.549
+  },
+  {
+   "text": "than",
+   "start": 36.583,
+   "end": 36.699
+  },
+  {
+   "text": "what",
+   "start": 36.734,
+   "end": 36.862
+  },
+  {
+   "text": "you",
+   "start": 36.897,
+   "end": 36.978
+  },
+  {
+   "text": "paid",
+   "start": 37.071,
+   "end": 37.28
+  },
+  {
+   "text": "within",
+   "start": 37.326,
+   "end": 37.57
+  },
+  {
+   "text": "30",
+   "start": 37.64,
+   "end": 37.86
+  },
+  {
+   "text": "days,",
+   "start": 37.919,
+   "end": 38.36
+  },
+  {
+   "text": "you",
+   "start": 38.72,
+   "end": 38.813
+  },
+  {
+   "text": "get",
+   "start": 38.894,
+   "end": 38.998
+  },
+  {
+   "text": "all",
+   "start": 39.021,
+   "end": 39.114
+  },
+  {
+   "text": "your",
+   "start": 39.172,
+   "end": 39.265
+  },
+  {
+   "text": "money",
+   "start": 39.3,
+   "end": 39.463
+  },
+  {
+   "text": "back.",
+   "start": 39.497,
+   "end": 39.834
+  },
+  {
+   "text": "No",
+   "start": 40.194,
+   "end": 40.357
+  },
+  {
+   "text": "questions.",
+   "start": 40.426,
+   "end": 41.076
+  },
+  {
+   "text": "Comment",
+   "start": 41.436,
+   "end": 41.901
+  },
+  {
+   "text": "INTAKE",
+   "start": 41.947,
+   "end": 42.621
+  },
+  {
+   "text": "and",
+   "start": 42.667,
+   "end": 42.876
+  },
+  {
+   "text": "I'll",
+   "start": 42.934,
+   "end": 43.05
+  },
+  {
+   "text": "send",
+   "start": 43.097,
+   "end": 43.236
+  },
+  {
+   "text": "you",
+   "start": 43.271,
+   "end": 43.34
+  },
+  {
+   "text": "the",
+   "start": 43.375,
+   "end": 43.445
+  },
+  {
+   "text": "setup.",
+   "start": 43.48,
+   "end": 44.118
+  }
+ ]
+}

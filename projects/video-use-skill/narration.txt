@@ -1,0 +1,19 @@
+You can now edit videos by just talking to Claude Code.
+
+Save this before you pay another editor for a simple cut.
+
+The team behind Browser Use just open-sourced a skill called video-use.
+
+You drop your footage in a folder and describe the edit in plain English.
+
+It transcribes every word with timestamps, finds the silences, and cuts on word boundaries, so nothing gets chopped mid-sentence.
+
+Retakes, filler words, dead air: gone. Then it grades the color, burns in captions, and drops in B-roll where it makes sense.
+
+I ran my own ad footage through it. It found the clean take, removed the stutters, and rendered the finished cut in seconds.
+
+And it remembers every decision in a project file, so the next edit starts where the last one ended.
+
+Free. Open source. Runs on your own Mac.
+
+Follow for more free AI tools I actually use.

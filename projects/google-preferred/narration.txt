@@ -1,0 +1,15 @@
+Google built a button that changes how its AI shows your site to your readers.
+
+It's called Google Preferred Sources, and it now runs inside AI Overviews and AI Mode.
+
+A reader clicks once. Google saves your whole domain as a source they prefer.
+
+From then on, when Google's AI cites your page, that reader sees a Preferred label on your link.
+
+No ranking trick. The reader chose you, so Google's AI marks you.
+
+Google says people are twice as likely to click a preferred source. Over three hundred thousand sites are already picked.
+
+Setup takes two minutes: paste Google's script, or link to the preferences page with your domain.
+
+It's live on our footer. Comment PREFERRED and I'll send the snippet.

@@ -1,0 +1,1389 @@
+{
+ "fps": 30,
+ "durationSec": 54.306,
+ "voSrc": "audio/video-use-skill/voice.mp3",
+ "musicSrc": "audio/video-use-skill/music.mp3",
+ "musicVolume": 0.11,
+ "watermark": "rocketlaunchmedia.com",
+ "beats": [
+  {
+   "id": "hook",
+   "start": 0.0,
+   "lines": [
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "You",
+       "t": 0.0,
+       "end": 0.174,
+       "emph": false
+      },
+      {
+       "text": "can",
+       "t": 0.221,
+       "end": 0.337,
+       "emph": false
+      },
+      {
+       "text": "now",
+       "t": 0.383,
+       "end": 0.522,
+       "emph": false
+      },
+      {
+       "text": "edit",
+       "t": 0.615,
+       "end": 0.871,
+       "emph": false
+      },
+      {
+       "text": "videos",
+       "t": 0.917,
+       "end": 1.335,
+       "emph": false
+      }
+     ],
+     "size": "md",
+     "box": false
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "by",
+       "t": 1.382,
+       "end": 1.474,
+       "emph": true
+      },
+      {
+       "text": "just",
+       "t": 1.544,
+       "end": 1.695,
+       "emph": true
+      },
+      {
+       "text": "talking",
+       "t": 1.73,
+       "end": 2.02,
+       "emph": true
+      },
+      {
+       "text": "to",
+       "t": 2.055,
+       "end": 2.101,
+       "emph": true
+      }
+     ],
+     "size": "lg",
+     "box": false
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "CLAUDE",
+       "t": 2.159,
+       "end": 2.438,
+       "emph": true
+      },
+      {
+       "text": "CODE",
+       "t": 2.485,
+       "end": 2.949,
+       "emph": true
+      }
+     ],
+     "size": "xl",
+     "box": false
+    },
+    {
+     "kind": "card",
+     "name": "claude",
+     "w": 760,
+     "t": 2.999,
+     "title": "Claude Code",
+     "subtitle": "Video editor \u00b7 Free skill"
+    }
+   ],
+   "layout": "center",
+   "grid": false,
+   "deco": true,
+   "camera": {
+    "zoom": [
+     1,
+     1.06
+    ]
+   },
+   "end": 3.247
+  },
+  {
+   "id": "save",
+   "start": 3.247,
+   "lines": [
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "Save",
+       "t": 3.367,
+       "end": 3.657,
+       "emph": false
+      },
+      {
+       "text": "this",
+       "t": 3.692,
+       "end": 3.831,
+       "emph": false
+      },
+      {
+       "text": "before",
+       "t": 3.901,
+       "end": 4.203,
+       "emph": false
+      },
+      {
+       "text": "you",
+       "t": 4.261,
+       "end": 4.342,
+       "emph": false
+      },
+      {
+       "text": "pay",
+       "t": 4.412,
+       "end": 4.563,
+       "emph": false
+      }
+     ],
+     "size": "md",
+     "box": false
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "another",
+       "t": 4.609,
+       "end": 4.876,
+       "emph": true
+      },
+      {
+       "text": "editor",
+       "t": 4.946,
+       "end": 5.294,
+       "emph": true
+      }
+     ],
+     "size": "xl",
+     "box": false
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "for",
+       "t": 5.364,
+       "end": 5.48,
+       "emph": false
+      },
+      {
+       "text": "a",
+       "t": 5.526,
+       "end": 5.55,
+       "emph": false
+      },
+      {
+       "text": "simple",
+       "t": 5.619,
+       "end": 5.933,
+       "emph": false
+      },
+      {
+       "text": "cut.",
+       "t": 5.968,
+       "end": 6.362,
+       "emph": false
+      }
+     ],
+     "size": "md",
+     "box": false,
+     "color": "#8E8E8E"
+    },
+    {
+     "kind": "icon",
+     "name": "bookmark",
+     "w": 150,
+     "t": 6.412,
+     "rotate": 0
+    }
+   ],
+   "layout": "center",
+   "grid": true,
+   "deco": false,
+   "camera": {
+    "zoom": [
+     1,
+     1.05
+    ]
+   },
+   "transition": "whip",
+   "end": 6.73
+  },
+  {
+   "id": "github",
+   "start": 6.73,
+   "lines": [
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "The",
+       "t": 6.85,
+       "end": 6.966,
+       "emph": false
+      },
+      {
+       "text": "team",
+       "t": 7.024,
+       "end": 7.221,
+       "emph": false
+      },
+      {
+       "text": "behind",
+       "t": 7.279,
+       "end": 7.593,
+       "emph": false
+      },
+      {
+       "text": "Browser",
+       "t": 7.651,
+       "end": 8.139,
+       "emph": true
+      },
+      {
+       "text": "Use",
+       "t": 8.255,
+       "end": 8.557,
+       "emph": true
+      }
+     ],
+     "size": "lg",
+     "box": false
+    },
+    {
+     "kind": "badge",
+     "icon": "github",
+     "size": 170,
+     "t": 8.607
+    },
+    {
+     "kind": "image",
+     "src": "images/video-use-skill/readme.png",
+     "w": 880,
+     "t": 8.557,
+     "tilt": 0,
+     "blur": 3,
+     "reveal": true
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "just",
+       "t": 8.615,
+       "end": 8.812,
+       "emph": false
+      },
+      {
+       "text": "open-sourced",
+       "t": 8.893,
+       "end": 9.578,
+       "emph": false
+      },
+      {
+       "text": "a",
+       "t": 9.613,
+       "end": 9.648,
+       "emph": false
+      },
+      {
+       "text": "skill",
+       "t": 9.706,
+       "end": 10.124,
+       "emph": false
+      },
+      {
+       "text": "called",
+       "t": 10.437,
+       "end": 10.693,
+       "emph": false
+      }
+     ],
+     "size": "md",
+     "box": false
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "video-use",
+       "t": 10.739,
+       "end": 11.645,
+       "emph": true
+      }
+     ],
+     "size": "xl",
+     "box": false,
+     "color": "#8E8E8E"
+    }
+   ],
+   "layout": "center",
+   "grid": false,
+   "deco": false,
+   "camera": {
+    "zoom": [
+     1,
+     1.05
+    ]
+   },
+   "end": 11.943
+  },
+  {
+   "id": "how1",
+   "start": 11.943,
+   "lines": [
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "You",
+       "t": 12.063,
+       "end": 12.19,
+       "emph": false
+      },
+      {
+       "text": "drop",
+       "t": 12.249,
+       "end": 12.481,
+       "emph": false
+      },
+      {
+       "text": "your",
+       "t": 12.539,
+       "end": 12.643,
+       "emph": false
+      },
+      {
+       "text": "footage",
+       "t": 12.69,
+       "end": 12.992,
+       "emph": false
+      },
+      {
+       "text": "in",
+       "t": 13.026,
+       "end": 13.084,
+       "emph": false
+      },
+      {
+       "text": "a",
+       "t": 13.119,
+       "end": 13.142,
+       "emph": false
+      },
+      {
+       "text": "folder",
+       "t": 13.212,
+       "end": 13.607,
+       "emph": false
+      }
+     ],
+     "size": "md",
+     "box": false
+    },
+    {
+     "kind": "chat",
+     "text": "Cut the false starts, keep the best take, and add captions.",
+     "who": "you",
+     "w": 860,
+     "t": 13.657
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "and",
+       "t": 13.723,
+       "end": 13.886,
+       "emph": false
+      },
+      {
+       "text": "describe",
+       "t": 13.921,
+       "end": 14.339,
+       "emph": false
+      },
+      {
+       "text": "the",
+       "t": 14.374,
+       "end": 14.443,
+       "emph": false
+      },
+      {
+       "text": "edit",
+       "t": 14.501,
+       "end": 14.71,
+       "emph": false
+      },
+      {
+       "text": "in",
+       "t": 14.768,
+       "end": 14.838,
+       "emph": false
+      }
+     ],
+     "size": "md",
+     "box": false
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "plain",
+       "t": 14.896,
+       "end": 15.128,
+       "emph": true
+      },
+      {
+       "text": "English.",
+       "t": 15.186,
+       "end": 15.639,
+       "emph": true
+      }
+     ],
+     "size": "xl",
+     "box": false
+    }
+   ],
+   "layout": "top",
+   "grid": true,
+   "deco": false,
+   "camera": {
+    "zoom": [
+     1,
+     1.05
+    ]
+   },
+   "transition": "whip",
+   "end": 15.833
+  },
+  {
+   "id": "how2",
+   "start": 15.833,
+   "lines": [
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "It",
+       "t": 15.953,
+       "end": 16.092,
+       "emph": false
+      },
+      {
+       "text": "transcribes",
+       "t": 16.138,
+       "end": 16.893,
+       "emph": false
+      },
+      {
+       "text": "every",
+       "t": 17.009,
+       "end": 17.323,
+       "emph": true
+      },
+      {
+       "text": "word",
+       "t": 17.369,
+       "end": 17.566,
+       "emph": true
+      },
+      {
+       "text": "with",
+       "t": 17.601,
+       "end": 17.717,
+       "emph": false
+      },
+      {
+       "text": "timestamps,",
+       "t": 17.752,
+       "end": 18.553,
+       "emph": false
+      }
+     ],
+     "size": "md",
+     "box": false
+    },
+    {
+     "kind": "terminal",
+     "lines": [
+      "$ claude  \u203a  edit this video",
+      "\u2713 transcribed 43.3s \u00b7 312 words",
+      "\u2713 8 silences found",
+      "\u2713 3 cuts on word boundaries"
+     ],
+     "w": 900,
+     "title": "video-use",
+     "t": 18.603
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "finds",
+       "t": 18.785,
+       "end": 19.122,
+       "emph": false
+      },
+      {
+       "text": "the",
+       "t": 19.169,
+       "end": 19.238,
+       "emph": false
+      },
+      {
+       "text": "silences,",
+       "t": 19.296,
+       "end": 19.946,
+       "emph": false
+      }
+     ],
+     "size": "md",
+     "box": false
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "and",
+       "t": 19.97,
+       "end": 20.063,
+       "emph": false
+      },
+      {
+       "text": "cuts",
+       "t": 20.121,
+       "end": 20.353,
+       "emph": false
+      },
+      {
+       "text": "on",
+       "t": 20.411,
+       "end": 20.504,
+       "emph": false
+      },
+      {
+       "text": "word",
+       "t": 20.562,
+       "end": 20.747,
+       "emph": true
+      },
+      {
+       "text": "boundaries,",
+       "t": 20.794,
+       "end": 21.398,
+       "emph": true
+      }
+     ],
+     "size": "lg",
+     "box": false
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "so",
+       "t": 21.665,
+       "end": 21.827,
+       "emph": false
+      },
+      {
+       "text": "nothing",
+       "t": 21.943,
+       "end": 22.292,
+       "emph": false
+      },
+      {
+       "text": "gets",
+       "t": 22.338,
+       "end": 22.512,
+       "emph": false
+      },
+      {
+       "text": "chopped",
+       "t": 22.559,
+       "end": 22.907,
+       "emph": false
+      },
+      {
+       "text": "mid-sentence.",
+       "t": 22.977,
+       "end": 23.801,
+       "emph": false
+      }
+     ],
+     "size": "sm",
+     "box": false,
+     "color": "#8E8E8E"
+    }
+   ],
+   "layout": "top",
+   "grid": true,
+   "deco": false,
+   "camera": {
+    "zoom": [
+     1,
+     1.05
+    ]
+   },
+   "end": 24.041
+  },
+  {
+   "id": "features",
+   "start": 24.041,
+   "lines": [
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "Retakes",
+       "t": 24.161,
+       "end": 24.962,
+       "emph": false
+      },
+      {
+       "text": "\u00b7",
+       "t": 24.962,
+       "end": 25.162,
+       "emph": false
+      },
+      {
+       "text": "Filler",
+       "t": 25.101,
+       "end": 25.426,
+       "emph": false
+      },
+      {
+       "text": "words",
+       "t": 25.484,
+       "end": 26.018,
+       "emph": false
+      },
+      {
+       "text": "\u00b7",
+       "t": 26.018,
+       "end": 26.218,
+       "emph": false
+      },
+      {
+       "text": "Dead",
+       "t": 26.158,
+       "end": 26.378,
+       "emph": false
+      },
+      {
+       "text": "air",
+       "t": 26.425,
+       "end": 26.831,
+       "emph": false
+      }
+     ],
+     "size": "md",
+     "box": true
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "gone.",
+       "t": 27.098,
+       "end": 27.586,
+       "emph": true
+      }
+     ],
+     "size": "xl",
+     "box": false,
+     "emphColor": "#E5744C"
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "Then",
+       "t": 28.004,
+       "end": 28.189,
+       "emph": false
+      },
+      {
+       "text": "it",
+       "t": 28.248,
+       "end": 28.306,
+       "emph": false
+      },
+      {
+       "text": "grades",
+       "t": 28.352,
+       "end": 28.654,
+       "emph": false
+      },
+      {
+       "text": "the",
+       "t": 28.7,
+       "end": 28.77,
+       "emph": false
+      },
+      {
+       "text": "color,",
+       "t": 28.817,
+       "end": 29.327,
+       "emph": false
+      }
+     ],
+     "size": "md",
+     "box": false
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "burns",
+       "t": 29.49,
+       "end": 29.815,
+       "emph": false
+      },
+      {
+       "text": "in",
+       "t": 29.862,
+       "end": 29.931,
+       "emph": false
+      },
+      {
+       "text": "captions,",
+       "t": 30.001,
+       "end": 30.744,
+       "emph": true
+      }
+     ],
+     "size": "lg",
+     "box": false
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "and",
+       "t": 30.906,
+       "end": 31.057,
+       "emph": false
+      },
+      {
+       "text": "drops",
+       "t": 31.092,
+       "end": 31.406,
+       "emph": false
+      },
+      {
+       "text": "in",
+       "t": 31.452,
+       "end": 31.522,
+       "emph": false
+      },
+      {
+       "text": "B-roll",
+       "t": 31.591,
+       "end": 32.044,
+       "emph": true
+      },
+      {
+       "text": "where",
+       "t": 32.16,
+       "end": 32.358,
+       "emph": false
+      },
+      {
+       "text": "it",
+       "t": 32.393,
+       "end": 32.439,
+       "emph": false
+      },
+      {
+       "text": "makes",
+       "t": 32.485,
+       "end": 32.671,
+       "emph": false
+      },
+      {
+       "text": "sense.",
+       "t": 32.706,
+       "end": 33.217,
+       "emph": false
+      }
+     ],
+     "size": "lg",
+     "box": false
+    }
+   ],
+   "layout": "center",
+   "grid": false,
+   "deco": true,
+   "camera": {
+    "zoom": [
+     1,
+     1.05
+    ]
+   },
+   "transition": "whip",
+   "end": 33.677
+  },
+  {
+   "id": "proof",
+   "start": 33.677,
+   "lines": [
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "I",
+       "t": 33.797,
+       "end": 33.844,
+       "emph": false
+      },
+      {
+       "text": "ran",
+       "t": 33.96,
+       "end": 34.111,
+       "emph": false
+      },
+      {
+       "text": "my",
+       "t": 34.169,
+       "end": 34.25,
+       "emph": false
+      },
+      {
+       "text": "own",
+       "t": 34.308,
+       "end": 34.436,
+       "emph": false
+      },
+      {
+       "text": "ad",
+       "t": 34.471,
+       "end": 34.61,
+       "emph": false
+      },
+      {
+       "text": "footage",
+       "t": 34.656,
+       "end": 34.947,
+       "emph": false
+      },
+      {
+       "text": "through",
+       "t": 34.982,
+       "end": 35.202,
+       "emph": false
+      },
+      {
+       "text": "it.",
+       "t": 35.237,
+       "end": 35.434,
+       "emph": false
+      }
+     ],
+     "size": "md",
+     "box": false
+    },
+    {
+     "kind": "terminal",
+     "lines": [
+      "$ render.py edl.json -o final.mp4",
+      "\u2713 kept take 2 (clean)",
+      "\u2713 removed 2 stutters",
+      "\u2713 final.mp4 \u00b7 23.4s"
+     ],
+     "w": 900,
+     "title": "video-use",
+     "t": 35.484
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "It",
+       "t": 35.748,
+       "end": 35.887,
+       "emph": false
+      },
+      {
+       "text": "found",
+       "t": 35.934,
+       "end": 36.131,
+       "emph": false
+      },
+      {
+       "text": "the",
+       "t": 36.166,
+       "end": 36.235,
+       "emph": false
+      },
+      {
+       "text": "clean",
+       "t": 36.27,
+       "end": 36.514,
+       "emph": false
+      },
+      {
+       "text": "take,",
+       "t": 36.572,
+       "end": 37.002,
+       "emph": false
+      },
+      {
+       "text": "removed",
+       "t": 37.315,
+       "end": 37.675,
+       "emph": false
+      },
+      {
+       "text": "the",
+       "t": 37.698,
+       "end": 37.768,
+       "emph": false
+      },
+      {
+       "text": "stutters,",
+       "t": 37.814,
+       "end": 38.406,
+       "emph": false
+      }
+     ],
+     "size": "sm",
+     "box": false,
+     "color": "#8E8E8E"
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "and",
+       "t": 38.546,
+       "end": 38.708,
+       "emph": false
+      },
+      {
+       "text": "rendered",
+       "t": 38.79,
+       "end": 39.091,
+       "emph": false
+      },
+      {
+       "text": "the",
+       "t": 39.115,
+       "end": 39.184,
+       "emph": false
+      },
+      {
+       "text": "finished",
+       "t": 39.242,
+       "end": 39.544,
+       "emph": false
+      },
+      {
+       "text": "cut",
+       "t": 39.579,
+       "end": 39.765,
+       "emph": false
+      }
+     ],
+     "size": "md",
+     "box": false
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "in",
+       "t": 39.811,
+       "end": 39.869,
+       "emph": true
+      },
+      {
+       "text": "seconds.",
+       "t": 39.951,
+       "end": 40.531,
+       "emph": true
+      }
+     ],
+     "size": "xl",
+     "box": false
+    }
+   ],
+   "layout": "center",
+   "grid": true,
+   "deco": false,
+   "camera": {
+    "zoom": [
+     1,
+     1.05
+    ]
+   },
+   "end": 40.725
+  },
+  {
+   "id": "memory",
+   "start": 40.725,
+   "lines": [
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "And",
+       "t": 40.845,
+       "end": 40.996,
+       "emph": false
+      },
+      {
+       "text": "it",
+       "t": 41.054,
+       "end": 41.123,
+       "emph": false
+      },
+      {
+       "text": "remembers",
+       "t": 41.181,
+       "end": 41.634,
+       "emph": false
+      },
+      {
+       "text": "every",
+       "t": 41.773,
+       "end": 42.087,
+       "emph": false
+      },
+      {
+       "text": "decision",
+       "t": 42.157,
+       "end": 42.621,
+       "emph": false
+      }
+     ],
+     "size": "md",
+     "box": false
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "in",
+       "t": 42.679,
+       "end": 42.749,
+       "emph": false
+      },
+      {
+       "text": "a",
+       "t": 42.795,
+       "end": 42.818,
+       "emph": false
+      },
+      {
+       "text": "project",
+       "t": 42.865,
+       "end": 43.26,
+       "emph": true
+      },
+      {
+       "text": "file,",
+       "t": 43.294,
+       "end": 43.736,
+       "emph": true
+      }
+     ],
+     "size": "lg",
+     "box": false
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "so",
+       "t": 44.049,
+       "end": 44.2,
+       "emph": false
+      },
+      {
+       "text": "the",
+       "t": 44.258,
+       "end": 44.339,
+       "emph": false
+      },
+      {
+       "text": "next",
+       "t": 44.421,
+       "end": 44.653,
+       "emph": false
+      },
+      {
+       "text": "edit",
+       "t": 44.723,
+       "end": 44.943,
+       "emph": false
+      },
+      {
+       "text": "starts",
+       "t": 45.013,
+       "end": 45.303,
+       "emph": false
+      }
+     ],
+     "size": "md",
+     "box": false
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "where",
+       "t": 45.338,
+       "end": 45.466,
+       "emph": false
+      },
+      {
+       "text": "the",
+       "t": 45.489,
+       "end": 45.558,
+       "emph": false
+      },
+      {
+       "text": "last",
+       "t": 45.616,
+       "end": 45.872,
+       "emph": false
+      },
+      {
+       "text": "one",
+       "t": 45.942,
+       "end": 46.081,
+       "emph": false
+      },
+      {
+       "text": "ended.",
+       "t": 46.116,
+       "end": 46.487,
+       "emph": true
+      }
+     ],
+     "size": "lg",
+     "box": false
+    }
+   ],
+   "layout": "center",
+   "grid": false,
+   "deco": false,
+   "camera": {
+    "zoom": [
+     1,
+     1.05
+    ]
+   },
+   "transition": "whip",
+   "end": 46.785
+  },
+  {
+   "id": "summary",
+   "start": 46.785,
+   "lines": [
+    {
+     "kind": "image",
+     "src": "images/video-use-skill/hero.png",
+     "w": 700,
+     "t": 46.955,
+     "tilt": -3,
+     "blur": 0,
+     "reveal": true
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "Free.",
+       "t": 46.905,
+       "end": 47.37,
+       "emph": true
+      }
+     ],
+     "size": "md",
+     "box": true
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "Open",
+       "t": 47.73,
+       "end": 48.043,
+       "emph": true
+      },
+      {
+       "text": "source.",
+       "t": 48.113,
+       "end": 48.623,
+       "emph": true
+      }
+     ],
+     "size": "md",
+     "box": true
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "Runs",
+       "t": 49.041,
+       "end": 49.308,
+       "emph": false
+      },
+      {
+       "text": "on",
+       "t": 49.367,
+       "end": 49.436,
+       "emph": false
+      },
+      {
+       "text": "your",
+       "t": 49.483,
+       "end": 49.599,
+       "emph": false
+      },
+      {
+       "text": "own",
+       "t": 49.645,
+       "end": 49.773,
+       "emph": true
+      },
+      {
+       "text": "Mac.",
+       "t": 49.831,
+       "end": 50.249,
+       "emph": true
+      }
+     ],
+     "size": "md",
+     "box": true
+    }
+   ],
+   "layout": "center",
+   "grid": false,
+   "deco": false,
+   "camera": {
+    "zoom": [
+     1,
+     1.05
+    ]
+   },
+   "end": 50.547
+  },
+  {
+   "id": "cta",
+   "start": 50.547,
+   "lines": [
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "Follow",
+       "t": 50.667,
+       "end": 50.969,
+       "emph": false
+      },
+      {
+       "text": "for",
+       "t": 51.027,
+       "end": 51.131,
+       "emph": false
+      },
+      {
+       "text": "more",
+       "t": 51.189,
+       "end": 51.363,
+       "emph": false
+      }
+     ],
+     "size": "md",
+     "box": false
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "free",
+       "t": 51.41,
+       "end": 51.619,
+       "emph": true
+      },
+      {
+       "text": "AI",
+       "t": 51.665,
+       "end": 51.932,
+       "emph": true
+      },
+      {
+       "text": "tools",
+       "t": 52.002,
+       "end": 52.281,
+       "emph": true
+      }
+     ],
+     "size": "xl",
+     "box": false
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "I",
+       "t": 52.327,
+       "end": 52.35,
+       "emph": false
+      },
+      {
+       "text": "actually",
+       "t": 52.42,
+       "end": 52.733,
+       "emph": false
+      },
+      {
+       "text": "use.",
+       "t": 52.78,
+       "end": 53.407,
+       "emph": false
+      }
+     ],
+     "size": "md",
+     "box": false,
+     "color": "#8E8E8E"
+    }
+   ],
+   "layout": "center",
+   "grid": false,
+   "deco": true,
+   "camera": {
+    "zoom": [
+     1,
+     1.08
+    ]
+   },
+   "end": 54.306
+  }
+ ]
+}

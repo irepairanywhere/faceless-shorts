@@ -1,0 +1,300 @@
+{
+  "slug": "video-use-skill",
+  "voice_id": "nPczCjzI2devNBz1zQrb",
+  "speed": 1.05,
+  "watermark": "rocketlaunchmedia.com",
+  "music": {
+    "prompt": "Minimal lo-fi tech background bed for a short explainer video: soft electric piano chords, light clicky percussion, steady and calm, no vocals, no melody hooks, loopable",
+    "volume": 0.11
+  },
+  "beats": [
+    {
+      "id": "hook",
+      "vo": "You can now edit videos by just talking to Claude Code.",
+      "deco": true,
+      "grid": false,
+      "camera": {
+        "zoom": [
+          1,
+          1.06
+        ]
+      },
+      "lines": [
+        {
+          "text": "You can now edit videos",
+          "size": "md"
+        },
+        {
+          "text": "*by just talking to*",
+          "size": "lg"
+        },
+        {
+          "text": "*CLAUDE CODE*",
+          "size": "xl"
+        },
+        {
+          "card": "claude",
+          "w": 760,
+          "title": "Claude Code",
+          "subtitle": "Video editor \u00b7 Free skill"
+        }
+      ]
+    },
+    {
+      "id": "save",
+      "vo": "Save this before you pay another editor for a simple cut.",
+      "transition": "whip",
+      "lines": [
+        {
+          "text": "Save this before you pay",
+          "size": "md"
+        },
+        {
+          "text": "*another editor*",
+          "size": "xl"
+        },
+        {
+          "text": "for a simple cut.",
+          "size": "md",
+          "color": "#8E8E8E"
+        },
+        {
+          "icon": "bookmark",
+          "w": 150
+        }
+      ]
+    },
+    {
+      "id": "github",
+      "vo": "The team behind Browser Use just open-sourced a skill called video-use.",
+      "grid": false,
+      "lines": [
+        {
+          "text": "The team behind *Browser Use*",
+          "size": "lg"
+        },
+        {
+          "badge": "icon:github",
+          "size": 170
+        },
+        {
+          "image": "readme.png",
+          "w": 880,
+          "blur": 3,
+          "after": "Use"
+        },
+        {
+          "text": "just open-sourced a skill called",
+          "size": "md"
+        },
+        {
+          "text": "*video-use*",
+          "size": "xl",
+          "color": "#8E8E8E"
+        }
+      ]
+    },
+    {
+      "id": "how1",
+      "vo": "You drop your footage in a folder and describe the edit in plain English.",
+      "layout": "top",
+      "transition": "whip",
+      "lines": [
+        {
+          "text": "You drop your footage in a folder",
+          "size": "md"
+        },
+        {
+          "chat": "Cut the false starts, keep the best take, and add captions.",
+          "who": "you",
+          "w": 860
+        },
+        {
+          "text": "and describe the edit in",
+          "size": "md"
+        },
+        {
+          "text": "*plain English.*",
+          "size": "xl"
+        }
+      ]
+    },
+    {
+      "id": "how2",
+      "vo": "It transcribes every word with timestamps, finds the silences, and cuts on word boundaries, so nothing gets chopped mid-sentence.",
+      "layout": "top",
+      "lines": [
+        {
+          "text": "It transcribes *every word* with timestamps,",
+          "size": "md"
+        },
+        {
+          "terminal": [
+            "$ claude  \u203a  edit this video",
+            "\u2713 transcribed 43.3s \u00b7 312 words",
+            "\u2713 8 silences found",
+            "\u2713 3 cuts on word boundaries"
+          ],
+          "w": 900,
+          "title": "video-use"
+        },
+        {
+          "text": "finds the silences,",
+          "size": "md"
+        },
+        {
+          "text": "and cuts on *word boundaries,*",
+          "size": "lg"
+        },
+        {
+          "text": "so nothing gets chopped mid-sentence.",
+          "size": "sm",
+          "color": "#8E8E8E"
+        }
+      ]
+    },
+    {
+      "id": "features",
+      "vo": "Retakes, filler words, dead air: gone. Then it grades the color, burns in captions, and drops in B-roll where it makes sense.",
+      "deco": true,
+      "grid": false,
+      "transition": "whip",
+      "lines": [
+        {
+          "text": "Retakes \u00b7 Filler words \u00b7 Dead air",
+          "size": "md",
+          "box": true
+        },
+        {
+          "text": "*gone.*",
+          "size": "xl",
+          "emphColor": "#E5744C"
+        },
+        {
+          "text": "Then it grades the color,",
+          "size": "md"
+        },
+        {
+          "text": "burns in *captions,*",
+          "size": "lg"
+        },
+        {
+          "text": "and drops in *B-roll* where it makes sense.",
+          "size": "lg"
+        }
+      ]
+    },
+    {
+      "id": "proof",
+      "vo": "I ran my own ad footage through it. It found the clean take, removed the stutters, and rendered the finished cut in seconds.",
+      "lines": [
+        {
+          "text": "I ran my own ad footage through it.",
+          "size": "md"
+        },
+        {
+          "terminal": [
+            "$ render.py edl.json -o final.mp4",
+            "\u2713 kept take 2 (clean)",
+            "\u2713 removed 2 stutters",
+            "\u2713 final.mp4 \u00b7 23.4s"
+          ],
+          "w": 900,
+          "title": "video-use"
+        },
+        {
+          "text": "It found the clean take, removed the stutters,",
+          "size": "sm",
+          "color": "#8E8E8E"
+        },
+        {
+          "text": "and rendered the finished cut",
+          "size": "md"
+        },
+        {
+          "text": "*in seconds.*",
+          "size": "xl"
+        }
+      ]
+    },
+    {
+      "id": "memory",
+      "vo": "And it remembers every decision in a project file, so the next edit starts where the last one ended.",
+      "grid": false,
+      "transition": "whip",
+      "lines": [
+        {
+          "text": "And it remembers every decision",
+          "size": "md"
+        },
+        {
+          "text": "in a *project file,*",
+          "size": "lg"
+        },
+        {
+          "text": "so the next edit starts",
+          "size": "md"
+        },
+        {
+          "text": "where the last one *ended.*",
+          "size": "lg"
+        }
+      ]
+    },
+    {
+      "id": "summary",
+      "vo": "Free. Open source. Runs on your own Mac.",
+      "grid": false,
+      "lines": [
+        {
+          "image": "hero.png",
+          "w": 700,
+          "tilt": -3,
+          "at": 0.05
+        },
+        {
+          "text": "*Free.*",
+          "size": "md",
+          "box": true
+        },
+        {
+          "text": "*Open source.*",
+          "size": "md",
+          "box": true
+        },
+        {
+          "text": "Runs on your *own Mac.*",
+          "size": "md",
+          "box": true
+        }
+      ]
+    },
+    {
+      "id": "cta",
+      "vo": "Follow for more free AI tools I actually use.",
+      "deco": true,
+      "grid": false,
+      "camera": {
+        "zoom": [
+          1,
+          1.08
+        ]
+      },
+      "lines": [
+        {
+          "text": "Follow for more",
+          "size": "md"
+        },
+        {
+          "text": "*free AI tools*",
+          "size": "xl"
+        },
+        {
+          "text": "I actually use.",
+          "size": "md",
+          "color": "#8E8E8E"
+        }
+      ]
+    }
+  ]
+}

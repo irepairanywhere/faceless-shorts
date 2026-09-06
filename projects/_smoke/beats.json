@@ -1,0 +1,33 @@
+{
+  "title": "template smoke test (v7 elements)",
+  "theme": "paper",
+  "anim": "pop",
+  "speed": 1.1,
+  "watermark": "rocketlaunchmedia.com",
+  "no_music": true,
+  "sfx_level": 0.7,
+  "beats": [
+    {
+      "id": "one",
+      "vo": "New icons, animated code, and motion trails.",
+      "layout": "top",
+      "lines": [
+        {"text": "New *icons,*", "size": "lg", "annot": "circle"},
+        {"icon": "mouse-pointer-click", "w": 150, "bg": "#E5744C", "color": "#FFFFFF", "after": "icons,"},
+        {"text": "animated *code,*", "size": "md"},
+        {"code": ["<script async src=", "  \"https://news.google.com/swg/js/v1/publisher.js\">", "</script>", "<div google-add-preferred-source-btn></div>"], "lang": "html", "title": "footer.html", "w": 960, "after": "code,"},
+        {"text": "and *motion trails.*", "size": "md", "fit": true}
+      ]
+    },
+    {
+      "id": "two",
+      "transition": "push",
+      "vo": "Plus Lottie animations that actually move.",
+      "lines": [
+        {"text": "Plus *Lottie*", "size": "xl", "fit": true, "annot": "underline"},
+        {"lottie": "AndroidWave.json", "w": 520, "after": "Lottie"},
+        {"text": "animations that actually *move.*", "size": "md"}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1149 @@
+{
+ "fps": 30,
+ "durationSec": 39.633,
+ "voSrc": "audio/google-preferred/voice.mp3",
+ "musicSrc": "audio/google-preferred/music.mp3",
+ "musicVolume": 0.1,
+ "watermark": "rocketlaunchmedia.com",
+ "theme": "paper",
+ "anim": "pop",
+ "annot": null,
+ "beats": [
+  {
+   "id": "hook",
+   "start": 0.0,
+   "lines": [
+    {
+     "kind": "image",
+     "src": "images/google-preferred/badge.png",
+     "w": 640,
+     "t": 0.05,
+     "tilt": -3,
+     "blur": 0,
+     "reveal": false
+    },
+    {
+     "kind": "gap",
+     "h": 10
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "Google",
+       "t": 0.0,
+       "end": 0.337,
+       "emph": false
+      },
+      {
+       "text": "built",
+       "t": 0.372,
+       "end": 0.546,
+       "emph": false
+      },
+      {
+       "text": "a",
+       "t": 0.592,
+       "end": 0.615,
+       "emph": false
+      },
+      {
+       "text": "button",
+       "t": 0.673,
+       "end": 0.929,
+       "emph": true
+      }
+     ],
+     "size": "lg",
+     "box": false,
+     "annot": "circle"
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "that",
+       "t": 0.964,
+       "end": 1.08,
+       "emph": false
+      },
+      {
+       "text": "changes",
+       "t": 1.126,
+       "end": 1.498,
+       "emph": false
+      },
+      {
+       "text": "how",
+       "t": 1.544,
+       "end": 1.649,
+       "emph": false
+      },
+      {
+       "text": "its",
+       "t": 1.707,
+       "end": 1.811,
+       "emph": false
+      },
+      {
+       "text": "AI",
+       "t": 1.858,
+       "end": 2.159,
+       "emph": true
+      }
+     ],
+     "size": "md",
+     "box": false
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "shows",
+       "t": 2.229,
+       "end": 2.461,
+       "emph": false
+      },
+      {
+       "text": "your",
+       "t": 2.508,
+       "end": 2.624,
+       "emph": true
+      },
+      {
+       "text": "site",
+       "t": 2.67,
+       "end": 2.879,
+       "emph": true
+      },
+      {
+       "text": "to",
+       "t": 2.902,
+       "end": 2.949,
+       "emph": false
+      },
+      {
+       "text": "your",
+       "t": 3.007,
+       "end": 3.111,
+       "emph": false
+      },
+      {
+       "text": "readers.",
+       "t": 3.158,
+       "end": 3.657,
+       "emph": false
+      }
+     ],
+     "size": "md",
+     "box": false
+    }
+   ],
+   "layout": "center",
+   "grid": true,
+   "deco": false,
+   "camera": {
+    "zoom": [
+     1,
+     1.06
+    ]
+   },
+   "end": 3.827
+  },
+  {
+   "id": "name",
+   "start": 3.827,
+   "lines": [
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "It's",
+       "t": 3.947,
+       "end": 4.11,
+       "emph": false
+      },
+      {
+       "text": "called",
+       "t": 4.145,
+       "end": 4.365,
+       "emph": false
+      }
+     ],
+     "size": "md",
+     "box": false
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "Google",
+       "t": 4.423,
+       "end": 4.748,
+       "emph": true
+      }
+     ],
+     "size": "xl",
+     "box": false,
+     "fit": true
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "Preferred",
+       "t": 4.783,
+       "end": 5.143,
+       "emph": true
+      },
+      {
+       "text": "Sources",
+       "t": 5.201,
+       "end": 5.805,
+       "emph": true
+      }
+     ],
+     "size": "xl",
+     "box": false,
+     "fit": true,
+     "annot": "underline"
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "and",
+       "t": 5.991,
+       "end": 6.13,
+       "emph": false
+      },
+      {
+       "text": "it",
+       "t": 6.188,
+       "end": 6.258,
+       "emph": false
+      },
+      {
+       "text": "now",
+       "t": 6.316,
+       "end": 6.478,
+       "emph": false
+      },
+      {
+       "text": "runs",
+       "t": 6.56,
+       "end": 6.792,
+       "emph": false
+      },
+      {
+       "text": "inside",
+       "t": 6.85,
+       "end": 7.221,
+       "emph": false
+      }
+     ],
+     "size": "sm",
+     "box": false
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "AI",
+       "t": 7.578,
+       "end": 7.778,
+       "emph": false
+      },
+      {
+       "text": "Overviews",
+       "t": 7.658,
+       "end": 7.858,
+       "emph": false
+      }
+     ],
+     "size": "md",
+     "box": true
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "AI",
+       "t": 8.541,
+       "end": 8.741,
+       "emph": false
+      },
+      {
+       "text": "Mode",
+       "t": 8.621,
+       "end": 8.821,
+       "emph": false
+      }
+     ],
+     "size": "md",
+     "box": true
+    }
+   ],
+   "layout": "center",
+   "grid": true,
+   "deco": true,
+   "camera": {
+    "zoom": [
+     1,
+     1.05
+    ]
+   },
+   "transition": "slide",
+   "end": 9.168
+  },
+  {
+   "id": "click",
+   "start": 9.168,
+   "lines": [
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "A",
+       "t": 9.288,
+       "end": 9.358,
+       "emph": false
+      },
+      {
+       "text": "reader",
+       "t": 9.427,
+       "end": 9.648,
+       "emph": false
+      },
+      {
+       "text": "clicks",
+       "t": 9.706,
+       "end": 9.961,
+       "emph": false
+      },
+      {
+       "text": "once.",
+       "t": 10.019,
+       "end": 10.368,
+       "emph": true
+      }
+     ],
+     "size": "lg",
+     "box": false,
+     "annot": "circle"
+    },
+    {
+     "kind": "image",
+     "src": "images/google-preferred/footer.png",
+     "w": 1000,
+     "t": 10.368,
+     "tilt": 0,
+     "blur": 0,
+     "reveal": true,
+     "pan": [
+      40,
+      -40
+     ]
+    },
+    {
+     "kind": "gap",
+     "h": 6
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "Google",
+       "t": 10.774,
+       "end": 11.146,
+       "emph": false
+      },
+      {
+       "text": "saves",
+       "t": 11.204,
+       "end": 11.482,
+       "emph": false
+      },
+      {
+       "text": "your",
+       "t": 11.517,
+       "end": 11.656,
+       "emph": false
+      },
+      {
+       "text": "whole",
+       "t": 11.714,
+       "end": 11.912,
+       "emph": true
+      },
+      {
+       "text": "domain",
+       "t": 11.947,
+       "end": 12.33,
+       "emph": true
+      }
+     ],
+     "size": "md",
+     "box": true
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "as",
+       "t": 12.399,
+       "end": 12.492,
+       "emph": false
+      },
+      {
+       "text": "a",
+       "t": 12.55,
+       "end": 12.585,
+       "emph": false
+      },
+      {
+       "text": "source",
+       "t": 12.643,
+       "end": 12.922,
+       "emph": false
+      },
+      {
+       "text": "they",
+       "t": 12.957,
+       "end": 13.073,
+       "emph": false
+      },
+      {
+       "text": "prefer.",
+       "t": 13.131,
+       "end": 13.653,
+       "emph": false
+      }
+     ],
+     "size": "sm",
+     "box": false
+    }
+   ],
+   "layout": "top",
+   "grid": true,
+   "deco": false,
+   "camera": {
+    "zoom": [
+     1.02,
+     1.08
+    ],
+    "pan": [
+     0,
+     -20
+    ]
+   },
+   "transition": "whip",
+   "end": 13.939
+  },
+  {
+   "id": "label",
+   "start": 13.939,
+   "lines": [
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "From",
+       "t": 14.059,
+       "end": 14.234,
+       "emph": false
+      },
+      {
+       "text": "then",
+       "t": 14.28,
+       "end": 14.431,
+       "emph": false
+      },
+      {
+       "text": "on,",
+       "t": 14.501,
+       "end": 14.652,
+       "emph": false
+      },
+      {
+       "text": "when",
+       "t": 14.675,
+       "end": 14.791,
+       "emph": false
+      },
+      {
+       "text": "Google's",
+       "t": 14.837,
+       "end": 15.151,
+       "emph": false
+      },
+      {
+       "text": "AI",
+       "t": 15.209,
+       "end": 15.534,
+       "emph": false
+      },
+      {
+       "text": "cites",
+       "t": 15.592,
+       "end": 15.859,
+       "emph": true
+      },
+      {
+       "text": "your",
+       "t": 15.894,
+       "end": 16.022,
+       "emph": true
+      },
+      {
+       "text": "page,",
+       "t": 16.068,
+       "end": 16.544,
+       "emph": true
+      }
+     ],
+     "size": "md",
+     "box": false
+    },
+    {
+     "kind": "image",
+     "src": "images/google-preferred/aimock.png",
+     "w": 1000,
+     "t": 16.544,
+     "tilt": 0,
+     "blur": 0,
+     "reveal": true,
+     "pan": [
+      -30,
+      30
+     ]
+    },
+    {
+     "kind": "gap",
+     "h": 6
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "that",
+       "t": 16.892,
+       "end": 17.078,
+       "emph": false
+      },
+      {
+       "text": "reader",
+       "t": 17.148,
+       "end": 17.403,
+       "emph": false
+      },
+      {
+       "text": "sees",
+       "t": 17.461,
+       "end": 17.659,
+       "emph": false
+      },
+      {
+       "text": "a",
+       "t": 17.705,
+       "end": 17.728,
+       "emph": false
+      }
+     ],
+     "size": "sm",
+     "box": false
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "Preferred",
+       "t": 17.786,
+       "end": 18.216,
+       "emph": true
+      },
+      {
+       "text": "label",
+       "t": 18.274,
+       "end": 18.518,
+       "emph": false
+      },
+      {
+       "text": "on",
+       "t": 18.576,
+       "end": 18.645,
+       "emph": false
+      },
+      {
+       "text": "your",
+       "t": 18.68,
+       "end": 18.785,
+       "emph": false
+      },
+      {
+       "text": "link.",
+       "t": 18.831,
+       "end": 19.156,
+       "emph": false
+      }
+     ],
+     "size": "lg",
+     "box": false,
+     "annot": "highlight"
+    }
+   ],
+   "layout": "top",
+   "grid": true,
+   "deco": false,
+   "camera": {
+    "zoom": [
+     1,
+     1.07
+    ]
+   },
+   "transition": "fade",
+   "end": 19.443
+  },
+  {
+   "id": "noTrick",
+   "start": 19.443,
+   "lines": [
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "No",
+       "t": 19.563,
+       "end": 19.702,
+       "emph": true
+      },
+      {
+       "text": "ranking",
+       "t": 19.783,
+       "end": 20.108,
+       "emph": true
+      },
+      {
+       "text": "trick.",
+       "t": 20.166,
+       "end": 20.515,
+       "emph": true
+      }
+     ],
+     "size": "xl",
+     "box": false,
+     "color": "#F6F6F6",
+     "emphColor": "#F6F6F6",
+     "fit": true,
+     "annot": "box"
+    },
+    {
+     "kind": "gap",
+     "h": 14
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "The",
+       "t": 20.863,
+       "end": 20.979,
+       "emph": false
+      },
+      {
+       "text": "reader",
+       "t": 21.049,
+       "end": 21.292,
+       "emph": false
+      },
+      {
+       "text": "chose",
+       "t": 21.351,
+       "end": 21.641,
+       "emph": true
+      },
+      {
+       "text": "you,",
+       "t": 21.699,
+       "end": 22.082,
+       "emph": true
+      }
+     ],
+     "size": "md",
+     "box": false,
+     "color": "#F6F6F6",
+     "emphColor": "#FFB27A"
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "so",
+       "t": 22.186,
+       "end": 22.326,
+       "emph": false
+      },
+      {
+       "text": "Google's",
+       "t": 22.395,
+       "end": 22.744,
+       "emph": false
+      },
+      {
+       "text": "AI",
+       "t": 22.813,
+       "end": 23.173,
+       "emph": false
+      },
+      {
+       "text": "marks",
+       "t": 23.231,
+       "end": 23.498,
+       "emph": true
+      },
+      {
+       "text": "you.",
+       "t": 23.533,
+       "end": 23.789,
+       "emph": true
+      }
+     ],
+     "size": "md",
+     "box": false,
+     "color": "#F6F6F6",
+     "emphColor": "#FFB27A"
+    }
+   ],
+   "layout": "center",
+   "grid": false,
+   "deco": false,
+   "camera": {
+    "zoom": [
+     1,
+     1.04
+    ]
+   },
+   "transition": "leak",
+   "bg": {
+    "color": "#1B1B1B"
+   },
+   "end": 23.959
+  },
+  {
+   "id": "stats",
+   "start": 23.959,
+   "lines": [
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "Google",
+       "t": 24.079,
+       "end": 24.37,
+       "emph": false
+      },
+      {
+       "text": "says",
+       "t": 24.393,
+       "end": 24.59,
+       "emph": false
+      },
+      {
+       "text": "people",
+       "t": 24.648,
+       "end": 24.915,
+       "emph": false
+      },
+      {
+       "text": "are",
+       "t": 24.95,
+       "end": 25.055,
+       "emph": false
+      }
+     ],
+     "size": "sm",
+     "box": false
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "twice",
+       "t": 25.089,
+       "end": 25.356,
+       "emph": true
+      },
+      {
+       "text": "as",
+       "t": 25.391,
+       "end": 25.472,
+       "emph": true
+      },
+      {
+       "text": "likely",
+       "t": 25.531,
+       "end": 25.821,
+       "emph": true
+      }
+     ],
+     "size": "xl",
+     "box": false,
+     "fit": true,
+     "annot": "underline"
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "to",
+       "t": 25.867,
+       "end": 25.925,
+       "emph": false
+      },
+      {
+       "text": "click",
+       "t": 25.971,
+       "end": 26.169,
+       "emph": false
+      },
+      {
+       "text": "a",
+       "t": 26.215,
+       "end": 26.238,
+       "emph": false
+      },
+      {
+       "text": "preferred",
+       "t": 26.296,
+       "end": 26.656,
+       "emph": false
+      },
+      {
+       "text": "source.",
+       "t": 26.703,
+       "end": 27.121,
+       "emph": false
+      }
+     ],
+     "size": "sm",
+     "box": false
+    },
+    {
+     "kind": "gap",
+     "h": 10
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "345,000+",
+       "t": 28.232,
+       "end": 28.432,
+       "emph": true
+      }
+     ],
+     "size": "xl",
+     "box": false,
+     "fit": true
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "sites",
+       "t": 28.232,
+       "end": 28.432,
+       "emph": false
+      },
+      {
+       "text": "already",
+       "t": 28.312,
+       "end": 28.512,
+       "emph": false
+      },
+      {
+       "text": "picked",
+       "t": 28.392,
+       "end": 28.592,
+       "emph": false
+      }
+     ],
+     "size": "sm",
+     "box": false
+    }
+   ],
+   "layout": "center",
+   "grid": true,
+   "deco": true,
+   "camera": {
+    "zoom": [
+     1,
+     1.06
+    ]
+   },
+   "transition": "wipe",
+   "end": 29.996
+  },
+  {
+   "id": "setup",
+   "start": 29.996,
+   "lines": [
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "Setup",
+       "t": 30.116,
+       "end": 30.453,
+       "emph": false
+      },
+      {
+       "text": "takes",
+       "t": 30.499,
+       "end": 30.708,
+       "emph": false
+      },
+      {
+       "text": "two",
+       "t": 30.743,
+       "end": 30.859,
+       "emph": true
+      },
+      {
+       "text": "minutes:",
+       "t": 30.917,
+       "end": 31.382,
+       "emph": true
+      }
+     ],
+     "size": "lg",
+     "box": false
+    },
+    {
+     "kind": "terminal",
+     "lines": [
+      "<script async src=",
+      "  \"https://news.google.com/swg/js/v1/publisher.js\">",
+      "</script>",
+      "<div google-add-preferred-source-btn></div>",
+      "# or a plain link:",
+      "google.com/preferences/source?q=YOURDOMAIN.com"
+     ],
+     "w": 980,
+     "title": "footer.html",
+     "t": 31.382
+    },
+    {
+     "kind": "gap",
+     "h": 6
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "or",
+       "t": 32.984,
+       "end": 33.135,
+       "emph": false
+      },
+      {
+       "text": "link",
+       "t": 33.216,
+       "end": 33.402,
+       "emph": false
+      },
+      {
+       "text": "to",
+       "t": 33.448,
+       "end": 33.495,
+       "emph": false
+      },
+      {
+       "text": "the",
+       "t": 33.541,
+       "end": 33.611,
+       "emph": false
+      },
+      {
+       "text": "preferences",
+       "t": 33.645,
+       "end": 34.11,
+       "emph": false
+      },
+      {
+       "text": "page",
+       "t": 34.168,
+       "end": 34.412,
+       "emph": false
+      },
+      {
+       "text": "with",
+       "t": 34.435,
+       "end": 34.563,
+       "emph": false
+      },
+      {
+       "text": "your",
+       "t": 34.597,
+       "end": 34.702,
+       "emph": true
+      },
+      {
+       "text": "domain.",
+       "t": 34.76,
+       "end": 35.259,
+       "emph": true
+      }
+     ],
+     "size": "sm",
+     "box": false
+    }
+   ],
+   "layout": "top",
+   "grid": true,
+   "deco": false,
+   "camera": {
+    "zoom": [
+     1,
+     1.05
+    ]
+   },
+   "transition": "push",
+   "end": 35.395
+  },
+  {
+   "id": "cta",
+   "start": 35.395,
+   "lines": [
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "It's",
+       "t": 35.515,
+       "end": 35.7,
+       "emph": false
+      },
+      {
+       "text": "live",
+       "t": 35.782,
+       "end": 36.026,
+       "emph": false
+      },
+      {
+       "text": "on",
+       "t": 36.06,
+       "end": 36.13,
+       "emph": false
+      },
+      {
+       "text": "our",
+       "t": 36.176,
+       "end": 36.258,
+       "emph": true
+      },
+      {
+       "text": "footer.",
+       "t": 36.316,
+       "end": 36.71,
+       "emph": true
+      }
+     ],
+     "size": "md",
+     "box": false
+    },
+    {
+     "kind": "image",
+     "src": "images/google-preferred/badge.png",
+     "w": 560,
+     "t": 36.71,
+     "tilt": 2,
+     "blur": 0,
+     "reveal": false
+    },
+    {
+     "kind": "gap",
+     "h": 10
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "Comment",
+       "t": 37.059,
+       "end": 37.395,
+       "emph": false
+      }
+     ],
+     "size": "md",
+     "box": false
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "PREFERRED",
+       "t": 37.442,
+       "end": 37.883,
+       "emph": true
+      }
+     ],
+     "size": "xl",
+     "box": false,
+     "fit": true,
+     "annot": "circle"
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "and",
+       "t": 37.906,
+       "end": 37.976,
+       "emph": false
+      },
+      {
+       "text": "I'll",
+       "t": 38.022,
+       "end": 38.139,
+       "emph": false
+      },
+      {
+       "text": "send",
+       "t": 38.185,
+       "end": 38.336,
+       "emph": false
+      },
+      {
+       "text": "the",
+       "t": 38.359,
+       "end": 38.429,
+       "emph": false
+      },
+      {
+       "text": "snippet.",
+       "t": 38.452,
+       "end": 39.032,
+       "emph": false
+      }
+     ],
+     "size": "sm",
+     "box": false
+    }
+   ],
+   "layout": "center",
+   "grid": true,
+   "deco": true,
+   "camera": {
+    "zoom": [
+     1,
+     1.06
+    ]
+   },
+   "transition": "whip",
+   "end": 39.633
+  }
+ ],
+ "sfx": true,
+ "sfxLevel": 0.7
+}

@@ -1,0 +1,1381 @@
+{
+ "fps": 30,
+ "durationSec": 53.331,
+ "voSrc": "audio/made-by-text/voice.mp3",
+ "musicSrc": "audio/made-by-text/music.mp3",
+ "musicVolume": 0.11,
+ "watermark": "rocketlaunchmedia.com",
+ "beats": [
+  {
+   "id": "hook",
+   "start": 0.0,
+   "lines": [
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "This",
+       "t": 0.0,
+       "end": 0.232,
+       "emph": false
+      },
+      {
+       "text": "entire",
+       "t": 0.302,
+       "end": 0.72,
+       "emph": false
+      },
+      {
+       "text": "video",
+       "t": 0.766,
+       "end": 1.01,
+       "emph": false
+      }
+     ],
+     "size": "md",
+     "box": false
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "was",
+       "t": 1.057,
+       "end": 1.149,
+       "emph": true
+      },
+      {
+       "text": "made",
+       "t": 1.207,
+       "end": 1.37,
+       "emph": true
+      },
+      {
+       "text": "from",
+       "t": 1.393,
+       "end": 1.521,
+       "emph": true
+      },
+      {
+       "text": "a",
+       "t": 1.567,
+       "end": 1.591,
+       "emph": true
+      },
+      {
+       "text": "text",
+       "t": 1.637,
+       "end": 1.916,
+       "emph": true
+      },
+      {
+       "text": "file.",
+       "t": 1.95,
+       "end": 2.368,
+       "emph": true
+      }
+     ],
+     "size": "lg",
+     "box": false
+    },
+    {
+     "kind": "terminal",
+     "lines": [
+      "$ make_short.py projects/this-video",
+      "voice: 172 words \u00b7 64s",
+      "music: generated",
+      "\u2713 rendered 1080\u00d71920"
+     ],
+     "w": 900,
+     "title": "faceless-shorts",
+     "t": 2.418
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "No",
+       "t": 2.786,
+       "end": 2.961,
+       "emph": false
+      },
+      {
+       "text": "editor.",
+       "t": 3.053,
+       "end": 3.46,
+       "emph": false
+      },
+      {
+       "text": "No",
+       "t": 3.518,
+       "end": 3.669,
+       "emph": false
+      },
+      {
+       "text": "camera.",
+       "t": 3.75,
+       "end": 4.249,
+       "emph": false
+      },
+      {
+       "text": "No",
+       "t": 4.307,
+       "end": 4.447,
+       "emph": false
+      },
+      {
+       "text": "timeline.",
+       "t": 4.516,
+       "end": 5.178,
+       "emph": false
+      }
+     ],
+     "size": "md",
+     "box": false,
+     "color": "#8E8E8E"
+    }
+   ],
+   "layout": "center",
+   "grid": false,
+   "deco": true,
+   "camera": {
+    "zoom": [
+     1,
+     1.06
+    ]
+   },
+   "end": 5.476
+  },
+  {
+   "id": "save",
+   "start": 5.476,
+   "lines": [
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "Save",
+       "t": 5.596,
+       "end": 5.968,
+       "emph": false
+      },
+      {
+       "text": "this",
+       "t": 6.002,
+       "end": 6.153,
+       "emph": false
+      },
+      {
+       "text": "if",
+       "t": 6.211,
+       "end": 6.293,
+       "emph": false
+      },
+      {
+       "text": "you've",
+       "t": 6.339,
+       "end": 6.525,
+       "emph": false
+      },
+      {
+       "text": "ever",
+       "t": 6.56,
+       "end": 6.711,
+       "emph": false
+      },
+      {
+       "text": "wanted",
+       "t": 6.769,
+       "end": 7.012,
+       "emph": false
+      },
+      {
+       "text": "to",
+       "t": 7.036,
+       "end": 7.082,
+       "emph": false
+      }
+     ],
+     "size": "md",
+     "box": false
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "post",
+       "t": 7.129,
+       "end": 7.396,
+       "emph": true
+      },
+      {
+       "text": "every",
+       "t": 7.477,
+       "end": 7.755,
+       "emph": true
+      },
+      {
+       "text": "day",
+       "t": 7.802,
+       "end": 7.964,
+       "emph": true
+      }
+     ],
+     "size": "xl",
+     "box": false
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "without",
+       "t": 8.011,
+       "end": 8.278,
+       "emph": false
+      },
+      {
+       "text": "filming",
+       "t": 8.324,
+       "end": 8.615,
+       "emph": false
+      },
+      {
+       "text": "anything.",
+       "t": 8.661,
+       "end": 9.16,
+       "emph": false
+      }
+     ],
+     "size": "md",
+     "box": false,
+     "color": "#8E8E8E"
+    },
+    {
+     "kind": "icon",
+     "name": "bookmark",
+     "w": 150,
+     "t": 9.21,
+     "rotate": 0
+    }
+   ],
+   "layout": "center",
+   "grid": true,
+   "deco": false,
+   "camera": {
+    "zoom": [
+     1,
+     1.05
+    ]
+   },
+   "transition": "whip",
+   "end": 9.354
+  },
+  {
+   "id": "stack",
+   "start": 9.354,
+   "lines": [
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "Here's",
+       "t": 9.474,
+       "end": 9.752,
+       "emph": false
+      },
+      {
+       "text": "the",
+       "t": 9.787,
+       "end": 9.857,
+       "emph": false
+      },
+      {
+       "text": "entire",
+       "t": 9.915,
+       "end": 10.333,
+       "emph": false
+      },
+      {
+       "text": "stack.",
+       "t": 10.368,
+       "end": 10.89,
+       "emph": false
+      }
+     ],
+     "size": "md",
+     "box": false
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "Claude",
+       "t": 11.308,
+       "end": 11.691,
+       "emph": true
+      },
+      {
+       "text": "Code",
+       "t": 11.738,
+       "end": 12.063,
+       "emph": true
+      },
+      {
+       "text": "writes",
+       "t": 12.086,
+       "end": 12.341,
+       "emph": false
+      },
+      {
+       "text": "the",
+       "t": 12.388,
+       "end": 12.457,
+       "emph": false
+      },
+      {
+       "text": "script",
+       "t": 12.504,
+       "end": 12.841,
+       "emph": false
+      }
+     ],
+     "size": "lg",
+     "box": false
+    },
+    {
+     "kind": "chat",
+     "text": "Write a 60-second script about the video-use skill. Hook first, then how it works, then a CTA.",
+     "who": "you",
+     "w": 860,
+     "t": 12.891
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "as",
+       "t": 12.887,
+       "end": 12.992,
+       "emph": false
+      },
+      {
+       "text": "a",
+       "t": 13.05,
+       "end": 13.073,
+       "emph": false
+      },
+      {
+       "text": "simple",
+       "t": 13.166,
+       "end": 13.491,
+       "emph": false
+      },
+      {
+       "text": "list",
+       "t": 13.526,
+       "end": 13.712,
+       "emph": false
+      },
+      {
+       "text": "of",
+       "t": 13.758,
+       "end": 13.816,
+       "emph": false
+      },
+      {
+       "text": "beats:",
+       "t": 13.874,
+       "end": 14.397,
+       "emph": false
+      }
+     ],
+     "size": "md",
+     "box": false
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "what",
+       "t": 14.71,
+       "end": 14.896,
+       "emph": false
+      },
+      {
+       "text": "the",
+       "t": 14.942,
+       "end": 15.012,
+       "emph": false
+      },
+      {
+       "text": "voice",
+       "t": 15.07,
+       "end": 15.349,
+       "emph": false
+      },
+      {
+       "text": "says,",
+       "t": 15.384,
+       "end": 15.929,
+       "emph": false
+      },
+      {
+       "text": "and",
+       "t": 16.069,
+       "end": 16.208,
+       "emph": false
+      },
+      {
+       "text": "what",
+       "t": 16.278,
+       "end": 16.429,
+       "emph": false
+      },
+      {
+       "text": "shows",
+       "t": 16.475,
+       "end": 16.719,
+       "emph": false
+      },
+      {
+       "text": "on",
+       "t": 16.777,
+       "end": 16.858,
+       "emph": false
+      },
+      {
+       "text": "screen.",
+       "t": 16.905,
+       "end": 17.381,
+       "emph": false
+      }
+     ],
+     "size": "md",
+     "box": false,
+     "color": "#8E8E8E"
+    }
+   ],
+   "layout": "top",
+   "grid": false,
+   "deco": false,
+   "camera": {
+    "zoom": [
+     1,
+     1.05
+    ]
+   },
+   "end": 17.922
+  },
+  {
+   "id": "voice",
+   "start": 17.922,
+   "lines": [
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "ElevenLabs",
+       "t": 18.042,
+       "end": 18.82,
+       "emph": true
+      },
+      {
+       "text": "reads",
+       "t": 18.89,
+       "end": 19.087,
+       "emph": false
+      },
+      {
+       "text": "it",
+       "t": 19.122,
+       "end": 19.192,
+       "emph": false
+      },
+      {
+       "text": "out",
+       "t": 19.227,
+       "end": 19.354,
+       "emph": false
+      },
+      {
+       "text": "loud",
+       "t": 19.424,
+       "end": 19.703,
+       "emph": false
+      }
+     ],
+     "size": "lg",
+     "box": false
+    },
+    {
+     "kind": "image",
+     "src": "images/made-by-text/elevenlabs_site.png",
+     "w": 1200,
+     "t": 19.753,
+     "tilt": 0,
+     "blur": 0,
+     "reveal": true,
+     "pan": [
+      90,
+      -90
+     ]
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "and",
+       "t": 19.749,
+       "end": 19.819,
+       "emph": false
+      },
+      {
+       "text": "returns",
+       "t": 19.877,
+       "end": 20.271,
+       "emph": false
+      },
+      {
+       "text": "the",
+       "t": 20.318,
+       "end": 20.399,
+       "emph": false
+      },
+      {
+       "text": "exact",
+       "t": 20.48,
+       "end": 20.956,
+       "emph": false
+      },
+      {
+       "text": "timestamp",
+       "t": 21.015,
+       "end": 21.641,
+       "emph": false
+      },
+      {
+       "text": "of",
+       "t": 21.688,
+       "end": 21.746,
+       "emph": false
+      }
+     ],
+     "size": "md",
+     "box": false
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "every",
+       "t": 21.816,
+       "end": 21.99,
+       "emph": true
+      },
+      {
+       "text": "single",
+       "t": 22.025,
+       "end": 22.268,
+       "emph": true
+      },
+      {
+       "text": "word.",
+       "t": 22.303,
+       "end": 22.698,
+       "emph": true
+      }
+     ],
+     "size": "xl",
+     "box": false
+    }
+   ],
+   "layout": "top",
+   "grid": true,
+   "deco": false,
+   "camera": {
+    "zoom": [
+     1,
+     1.05
+    ]
+   },
+   "transition": "whip",
+   "end": 22.938
+  },
+  {
+   "id": "sync",
+   "start": 22.938,
+   "lines": [
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "That's",
+       "t": 23.058,
+       "end": 23.29,
+       "emph": false
+      },
+      {
+       "text": "why",
+       "t": 23.325,
+       "end": 23.464,
+       "emph": false
+      },
+      {
+       "text": "each",
+       "t": 23.58,
+       "end": 23.778,
+       "emph": false
+      },
+      {
+       "text": "word",
+       "t": 23.836,
+       "end": 24.033,
+       "emph": false
+      }
+     ],
+     "size": "md",
+     "box": false
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "pops",
+       "t": 24.091,
+       "end": 24.381,
+       "emph": true
+      }
+     ],
+     "size": "xl",
+     "box": false,
+     "emphColor": "#E5744C"
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "the",
+       "t": 24.428,
+       "end": 24.497,
+       "emph": false
+      },
+      {
+       "text": "moment",
+       "t": 24.544,
+       "end": 24.765,
+       "emph": false
+      },
+      {
+       "text": "it's",
+       "t": 24.799,
+       "end": 24.892,
+       "emph": false
+      },
+      {
+       "text": "spoken.",
+       "t": 24.915,
+       "end": 25.461,
+       "emph": false
+      }
+     ],
+     "size": "md",
+     "box": false
+    }
+   ],
+   "layout": "center",
+   "grid": false,
+   "deco": false,
+   "camera": {
+    "zoom": [
+     1,
+     1.1
+    ]
+   },
+   "end": 25.701
+  },
+  {
+   "id": "remotion",
+   "start": 25.701,
+   "lines": [
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "Then",
+       "t": 25.821,
+       "end": 25.984,
+       "emph": false
+      },
+      {
+       "text": "Remotion,",
+       "t": 26.065,
+       "end": 26.645,
+       "emph": true
+      }
+     ],
+     "size": "lg",
+     "box": false
+    },
+    {
+     "kind": "image",
+     "src": "images/made-by-text/remotion_site.png",
+     "w": 1200,
+     "t": 26.695,
+     "tilt": 0,
+     "blur": 0,
+     "reveal": true,
+     "pan": [
+      -90,
+      90
+     ]
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "a",
+       "t": 26.669,
+       "end": 26.703,
+       "emph": false
+      },
+      {
+       "text": "free",
+       "t": 26.761,
+       "end": 26.97,
+       "emph": false
+      },
+      {
+       "text": "tool",
+       "t": 27.017,
+       "end": 27.249,
+       "emph": false
+      },
+      {
+       "text": "that",
+       "t": 27.295,
+       "end": 27.423,
+       "emph": false
+      },
+      {
+       "text": "turns",
+       "t": 27.458,
+       "end": 27.702,
+       "emph": false
+      },
+      {
+       "text": "React",
+       "t": 27.795,
+       "end": 28.12,
+       "emph": false
+      },
+      {
+       "text": "code",
+       "t": 28.178,
+       "end": 28.41,
+       "emph": false
+      },
+      {
+       "text": "into",
+       "t": 28.433,
+       "end": 28.561,
+       "emph": false
+      },
+      {
+       "text": "video,",
+       "t": 28.619,
+       "end": 29.165,
+       "emph": false
+      }
+     ],
+     "size": "sm",
+     "box": false,
+     "color": "#8E8E8E"
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "animates",
+       "t": 29.432,
+       "end": 29.919,
+       "emph": false
+      },
+      {
+       "text": "everything:",
+       "t": 29.966,
+       "end": 30.453,
+       "emph": false
+      }
+     ],
+     "size": "md",
+     "box": false
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "the",
+       "t": 30.813,
+       "end": 30.918,
+       "emph": false
+      },
+      {
+       "text": "text",
+       "t": 30.987,
+       "end": 31.51,
+       "emph": false
+      },
+      {
+       "text": "\u00b7",
+       "t": 31.51,
+       "end": 31.71,
+       "emph": false
+      },
+      {
+       "text": "the",
+       "t": 31.707,
+       "end": 31.823,
+       "emph": false
+      },
+      {
+       "text": "icons",
+       "t": 31.905,
+       "end": 32.624,
+       "emph": false
+      },
+      {
+       "text": "\u00b7",
+       "t": 32.624,
+       "end": 32.824,
+       "emph": false
+      },
+      {
+       "text": "the",
+       "t": 32.822,
+       "end": 32.926,
+       "emph": false
+      },
+      {
+       "text": "camera",
+       "t": 32.984,
+       "end": 33.333,
+       "emph": false
+      },
+      {
+       "text": "moves",
+       "t": 33.402,
+       "end": 33.902,
+       "emph": false
+      }
+     ],
+     "size": "md",
+     "box": true
+    }
+   ],
+   "layout": "top",
+   "grid": true,
+   "deco": false,
+   "camera": {
+    "zoom": [
+     1,
+     1.05
+    ]
+   },
+   "transition": "whip",
+   "end": 34.362
+  },
+  {
+   "id": "music",
+   "start": 34.362,
+   "lines": [
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "Even",
+       "t": 34.482,
+       "end": 34.749,
+       "emph": false
+      },
+      {
+       "text": "the",
+       "t": 34.784,
+       "end": 34.854,
+       "emph": false
+      },
+      {
+       "text": "music",
+       "t": 34.923,
+       "end": 35.272,
+       "emph": true
+      },
+      {
+       "text": "underneath",
+       "t": 35.33,
+       "end": 35.736,
+       "emph": false
+      }
+     ],
+     "size": "lg",
+     "box": false
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "was",
+       "t": 35.782,
+       "end": 35.91,
+       "emph": false
+      },
+      {
+       "text": "generated",
+       "t": 35.98,
+       "end": 36.502,
+       "emph": false
+      },
+      {
+       "text": "from",
+       "t": 36.549,
+       "end": 36.688,
+       "emph": false
+      },
+      {
+       "text": "a",
+       "t": 36.746,
+       "end": 36.769,
+       "emph": false
+      }
+     ],
+     "size": "md",
+     "box": false
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "one-line",
+       "t": 36.85,
+       "end": 37.234,
+       "emph": true
+      },
+      {
+       "text": "prompt.",
+       "t": 37.28,
+       "end": 37.756,
+       "emph": true
+      }
+     ],
+     "size": "lg",
+     "box": true
+    }
+   ],
+   "layout": "center",
+   "grid": false,
+   "deco": true,
+   "camera": {
+    "zoom": [
+     1,
+     1.05
+    ]
+   },
+   "end": 38.054
+  },
+  {
+   "id": "render",
+   "start": 38.054,
+   "lines": [
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "The",
+       "t": 38.174,
+       "end": 38.302,
+       "emph": false
+      },
+      {
+       "text": "whole",
+       "t": 38.371,
+       "end": 38.592,
+       "emph": false
+      },
+      {
+       "text": "thing",
+       "t": 38.627,
+       "end": 38.801,
+       "emph": false
+      },
+      {
+       "text": "renders",
+       "t": 38.882,
+       "end": 39.207,
+       "emph": false
+      },
+      {
+       "text": "in",
+       "t": 39.289,
+       "end": 39.381,
+       "emph": false
+      }
+     ],
+     "size": "md",
+     "box": false
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "about",
+       "t": 39.44,
+       "end": 39.66,
+       "emph": true
+      },
+      {
+       "text": "40",
+       "t": 39.718,
+       "end": 39.962,
+       "emph": true
+      },
+      {
+       "text": "seconds.",
+       "t": 40.02,
+       "end": 40.566,
+       "emph": true
+      }
+     ],
+     "size": "xl",
+     "box": false
+    },
+    {
+     "kind": "terminal",
+     "lines": [
+      "$ remotion render KineticShort",
+      "2071 frames \u00b7 30 fps",
+      "\u2713 final.mp4 \u00b7 39s"
+     ],
+     "w": 900,
+     "title": "render",
+     "t": 40.616
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "Change",
+       "t": 40.984,
+       "end": 41.344,
+       "emph": false
+      },
+      {
+       "text": "one",
+       "t": 41.39,
+       "end": 41.541,
+       "emph": false
+      },
+      {
+       "text": "line",
+       "t": 41.587,
+       "end": 41.785,
+       "emph": false
+      },
+      {
+       "text": "in",
+       "t": 41.808,
+       "end": 41.866,
+       "emph": false
+      },
+      {
+       "text": "the",
+       "t": 41.889,
+       "end": 41.959,
+       "emph": false
+      },
+      {
+       "text": "file,",
+       "t": 42.005,
+       "end": 42.493,
+       "emph": false
+      }
+     ],
+     "size": "md",
+     "box": false
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "and",
+       "t": 42.655,
+       "end": 42.795,
+       "emph": false
+      },
+      {
+       "text": "you",
+       "t": 42.853,
+       "end": 42.923,
+       "emph": false
+      },
+      {
+       "text": "get",
+       "t": 42.993,
+       "end": 43.097,
+       "emph": false
+      },
+      {
+       "text": "a",
+       "t": 43.144,
+       "end": 43.167,
+       "emph": false
+      },
+      {
+       "text": "new",
+       "t": 43.225,
+       "end": 43.341,
+       "emph": true
+      },
+      {
+       "text": "video.",
+       "t": 43.387,
+       "end": 43.945,
+       "emph": true
+      }
+     ],
+     "size": "lg",
+     "box": false
+    }
+   ],
+   "layout": "center",
+   "grid": true,
+   "deco": false,
+   "camera": {
+    "zoom": [
+     1,
+     1.05
+    ]
+   },
+   "transition": "whip",
+   "end": 44.138
+  },
+  {
+   "id": "why",
+   "start": 44.138,
+   "lines": [
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "One",
+       "t": 44.258,
+       "end": 44.513,
+       "emph": false
+      },
+      {
+       "text": "system.",
+       "t": 44.572,
+       "end": 45.106,
+       "emph": true
+      }
+     ],
+     "size": "lg",
+     "box": true
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "Unlimited",
+       "t": 45.419,
+       "end": 45.93,
+       "emph": false
+      },
+      {
+       "text": "videos.",
+       "t": 45.965,
+       "end": 46.568,
+       "emph": true
+      }
+     ],
+     "size": "lg",
+     "box": true
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "And",
+       "t": 46.835,
+       "end": 46.963,
+       "emph": false
+      },
+      {
+       "text": "you",
+       "t": 47.01,
+       "end": 47.079,
+       "emph": false
+      },
+      {
+       "text": "never",
+       "t": 47.161,
+       "end": 47.346,
+       "emph": true
+      },
+      {
+       "text": "have",
+       "t": 47.393,
+       "end": 47.532,
+       "emph": false
+      },
+      {
+       "text": "to",
+       "t": 47.555,
+       "end": 47.602,
+       "emph": false
+      },
+      {
+       "text": "be",
+       "t": 47.648,
+       "end": 47.729,
+       "emph": false
+      },
+      {
+       "text": "on",
+       "t": 47.776,
+       "end": 47.857,
+       "emph": false
+      },
+      {
+       "text": "camera.",
+       "t": 47.915,
+       "end": 48.472,
+       "emph": false
+      }
+     ],
+     "size": "lg",
+     "box": false,
+     "emphColor": "#E5744C"
+    }
+   ],
+   "layout": "center",
+   "grid": false,
+   "deco": false,
+   "camera": {
+    "zoom": [
+     1,
+     1.05
+    ]
+   },
+   "end": 48.933
+  },
+  {
+   "id": "cta",
+   "start": 48.933,
+   "lines": [
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "Follow.",
+       "t": 49.053,
+       "end": 49.436,
+       "emph": true
+      }
+     ],
+     "size": "xl",
+     "box": false
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "I'm",
+       "t": 49.471,
+       "end": 49.622,
+       "emph": false
+      },
+      {
+       "text": "building",
+       "t": 49.68,
+       "end": 49.993,
+       "emph": false
+      },
+      {
+       "text": "this",
+       "t": 50.04,
+       "end": 50.202,
+       "emph": false
+      },
+      {
+       "text": "in",
+       "t": 50.318,
+       "end": 50.458,
+       "emph": false
+      },
+      {
+       "text": "public",
+       "t": 50.551,
+       "end": 50.934,
+       "emph": false
+      }
+     ],
+     "size": "md",
+     "box": false
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "and",
+       "t": 50.992,
+       "end": 51.073,
+       "emph": false
+      },
+      {
+       "text": "sharing",
+       "t": 51.131,
+       "end": 51.421,
+       "emph": false
+      },
+      {
+       "text": "every",
+       "t": 51.468,
+       "end": 51.63,
+       "emph": false
+      },
+      {
+       "text": "piece",
+       "t": 51.688,
+       "end": 51.909,
+       "emph": false
+      },
+      {
+       "text": "of",
+       "t": 51.944,
+       "end": 52.002,
+       "emph": false
+      },
+      {
+       "text": "it.",
+       "t": 52.048,
+       "end": 52.431,
+       "emph": false
+      }
+     ],
+     "size": "md",
+     "box": false,
+     "color": "#8E8E8E"
+    }
+   ],
+   "layout": "center",
+   "grid": false,
+   "deco": true,
+   "camera": {
+    "zoom": [
+     1,
+     1.08
+    ]
+   },
+   "end": 53.331
+  }
+ ]
+}

@@ -1,0 +1,742 @@
+{
+ "text": "You can now edit videos by just talking to Claude Code.\n\nSave this before you pay another editor for a simple cut.\n\nThe team behind Browser Use just open-sourced a skill called video-use.\n\nYou drop your footage in a folder and describe the edit in plain English.\n\nIt transcribes every word with timestamps, finds the silences, and cuts on word boundaries, so nothing gets chopped mid-sentence.\n\nRetakes, filler words, dead air: gone. Then it grades the color, burns in captions, and drops in B-roll where it makes sense.\n\nI ran my own ad footage through it. It found the clean take, removed the stutters, and rendered the finished cut in seconds.\n\nAnd it remembers every decision in a project file, so the next edit starts where the last one ended.\n\nFree. Open source. Runs on your own Mac.\n\nFollow for more free AI tools I actually use.",
+ "voice_id": "nPczCjzI2devNBz1zQrb",
+ "speed": 1.05,
+ "words": [
+  {
+   "text": "You",
+   "start": 0.0,
+   "end": 0.174
+  },
+  {
+   "text": "can",
+   "start": 0.221,
+   "end": 0.337
+  },
+  {
+   "text": "now",
+   "start": 0.383,
+   "end": 0.522
+  },
+  {
+   "text": "edit",
+   "start": 0.615,
+   "end": 0.871
+  },
+  {
+   "text": "videos",
+   "start": 0.917,
+   "end": 1.335
+  },
+  {
+   "text": "by",
+   "start": 1.382,
+   "end": 1.474
+  },
+  {
+   "text": "just",
+   "start": 1.544,
+   "end": 1.695
+  },
+  {
+   "text": "talking",
+   "start": 1.73,
+   "end": 2.02
+  },
+  {
+   "text": "to",
+   "start": 2.055,
+   "end": 2.101
+  },
+  {
+   "text": "Claude",
+   "start": 2.159,
+   "end": 2.438
+  },
+  {
+   "text": "Code.",
+   "start": 2.485,
+   "end": 2.949
+  },
+  {
+   "text": "Save",
+   "start": 3.367,
+   "end": 3.657
+  },
+  {
+   "text": "this",
+   "start": 3.692,
+   "end": 3.831
+  },
+  {
+   "text": "before",
+   "start": 3.901,
+   "end": 4.203
+  },
+  {
+   "text": "you",
+   "start": 4.261,
+   "end": 4.342
+  },
+  {
+   "text": "pay",
+   "start": 4.412,
+   "end": 4.563
+  },
+  {
+   "text": "another",
+   "start": 4.609,
+   "end": 4.876
+  },
+  {
+   "text": "editor",
+   "start": 4.946,
+   "end": 5.294
+  },
+  {
+   "text": "for",
+   "start": 5.364,
+   "end": 5.48
+  },
+  {
+   "text": "a",
+   "start": 5.526,
+   "end": 5.55
+  },
+  {
+   "text": "simple",
+   "start": 5.619,
+   "end": 5.933
+  },
+  {
+   "text": "cut.",
+   "start": 5.968,
+   "end": 6.362
+  },
+  {
+   "text": "The",
+   "start": 6.85,
+   "end": 6.966
+  },
+  {
+   "text": "team",
+   "start": 7.024,
+   "end": 7.221
+  },
+  {
+   "text": "behind",
+   "start": 7.279,
+   "end": 7.593
+  },
+  {
+   "text": "Browser",
+   "start": 7.651,
+   "end": 8.139
+  },
+  {
+   "text": "Use",
+   "start": 8.255,
+   "end": 8.557
+  },
+  {
+   "text": "just",
+   "start": 8.615,
+   "end": 8.812
+  },
+  {
+   "text": "open-sourced",
+   "start": 8.893,
+   "end": 9.578
+  },
+  {
+   "text": "a",
+   "start": 9.613,
+   "end": 9.648
+  },
+  {
+   "text": "skill",
+   "start": 9.706,
+   "end": 10.124
+  },
+  {
+   "text": "called",
+   "start": 10.437,
+   "end": 10.693
+  },
+  {
+   "text": "video-use.",
+   "start": 10.739,
+   "end": 11.645
+  },
+  {
+   "text": "You",
+   "start": 12.063,
+   "end": 12.19
+  },
+  {
+   "text": "drop",
+   "start": 12.249,
+   "end": 12.481
+  },
+  {
+   "text": "your",
+   "start": 12.539,
+   "end": 12.643
+  },
+  {
+   "text": "footage",
+   "start": 12.69,
+   "end": 12.992
+  },
+  {
+   "text": "in",
+   "start": 13.026,
+   "end": 13.084
+  },
+  {
+   "text": "a",
+   "start": 13.119,
+   "end": 13.142
+  },
+  {
+   "text": "folder",
+   "start": 13.212,
+   "end": 13.607
+  },
+  {
+   "text": "and",
+   "start": 13.723,
+   "end": 13.886
+  },
+  {
+   "text": "describe",
+   "start": 13.921,
+   "end": 14.339
+  },
+  {
+   "text": "the",
+   "start": 14.374,
+   "end": 14.443
+  },
+  {
+   "text": "edit",
+   "start": 14.501,
+   "end": 14.71
+  },
+  {
+   "text": "in",
+   "start": 14.768,
+   "end": 14.838
+  },
+  {
+   "text": "plain",
+   "start": 14.896,
+   "end": 15.128
+  },
+  {
+   "text": "English.",
+   "start": 15.186,
+   "end": 15.639
+  },
+  {
+   "text": "It",
+   "start": 15.953,
+   "end": 16.092
+  },
+  {
+   "text": "transcribes",
+   "start": 16.138,
+   "end": 16.893
+  },
+  {
+   "text": "every",
+   "start": 17.009,
+   "end": 17.323
+  },
+  {
+   "text": "word",
+   "start": 17.369,
+   "end": 17.566
+  },
+  {
+   "text": "with",
+   "start": 17.601,
+   "end": 17.717
+  },
+  {
+   "text": "timestamps,",
+   "start": 17.752,
+   "end": 18.553
+  },
+  {
+   "text": "finds",
+   "start": 18.785,
+   "end": 19.122
+  },
+  {
+   "text": "the",
+   "start": 19.169,
+   "end": 19.238
+  },
+  {
+   "text": "silences,",
+   "start": 19.296,
+   "end": 19.946
+  },
+  {
+   "text": "and",
+   "start": 19.97,
+   "end": 20.063
+  },
+  {
+   "text": "cuts",
+   "start": 20.121,
+   "end": 20.353
+  },
+  {
+   "text": "on",
+   "start": 20.411,
+   "end": 20.504
+  },
+  {
+   "text": "word",
+   "start": 20.562,
+   "end": 20.747
+  },
+  {
+   "text": "boundaries,",
+   "start": 20.794,
+   "end": 21.398
+  },
+  {
+   "text": "so",
+   "start": 21.665,
+   "end": 21.827
+  },
+  {
+   "text": "nothing",
+   "start": 21.943,
+   "end": 22.292
+  },
+  {
+   "text": "gets",
+   "start": 22.338,
+   "end": 22.512
+  },
+  {
+   "text": "chopped",
+   "start": 22.559,
+   "end": 22.907
+  },
+  {
+   "text": "mid-sentence.",
+   "start": 22.977,
+   "end": 23.801
+  },
+  {
+   "text": "Retakes,",
+   "start": 24.161,
+   "end": 24.962
+  },
+  {
+   "text": "filler",
+   "start": 25.101,
+   "end": 25.426
+  },
+  {
+   "text": "words,",
+   "start": 25.484,
+   "end": 26.018
+  },
+  {
+   "text": "dead",
+   "start": 26.158,
+   "end": 26.378
+  },
+  {
+   "text": "air:",
+   "start": 26.425,
+   "end": 26.831
+  },
+  {
+   "text": "gone.",
+   "start": 27.098,
+   "end": 27.586
+  },
+  {
+   "text": "Then",
+   "start": 28.004,
+   "end": 28.189
+  },
+  {
+   "text": "it",
+   "start": 28.248,
+   "end": 28.306
+  },
+  {
+   "text": "grades",
+   "start": 28.352,
+   "end": 28.654
+  },
+  {
+   "text": "the",
+   "start": 28.7,
+   "end": 28.77
+  },
+  {
+   "text": "color,",
+   "start": 28.817,
+   "end": 29.327
+  },
+  {
+   "text": "burns",
+   "start": 29.49,
+   "end": 29.815
+  },
+  {
+   "text": "in",
+   "start": 29.862,
+   "end": 29.931
+  },
+  {
+   "text": "captions,",
+   "start": 30.001,
+   "end": 30.744
+  },
+  {
+   "text": "and",
+   "start": 30.906,
+   "end": 31.057
+  },
+  {
+   "text": "drops",
+   "start": 31.092,
+   "end": 31.406
+  },
+  {
+   "text": "in",
+   "start": 31.452,
+   "end": 31.522
+  },
+  {
+   "text": "B-roll",
+   "start": 31.591,
+   "end": 32.044
+  },
+  {
+   "text": "where",
+   "start": 32.16,
+   "end": 32.358
+  },
+  {
+   "text": "it",
+   "start": 32.393,
+   "end": 32.439
+  },
+  {
+   "text": "makes",
+   "start": 32.485,
+   "end": 32.671
+  },
+  {
+   "text": "sense.",
+   "start": 32.706,
+   "end": 33.217
+  },
+  {
+   "text": "I",
+   "start": 33.797,
+   "end": 33.844
+  },
+  {
+   "text": "ran",
+   "start": 33.96,
+   "end": 34.111
+  },
+  {
+   "text": "my",
+   "start": 34.169,
+   "end": 34.25
+  },
+  {
+   "text": "own",
+   "start": 34.308,
+   "end": 34.436
+  },
+  {
+   "text": "ad",
+   "start": 34.471,
+   "end": 34.61
+  },
+  {
+   "text": "footage",
+   "start": 34.656,
+   "end": 34.947
+  },
+  {
+   "text": "through",
+   "start": 34.982,
+   "end": 35.202
+  },
+  {
+   "text": "it.",
+   "start": 35.237,
+   "end": 35.434
+  },
+  {
+   "text": "It",
+   "start": 35.748,
+   "end": 35.887
+  },
+  {
+   "text": "found",
+   "start": 35.934,
+   "end": 36.131
+  },
+  {
+   "text": "the",
+   "start": 36.166,
+   "end": 36.235
+  },
+  {
+   "text": "clean",
+   "start": 36.27,
+   "end": 36.514
+  },
+  {
+   "text": "take,",
+   "start": 36.572,
+   "end": 37.002
+  },
+  {
+   "text": "removed",
+   "start": 37.315,
+   "end": 37.675
+  },
+  {
+   "text": "the",
+   "start": 37.698,
+   "end": 37.768
+  },
+  {
+   "text": "stutters,",
+   "start": 37.814,
+   "end": 38.406
+  },
+  {
+   "text": "and",
+   "start": 38.546,
+   "end": 38.708
+  },
+  {
+   "text": "rendered",
+   "start": 38.79,
+   "end": 39.091
+  },
+  {
+   "text": "the",
+   "start": 39.115,
+   "end": 39.184
+  },
+  {
+   "text": "finished",
+   "start": 39.242,
+   "end": 39.544
+  },
+  {
+   "text": "cut",
+   "start": 39.579,
+   "end": 39.765
+  },
+  {
+   "text": "in",
+   "start": 39.811,
+   "end": 39.869
+  },
+  {
+   "text": "seconds.",
+   "start": 39.951,
+   "end": 40.531
+  },
+  {
+   "text": "And",
+   "start": 40.845,
+   "end": 40.996
+  },
+  {
+   "text": "it",
+   "start": 41.054,
+   "end": 41.123
+  },
+  {
+   "text": "remembers",
+   "start": 41.181,
+   "end": 41.634
+  },
+  {
+   "text": "every",
+   "start": 41.773,
+   "end": 42.087
+  },
+  {
+   "text": "decision",
+   "start": 42.157,
+   "end": 42.621
+  },
+  {
+   "text": "in",
+   "start": 42.679,
+   "end": 42.749
+  },
+  {
+   "text": "a",
+   "start": 42.795,
+   "end": 42.818
+  },
+  {
+   "text": "project",
+   "start": 42.865,
+   "end": 43.26
+  },
+  {
+   "text": "file,",
+   "start": 43.294,
+   "end": 43.736
+  },
+  {
+   "text": "so",
+   "start": 44.049,
+   "end": 44.2
+  },
+  {
+   "text": "the",
+   "start": 44.258,
+   "end": 44.339
+  },
+  {
+   "text": "next",
+   "start": 44.421,
+   "end": 44.653
+  },
+  {
+   "text": "edit",
+   "start": 44.723,
+   "end": 44.943
+  },
+  {
+   "text": "starts",
+   "start": 45.013,
+   "end": 45.303
+  },
+  {
+   "text": "where",
+   "start": 45.338,
+   "end": 45.466
+  },
+  {
+   "text": "the",
+   "start": 45.489,
+   "end": 45.558
+  },
+  {
+   "text": "last",
+   "start": 45.616,
+   "end": 45.872
+  },
+  {
+   "text": "one",
+   "start": 45.942,
+   "end": 46.081
+  },
+  {
+   "text": "ended.",
+   "start": 46.116,
+   "end": 46.487
+  },
+  {
+   "text": "Free.",
+   "start": 46.905,
+   "end": 47.37
+  },
+  {
+   "text": "Open",
+   "start": 47.73,
+   "end": 48.043
+  },
+  {
+   "text": "source.",
+   "start": 48.113,
+   "end": 48.623
+  },
+  {
+   "text": "Runs",
+   "start": 49.041,
+   "end": 49.308
+  },
+  {
+   "text": "on",
+   "start": 49.367,
+   "end": 49.436
+  },
+  {
+   "text": "your",
+   "start": 49.483,
+   "end": 49.599
+  },
+  {
+   "text": "own",
+   "start": 49.645,
+   "end": 49.773
+  },
+  {
+   "text": "Mac.",
+   "start": 49.831,
+   "end": 50.249
+  },
+  {
+   "text": "Follow",
+   "start": 50.667,
+   "end": 50.969
+  },
+  {
+   "text": "for",
+   "start": 51.027,
+   "end": 51.131
+  },
+  {
+   "text": "more",
+   "start": 51.189,
+   "end": 51.363
+  },
+  {
+   "text": "free",
+   "start": 51.41,
+   "end": 51.619
+  },
+  {
+   "text": "AI",
+   "start": 51.665,
+   "end": 51.932
+  },
+  {
+   "text": "tools",
+   "start": 52.002,
+   "end": 52.281
+  },
+  {
+   "text": "I",
+   "start": 52.327,
+   "end": 52.35
+  },
+  {
+   "text": "actually",
+   "start": 52.42,
+   "end": 52.733
+  },
+  {
+   "text": "use.",
+   "start": 52.78,
+   "end": 53.407
+  }
+ ]
+}

@@ -1,0 +1,183 @@
+{
+  "slug": "proof-ad",
+  "theme": "bold",
+  "anim": "rise",
+  "voice_id": "nPczCjzI2devNBz1zQrb",
+  "speed": 1.1,
+  "watermark": "rocketlaunchmedia.com",
+  "sfx_level": 0.75,
+  "music": {
+    "prompt": "Punchy minimal hip-hop inspired background bed for a bold short ad: deep kick, tight snare, sparse bass, confident, no vocals, no melody hooks, loopable",
+    "volume": 0.13
+  },
+  "beats": [
+    {
+      "id": "hookB1",
+      "vo": "Most law firms pay an agency every month, and still can't say what a case cost them.",
+      "bg": {
+        "stock": "frustrated businessman at desk looking at laptop",
+        "overlay": 0.6
+      },
+      "lines": [
+        {
+          "text": "Most law firms pay an agency",
+          "size": "md"
+        },
+        {
+          "text": "*every month,*",
+          "size": "xl"
+        },
+        {
+          "text": "and still can't say what a case *cost them.*",
+          "size": "md"
+        }
+      ]
+    },
+    {
+      "id": "hookB2",
+      "vo": "This one spent under two thousand dollars, once. Fifty-one thousand dollars in signed cases.",
+      "bg": {
+        "color": "#111111"
+      },
+      "lines": [
+        {
+          "text": "This one spent",
+          "size": "md"
+        },
+        {
+          "text": "*under $2,000,*",
+          "size": "lg",
+          "silent": true,
+          "after": "under"
+        },
+        {
+          "text": "once.",
+          "size": "md"
+        },
+        {
+          "text": "*$51,000*",
+          "size": "xl",
+          "silent": true,
+          "after": "Fifty-one"
+        },
+        {
+          "text": "in *signed cases.*",
+          "size": "lg"
+        }
+      ]
+    },
+    {
+      "id": "numbers",
+      "vo": "535 leads at just over three dollars each. 174 booked intro calls.",
+      "bg": {
+        "color": "#F5D90A"
+      },
+      "lines": [
+        {
+          "text": "*535* leads",
+          "size": "lg"
+        },
+        {
+          "text": "at just over *$3* each",
+          "size": "lg",
+          "silent": true,
+          "after": "just"
+        },
+        {
+          "text": "*174* booked intro calls.",
+          "size": "lg"
+        }
+      ]
+    },
+    {
+      "id": "system",
+      "vo": "Here's the system. A video ad that speaks to the client's actual situation. An instant form, not a website. Bilingual intake that answers in under a minute. And a follow-up sequence that books the call.",
+      "layout": "top",
+      "bg": {
+        "stock": "law office consultation meeting",
+        "overlay": 0.62
+      },
+      "lines": [
+        {
+          "text": "Here's the *system.*",
+          "size": "lg"
+        },
+        {
+          "text": "A video ad that speaks to the client's actual situation.",
+          "size": "sm"
+        },
+        {
+          "text": "An instant form, not a website.",
+          "size": "md",
+          "box": true
+        },
+        {
+          "text": "Bilingual intake that answers in *under a minute.*",
+          "size": "md"
+        },
+        {
+          "text": "And a follow-up sequence that *books the call.*",
+          "size": "md"
+        }
+      ]
+    },
+    {
+      "id": "own",
+      "vo": "You own it after 90 days. And if you invest and don't get a qualified lead worth more than what you paid within 30 days, you get all your money back. No questions.",
+      "bg": {
+        "stock": "business handshake in office",
+        "overlay": 0.62
+      },
+      "lines": [
+        {
+          "text": "You *own it* after *90 days.*",
+          "size": "lg"
+        },
+        {
+          "text": "If you invest and don't get a qualified lead worth more than what you paid within 30 days,",
+          "size": "sm"
+        },
+        {
+          "text": "you get *all your money back.*",
+          "size": "lg"
+        },
+        {
+          "text": "*No questions.*",
+          "size": "xl"
+        }
+      ]
+    },
+    {
+      "id": "cta",
+      "vo": "Comment SYSTEM and I'll send you the breakdown.",
+      "bg": {
+        "color": "#111111"
+      },
+      "lines": [
+        {
+          "text": "Comment",
+          "size": "md"
+        },
+        {
+          "text": "*SYSTEM*",
+          "size": "xl",
+          "box": true
+        },
+        {
+          "text": "and I'll send you the breakdown.",
+          "size": "md"
+        },
+        {
+          "text": "rocketlaunchmedia.com",
+          "size": "sm",
+          "silent": true
+        },
+        {
+          "text": "Real client results. Every firm and market differs. No outcome is guaranteed.",
+          "size": "sm",
+          "silent": true
+        }
+      ]
+    }
+  ]
+}

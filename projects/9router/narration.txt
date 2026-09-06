@@ -1,0 +1,25 @@
+You can now run Claude Code with unlimited usage, completely free.
+
+Save this before you hit your limit mid-session and lose everything you were working on.
+
+Someone on GitHub just built a free tool called 9Router.
+
+It acts as a silent bridge between Claude Code and free AI providers like Gemini, Kimi, and GLM.
+
+It sits in the background and you never have to think about it.
+
+The second your Claude limit runs out, it doesn't ask you what to do.
+
+It just switches to the next available provider on its own, all the way down to completely free models if it needs to.
+
+Your session keeps going like nothing happened.
+
+You set it up once, connect your providers, and from that moment on, 9Router manages everything automatically.
+
+No manual switching. No interruptions. No extra cost.
+
+And it's not just for Claude Code. Cursor, Codex, Antigravity, and almost every other AI coding tool out there works with it straight out of the box.
+
+One free tool. Zero interruptions. Unlimited sessions.
+
+Follow for more free AI tools like this one.

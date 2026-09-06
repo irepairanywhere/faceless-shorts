@@ -1,0 +1,74 @@
+{
+ "text": "New icons, animated code, and motion trails.\n\nPlus Lottie animations that actually move.",
+ "voice_id": "nPczCjzI2devNBz1zQrb",
+ "speed": 1.1,
+ "words": [
+  {
+   "text": "New",
+   "start": 0.0,
+   "end": 0.209
+  },
+  {
+   "text": "icons,",
+   "start": 0.279,
+   "end": 0.801
+  },
+  {
+   "text": "animated",
+   "start": 0.836,
+   "end": 1.242
+  },
+  {
+   "text": "code,",
+   "start": 1.289,
+   "end": 1.625
+  },
+  {
+   "text": "and",
+   "start": 1.649,
+   "end": 1.741
+  },
+  {
+   "text": "motion",
+   "start": 1.8,
+   "end": 2.067
+  },
+  {
+   "text": "trails.",
+   "start": 2.113,
+   "end": 2.485
+  },
+  {
+   "text": "Plus",
+   "start": 2.775,
+   "end": 3.007
+  },
+  {
+   "text": "Lottie",
+   "start": 3.112,
+   "end": 3.413
+  },
+  {
+   "text": "animations",
+   "start": 3.448,
+   "end": 4.017
+  },
+  {
+   "text": "that",
+   "start": 4.052,
+   "end": 4.168
+  },
+  {
+   "text": "actually",
+   "start": 4.215,
+   "end": 4.528
+  },
+  {
+   "text": "move.",
+   "start": 4.586,
+   "end": 5.213
+  }
+ ],
+ "removed_s": 0.17,
+ "tightened": true
+}

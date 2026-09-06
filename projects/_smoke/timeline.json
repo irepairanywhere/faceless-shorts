@@ -1,0 +1,196 @@
+{
+ "fps": 30,
+ "durationSec": 5.813,
+ "voSrc": "audio/_smoke/voice.mp3",
+ "musicSrc": null,
+ "musicVolume": 0.12,
+ "watermark": "rocketlaunchmedia.com",
+ "theme": "paper",
+ "anim": "pop",
+ "annot": null,
+ "beats": [
+  {
+   "id": "one",
+   "start": 0.0,
+   "lines": [
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "New",
+       "t": 0.0,
+       "end": 0.209,
+       "emph": false
+      },
+      {
+       "text": "icons,",
+       "t": 0.279,
+       "end": 0.801,
+       "emph": true
+      }
+     ],
+     "size": "lg",
+     "box": false,
+     "annot": "circle"
+    },
+    {
+     "kind": "icon",
+     "name": "mouse-pointer-click",
+     "w": 150,
+     "t": 0.801,
+     "rotate": 0,
+     "color": "#FFFFFF",
+     "bg": "#E5744C"
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "animated",
+       "t": 0.836,
+       "end": 1.242,
+       "emph": false
+      },
+      {
+       "text": "code,",
+       "t": 1.289,
+       "end": 1.625,
+       "emph": true
+      }
+     ],
+     "size": "md",
+     "box": false
+    },
+    {
+     "kind": "code",
+     "lines": [
+      "<script async src=",
+      "  \"https://news.google.com/swg/js/v1/publisher.js\">",
+      "</script>",
+      "<div google-add-preferred-source-btn></div>"
+     ],
+     "lang": "html",
+     "title": "footer.html",
+     "w": 960,
+     "t": 1.625,
+     "typing": true
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "and",
+       "t": 1.649,
+       "end": 1.741,
+       "emph": false
+      },
+      {
+       "text": "motion",
+       "t": 1.8,
+       "end": 2.067,
+       "emph": true
+      },
+      {
+       "text": "trails.",
+       "t": 2.113,
+       "end": 2.485,
+       "emph": true
+      }
+     ],
+     "size": "md",
+     "box": false,
+     "fit": true
+    }
+   ],
+   "layout": "top",
+   "grid": true,
+   "deco": false,
+   "camera": {
+    "zoom": [
+     1,
+     1.05
+    ]
+   },
+   "end": 2.655
+  },
+  {
+   "id": "two",
+   "start": 2.655,
+   "lines": [
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "Plus",
+       "t": 2.775,
+       "end": 3.007,
+       "emph": false
+      },
+      {
+       "text": "Lottie",
+       "t": 3.112,
+       "end": 3.413,
+       "emph": true
+      }
+     ],
+     "size": "xl",
+     "box": false,
+     "fit": true,
+     "annot": "underline"
+    },
+    {
+     "kind": "lottie",
+     "src": "lottie/AndroidWave.json",
+     "w": 520,
+     "t": 3.413,
+     "loop": true,
+     "speed": 1
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "animations",
+       "t": 3.448,
+       "end": 4.017,
+       "emph": false
+      },
+      {
+       "text": "that",
+       "t": 4.052,
+       "end": 4.168,
+       "emph": false
+      },
+      {
+       "text": "actually",
+       "t": 4.215,
+       "end": 4.528,
+       "emph": false
+      },
+      {
+       "text": "move.",
+       "t": 4.586,
+       "end": 5.213,
+       "emph": true
+      }
+     ],
+     "size": "md",
+     "box": false
+    }
+   ],
+   "layout": "center",
+   "grid": true,
+   "deco": false,
+   "camera": {
+    "zoom": [
+     1,
+     1.05
+    ]
+   },
+   "transition": "push",
+   "end": 5.813
+  }
+ ],
+ "sfx": true,
+ "sfxLevel": 0.7
+}

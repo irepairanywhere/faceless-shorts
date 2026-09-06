@@ -1,0 +1,619 @@
+{
+ "text": "Google built a button that changes how its AI shows your site to your readers.\n\nIt's called Google Preferred Sources, and it now runs inside AI Overviews and AI Mode.\n\nA reader clicks once. Google saves your whole domain as a source they prefer.\n\nFrom then on, when Google's AI cites your page, that reader sees a Preferred label on your link.\n\nNo ranking trick. The reader chose you, so Google's AI marks you.\n\nGoogle says people are twice as likely to click a preferred source. Over three hundred thousand sites are already picked.\n\nSetup takes two minutes: paste Google's script, or link to the preferences page with your domain.\n\nIt's live on our footer. Comment PREFERRED and I'll send the snippet.",
+ "voice_id": "nPczCjzI2devNBz1zQrb",
+ "speed": 1.1,
+ "words": [
+  {
+   "text": "Google",
+   "start": 0.0,
+   "end": 0.337
+  },
+  {
+   "text": "built",
+   "start": 0.372,
+   "end": 0.546
+  },
+  {
+   "text": "a",
+   "start": 0.592,
+   "end": 0.615
+  },
+  {
+   "text": "button",
+   "start": 0.673,
+   "end": 0.929
+  },
+  {
+   "text": "that",
+   "start": 0.964,
+   "end": 1.08
+  },
+  {
+   "text": "changes",
+   "start": 1.126,
+   "end": 1.498
+  },
+  {
+   "text": "how",
+   "start": 1.544,
+   "end": 1.649
+  },
+  {
+   "text": "its",
+   "start": 1.707,
+   "end": 1.811
+  },
+  {
+   "text": "AI",
+   "start": 1.858,
+   "end": 2.159
+  },
+  {
+   "text": "shows",
+   "start": 2.229,
+   "end": 2.461
+  },
+  {
+   "text": "your",
+   "start": 2.508,
+   "end": 2.624
+  },
+  {
+   "text": "site",
+   "start": 2.67,
+   "end": 2.879
+  },
+  {
+   "text": "to",
+   "start": 2.902,
+   "end": 2.949
+  },
+  {
+   "text": "your",
+   "start": 3.007,
+   "end": 3.111
+  },
+  {
+   "text": "readers.",
+   "start": 3.158,
+   "end": 3.657
+  },
+  {
+   "text": "It's",
+   "start": 3.947,
+   "end": 4.11
+  },
+  {
+   "text": "called",
+   "start": 4.145,
+   "end": 4.365
+  },
+  {
+   "text": "Google",
+   "start": 4.423,
+   "end": 4.748
+  },
+  {
+   "text": "Preferred",
+   "start": 4.783,
+   "end": 5.143
+  },
+  {
+   "text": "Sources,",
+   "start": 5.201,
+   "end": 5.805
+  },
+  {
+   "text": "and",
+   "start": 5.991,
+   "end": 6.13
+  },
+  {
+   "text": "it",
+   "start": 6.188,
+   "end": 6.258
+  },
+  {
+   "text": "now",
+   "start": 6.316,
+   "end": 6.478
+  },
+  {
+   "text": "runs",
+   "start": 6.56,
+   "end": 6.792
+  },
+  {
+   "text": "inside",
+   "start": 6.85,
+   "end": 7.221
+  },
+  {
+   "text": "AI",
+   "start": 7.256,
+   "end": 7.57
+  },
+  {
+   "text": "Overviews",
+   "start": 7.628,
+   "end": 8.092
+  },
+  {
+   "text": "and",
+   "start": 8.139,
+   "end": 8.22
+  },
+  {
+   "text": "AI",
+   "start": 8.255,
+   "end": 8.533
+  },
+  {
+   "text": "Mode.",
+   "start": 8.591,
+   "end": 8.998
+  },
+  {
+   "text": "A",
+   "start": 9.288,
+   "end": 9.358
+  },
+  {
+   "text": "reader",
+   "start": 9.427,
+   "end": 9.648
+  },
+  {
+   "text": "clicks",
+   "start": 9.706,
+   "end": 9.961
+  },
+  {
+   "text": "once.",
+   "start": 10.019,
+   "end": 10.368
+  },
+  {
+   "text": "Google",
+   "start": 10.774,
+   "end": 11.146
+  },
+  {
+   "text": "saves",
+   "start": 11.204,
+   "end": 11.482
+  },
+  {
+   "text": "your",
+   "start": 11.517,
+   "end": 11.656
+  },
+  {
+   "text": "whole",
+   "start": 11.714,
+   "end": 11.912
+  },
+  {
+   "text": "domain",
+   "start": 11.947,
+   "end": 12.33
+  },
+  {
+   "text": "as",
+   "start": 12.399,
+   "end": 12.492
+  },
+  {
+   "text": "a",
+   "start": 12.55,
+   "end": 12.585
+  },
+  {
+   "text": "source",
+   "start": 12.643,
+   "end": 12.922
+  },
+  {
+   "text": "they",
+   "start": 12.957,
+   "end": 13.073
+  },
+  {
+   "text": "prefer.",
+   "start": 13.131,
+   "end": 13.653
+  },
+  {
+   "text": "From",
+   "start": 14.059,
+   "end": 14.234
+  },
+  {
+   "text": "then",
+   "start": 14.28,
+   "end": 14.431
+  },
+  {
+   "text": "on,",
+   "start": 14.501,
+   "end": 14.652
+  },
+  {
+   "text": "when",
+   "start": 14.675,
+   "end": 14.791
+  },
+  {
+   "text": "Google's",
+   "start": 14.837,
+   "end": 15.151
+  },
+  {
+   "text": "AI",
+   "start": 15.209,
+   "end": 15.534
+  },
+  {
+   "text": "cites",
+   "start": 15.592,
+   "end": 15.859
+  },
+  {
+   "text": "your",
+   "start": 15.894,
+   "end": 16.022
+  },
+  {
+   "text": "page,",
+   "start": 16.068,
+   "end": 16.544
+  },
+  {
+   "text": "that",
+   "start": 16.892,
+   "end": 17.078
+  },
+  {
+   "text": "reader",
+   "start": 17.148,
+   "end": 17.403
+  },
+  {
+   "text": "sees",
+   "start": 17.461,
+   "end": 17.659
+  },
+  {
+   "text": "a",
+   "start": 17.705,
+   "end": 17.728
+  },
+  {
+   "text": "Preferred",
+   "start": 17.786,
+   "end": 18.216
+  },
+  {
+   "text": "label",
+   "start": 18.274,
+   "end": 18.518
+  },
+  {
+   "text": "on",
+   "start": 18.576,
+   "end": 18.645
+  },
+  {
+   "text": "your",
+   "start": 18.68,
+   "end": 18.785
+  },
+  {
+   "text": "link.",
+   "start": 18.831,
+   "end": 19.156
+  },
+  {
+   "text": "No",
+   "start": 19.563,
+   "end": 19.702
+  },
+  {
+   "text": "ranking",
+   "start": 19.783,
+   "end": 20.108
+  },
+  {
+   "text": "trick.",
+   "start": 20.166,
+   "end": 20.515
+  },
+  {
+   "text": "The",
+   "start": 20.863,
+   "end": 20.979
+  },
+  {
+   "text": "reader",
+   "start": 21.049,
+   "end": 21.292
+  },
+  {
+   "text": "chose",
+   "start": 21.351,
+   "end": 21.641
+  },
+  {
+   "text": "you,",
+   "start": 21.699,
+   "end": 22.082
+  },
+  {
+   "text": "so",
+   "start": 22.186,
+   "end": 22.326
+  },
+  {
+   "text": "Google's",
+   "start": 22.395,
+   "end": 22.744
+  },
+  {
+   "text": "AI",
+   "start": 22.813,
+   "end": 23.173
+  },
+  {
+   "text": "marks",
+   "start": 23.231,
+   "end": 23.498
+  },
+  {
+   "text": "you.",
+   "start": 23.533,
+   "end": 23.789
+  },
+  {
+   "text": "Google",
+   "start": 24.079,
+   "end": 24.37
+  },
+  {
+   "text": "says",
+   "start": 24.393,
+   "end": 24.59
+  },
+  {
+   "text": "people",
+   "start": 24.648,
+   "end": 24.915
+  },
+  {
+   "text": "are",
+   "start": 24.95,
+   "end": 25.055
+  },
+  {
+   "text": "twice",
+   "start": 25.089,
+   "end": 25.356
+  },
+  {
+   "text": "as",
+   "start": 25.391,
+   "end": 25.472
+  },
+  {
+   "text": "likely",
+   "start": 25.531,
+   "end": 25.821
+  },
+  {
+   "text": "to",
+   "start": 25.867,
+   "end": 25.925
+  },
+  {
+   "text": "click",
+   "start": 25.971,
+   "end": 26.169
+  },
+  {
+   "text": "a",
+   "start": 26.215,
+   "end": 26.238
+  },
+  {
+   "text": "preferred",
+   "start": 26.296,
+   "end": 26.656
+  },
+  {
+   "text": "source.",
+   "start": 26.703,
+   "end": 27.121
+  },
+  {
+   "text": "Over",
+   "start": 27.527,
+   "end": 27.759
+  },
+  {
+   "text": "three",
+   "start": 27.817,
+   "end": 28.003
+  },
+  {
+   "text": "hundred",
+   "start": 28.038,
+   "end": 28.247
+  },
+  {
+   "text": "thousand",
+   "start": 28.282,
+   "end": 28.63
+  },
+  {
+   "text": "sites",
+   "start": 28.676,
+   "end": 28.92
+  },
+  {
+   "text": "are",
+   "start": 28.943,
+   "end": 29.036
+  },
+  {
+   "text": "already",
+   "start": 29.06,
+   "end": 29.303
+  },
+  {
+   "text": "picked.",
+   "start": 29.361,
+   "end": 29.71
+  },
+  {
+   "text": "Setup",
+   "start": 30.116,
+   "end": 30.453
+  },
+  {
+   "text": "takes",
+   "start": 30.499,
+   "end": 30.708
+  },
+  {
+   "text": "two",
+   "start": 30.743,
+   "end": 30.859
+  },
+  {
+   "text": "minutes:",
+   "start": 30.917,
+   "end": 31.382
+  },
+  {
+   "text": "paste",
+   "start": 31.672,
+   "end": 31.927
+  },
+  {
+   "text": "Google's",
+   "start": 31.974,
+   "end": 32.31
+  },
+  {
+   "text": "script,",
+   "start": 32.345,
+   "end": 32.798
+  },
+  {
+   "text": "or",
+   "start": 32.984,
+   "end": 33.135
+  },
+  {
+   "text": "link",
+   "start": 33.216,
+   "end": 33.402
+  },
+  {
+   "text": "to",
+   "start": 33.448,
+   "end": 33.495
+  },
+  {
+   "text": "the",
+   "start": 33.541,
+   "end": 33.611
+  },
+  {
+   "text": "preferences",
+   "start": 33.645,
+   "end": 34.11
+  },
+  {
+   "text": "page",
+   "start": 34.168,
+   "end": 34.412
+  },
+  {
+   "text": "with",
+   "start": 34.435,
+   "end": 34.563
+  },
+  {
+   "text": "your",
+   "start": 34.597,
+   "end": 34.702
+  },
+  {
+   "text": "domain.",
+   "start": 34.76,
+   "end": 35.259
+  },
+  {
+   "text": "It's",
+   "start": 35.515,
+   "end": 35.7
+  },
+  {
+   "text": "live",
+   "start": 35.782,
+   "end": 36.026
+  },
+  {
+   "text": "on",
+   "start": 36.06,
+   "end": 36.13
+  },
+  {
+   "text": "our",
+   "start": 36.176,
+   "end": 36.258
+  },
+  {
+   "text": "footer.",
+   "start": 36.316,
+   "end": 36.71
+  },
+  {
+   "text": "Comment",
+   "start": 37.059,
+   "end": 37.395
+  },
+  {
+   "text": "PREFERRED",
+   "start": 37.442,
+   "end": 37.883
+  },
+  {
+   "text": "and",
+   "start": 37.906,
+   "end": 37.976
+  },
+  {
+   "text": "I'll",
+   "start": 38.022,
+   "end": 38.139
+  },
+  {
+   "text": "send",
+   "start": 38.185,
+   "end": 38.336
+  },
+  {
+   "text": "the",
+   "start": 38.359,
+   "end": 38.429
+  },
+  {
+   "text": "snippet.",
+   "start": 38.452,
+   "end": 39.032
+  }
+ ],
+ "removed_s": 0.25,
+ "tightened": true
+}

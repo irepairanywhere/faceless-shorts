@@ -1,0 +1,367 @@
+{
+  "slug": "9router",
+  "voice_id": "nPczCjzI2devNBz1zQrb",
+  "speed": 1.05,
+  "watermark": "rocketlaunchmedia.com",
+  "music": {
+    "prompt": "Minimal modern lo-fi tech background bed for a short explainer video: soft warm synth pads, subtle light percussion, calm and steady, no vocals, no melody hooks, loopable",
+    "volume": 0.11
+  },
+  "beats": [
+    {
+      "id": "hook",
+      "vo": "You can now run Claude Code with unlimited usage, completely free.",
+      "deco": true,
+      "grid": false,
+      "camera": {
+        "zoom": [
+          1,
+          1.06
+        ]
+      },
+      "lines": [
+        {
+          "text": "You can now run",
+          "size": "md"
+        },
+        {
+          "text": "*CLAUDE CODE*",
+          "size": "xl"
+        },
+        {
+          "card": "claude",
+          "w": 760,
+          "title": "Claude Code",
+          "subtitle": "Unlimited \u00b7 Automatic \u00b7 Free"
+        },
+        {
+          "text": "with unlimited usage",
+          "size": "md"
+        },
+        {
+          "text": "completely *free*",
+          "size": "lg",
+          "box": true
+        }
+      ]
+    },
+    {
+      "id": "save",
+      "vo": "Save this before you hit your limit mid-session and lose everything you were working on.",
+      "lines": [
+        {
+          "text": "Save this before you hit your",
+          "size": "md"
+        },
+        {
+          "text": "*limit mid-session*",
+          "size": "lg"
+        },
+        {
+          "icon": "bookmark",
+          "w": 150
+        }
+      ]
+    },
+    {
+      "id": "github",
+      "vo": "Someone on GitHub just built a free tool called 9Router.",
+      "grid": false,
+      "lines": [
+        {
+          "text": "Someone on",
+          "size": "md"
+        },
+        {
+          "text": "*GitHub*",
+          "size": "xl"
+        },
+        {
+          "icon": "github",
+          "w": 210
+        },
+        {
+          "image": "readme.png",
+          "w": 880,
+          "blur": 3,
+          "after": "GitHub"
+        },
+        {
+          "text": "just built a free tool called",
+          "size": "md"
+        },
+        {
+          "text": "*9Router*",
+          "size": "xl",
+          "color": "#8E8E8E"
+        }
+      ]
+    },
+    {
+      "id": "bridge",
+      "vo": "It acts as a silent bridge between Claude Code and free AI providers like Gemini, Kimi, and GLM.",
+      "layout": "top",
+      "lines": [
+        {
+          "text": "It acts as a silent bridge between",
+          "size": "md"
+        },
+        {
+          "text": "*Claude Code*",
+          "size": "lg"
+        },
+        {
+          "diagram": "bridge"
+        },
+        {
+          "text": "and free AI providers like",
+          "size": "md"
+        },
+        {
+          "text": "Gemini, Kimi, and GLM.",
+          "size": "md",
+          "color": "#8E8E8E"
+        }
+      ]
+    },
+    {
+      "id": "background",
+      "vo": "It sits in the background and you never have to think about it.",
+      "camera": {
+        "zoom": [
+          1,
+          1.1
+        ]
+      },
+      "lines": [
+        {
+          "text": "It sits in the",
+          "size": "md"
+        },
+        {
+          "text": "*background*",
+          "size": "xl"
+        },
+        {
+          "text": "and you never have to",
+          "size": "md"
+        },
+        {
+          "text": "*think about it.*",
+          "size": "xl"
+        }
+      ]
+    },
+    {
+      "id": "runsout",
+      "vo": "The second your Claude limit runs out, it doesn't ask you what to do.",
+      "grid": false,
+      "lines": [
+        {
+          "text": "The second your Claude limit",
+          "size": "md"
+        },
+        {
+          "text": "*runs out!*",
+          "size": "xl"
+        },
+        {
+          "icon": "claude_confused",
+          "w": 300,
+          "rotate": -14
+        },
+        {
+          "text": "it doesn't ask you what to do.",
+          "size": "md",
+          "color": "#8E8E8E"
+        }
+      ]
+    },
+    {
+      "id": "switches",
+      "vo": "It just switches to the next available provider on its own, all the way down to completely free models if it needs to.",
+      "deco": true,
+      "camera": {
+        "zoom": [
+          1,
+          1.08
+        ],
+        "pan": [
+          -40,
+          30
+        ]
+      },
+      "lines": [
+        {
+          "text": "It just switches to the next",
+          "size": "md"
+        },
+        {
+          "diagram": "tree"
+        },
+        {
+          "text": "available provider on its own,",
+          "size": "md"
+        },
+        {
+          "text": "all the way down to",
+          "size": "md"
+        },
+        {
+          "text": "*completely free models*",
+          "size": "lg"
+        },
+        {
+          "text": "if it needs to.",
+          "size": "sm",
+          "color": "#8E8E8E"
+        }
+      ]
+    },
+    {
+      "id": "session",
+      "vo": "Your session keeps going like nothing happened.",
+      "lines": [
+        {
+          "text": "Your session keeps going like",
+          "size": "md"
+        },
+        {
+          "text": "*nothing happened*",
+          "size": "lg",
+          "box": true
+        }
+      ]
+    },
+    {
+      "id": "setup",
+      "vo": "You set it up once, connect your providers, and from that moment on, 9Router manages everything automatically.",
+      "grid": false,
+      "deco": true,
+      "lines": [
+        {
+          "text": "You set it up once.",
+          "size": "md"
+        },
+        {
+          "text": "Connect your providers.",
+          "size": "md"
+        },
+        {
+          "text": "From that moment on,",
+          "size": "md"
+        },
+        {
+          "text": "*9Router* manages everything",
+          "size": "lg"
+        },
+        {
+          "text": "*automatically.*",
+          "size": "xl"
+        }
+      ]
+    },
+    {
+      "id": "nono",
+      "vo": "No manual switching. No interruptions. No extra cost.",
+      "lines": [
+        {
+          "text": "No manual *switching.*",
+          "size": "lg"
+        },
+        {
+          "text": "No *interruptions.*",
+          "size": "lg"
+        },
+        {
+          "text": "No *extra cost.*",
+          "size": "lg"
+        }
+      ]
+    },
+    {
+      "id": "notjust",
+      "vo": "And it's not just for Claude Code. Cursor, Codex, Antigravity, and almost every other AI coding tool out there works with it straight out of the box.",
+      "layout": "top",
+      "lines": [
+        {
+          "text": "And it's not just for",
+          "size": "md"
+        },
+        {
+          "text": "*Claude Code*",
+          "size": "lg"
+        },
+        {
+          "text": "Cursor \u00b7 Codex \u00b7 Antigravity",
+          "size": "md",
+          "box": true
+        },
+        {
+          "text": "and almost every other AI coding tool out there",
+          "size": "md"
+        },
+        {
+          "text": "works with it straight out of the box.",
+          "size": "md",
+          "color": "#8E8E8E"
+        }
+      ]
+    },
+    {
+      "id": "summary",
+      "vo": "One free tool. Zero interruptions. Unlimited sessions.",
+      "grid": false,
+      "lines": [
+        {
+          "image": "readme_body.png",
+          "w": 960,
+          "tilt": -3,
+          "at": 0.05
+        },
+        {
+          "text": "One free *tool.*",
+          "size": "lg",
+          "box": true
+        },
+        {
+          "text": "Zero *interruptions.*",
+          "size": "lg",
+          "box": true
+        },
+        {
+          "text": "Unlimited *sessions.*",
+          "size": "lg",
+          "box": true
+        }
+      ]
+    },
+    {
+      "id": "cta",
+      "vo": "Follow for more free AI tools like this one.",
+      "deco": true,
+      "grid": false,
+      "camera": {
+        "zoom": [
+          1,
+          1.08
+        ]
+      },
+      "lines": [
+        {
+          "text": "Follow for more",
+          "size": "md"
+        },
+        {
+          "text": "*free AI tools*",
+          "size": "xl"
+        },
+        {
+          "text": "like this one.",
+          "size": "md",
+          "color": "#8E8E8E"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,314 @@
+{
+  "slug": "5-mcp-servers",
+  "voice_id": "nPczCjzI2devNBz1zQrb",
+  "speed": 1.05,
+  "watermark": "rocketlaunchmedia.com",
+  "music": {
+    "prompt": "Minimal modern tech background bed for a short explainer video: warm soft synth pads, subtle rhythmic pulse, confident and calm, no vocals, no melody hooks, loopable",
+    "volume": 0.11
+  },
+  "beats": [
+    {
+      "id": "hook",
+      "vo": "Claude Code runs my marketing agency now. Here are the five connections that made it possible.",
+      "deco": true,
+      "grid": false,
+      "camera": {
+        "zoom": [
+          1,
+          1.06
+        ]
+      },
+      "lines": [
+        {
+          "text": "Claude Code runs my",
+          "size": "md"
+        },
+        {
+          "text": "*marketing agency* now.",
+          "size": "lg"
+        },
+        {
+          "card": "claude",
+          "w": 760,
+          "title": "Claude Code",
+          "subtitle": "5 connections \u00b7 1 agency"
+        },
+        {
+          "text": "Here are the *5 connections*",
+          "size": "lg"
+        },
+        {
+          "text": "that made it possible.",
+          "size": "md",
+          "color": "#8E8E8E"
+        }
+      ]
+    },
+    {
+      "id": "save",
+      "vo": "Save this if you run a business and still do everything by hand.",
+      "transition": "whip",
+      "lines": [
+        {
+          "text": "Save this if you run a business",
+          "size": "md"
+        },
+        {
+          "text": "and still do *everything by hand.*",
+          "size": "lg"
+        },
+        {
+          "icon": "bookmark",
+          "w": 150
+        }
+      ]
+    },
+    {
+      "id": "one",
+      "vo": "One. GoHighLevel, my CRM. Claude reads the pipeline, moves the deals, and schedules my social posts without me opening the app.",
+      "layout": "top",
+      "lines": [
+        {
+          "badge": "1",
+          "size": 150
+        },
+        {
+          "text": "*GoHighLevel,* my CRM.",
+          "size": "lg"
+        },
+        {
+          "image": "ghl.png",
+          "w": 1200,
+          "pan": [
+            90,
+            -90
+          ]
+        },
+        {
+          "text": "Claude reads the pipeline, moves the deals,",
+          "size": "md"
+        },
+        {
+          "text": "and schedules my social posts",
+          "size": "md"
+        },
+        {
+          "text": "without me *opening the app.*",
+          "size": "lg"
+        }
+      ]
+    },
+    {
+      "id": "two",
+      "vo": "Two. Google Workspace. Drive, Gmail, and Calendar. It finds the client file, drafts the reply, and books the call.",
+      "layout": "top",
+      "transition": "whip",
+      "grid": false,
+      "lines": [
+        {
+          "badge": "2",
+          "size": 150
+        },
+        {
+          "text": "*Google Workspace*",
+          "size": "lg"
+        },
+        {
+          "text": "Drive \u00b7 Gmail \u00b7 Calendar",
+          "size": "md",
+          "box": true,
+          "silent": true
+        },
+        {
+          "chat": "Find the new client's onboarding file, draft the reply, and book our call for Thursday.",
+          "who": "you",
+          "w": 860
+        },
+        {
+          "text": "It finds the client file, drafts the reply,",
+          "size": "md"
+        },
+        {
+          "text": "and *books the call.*",
+          "size": "lg"
+        }
+      ]
+    },
+    {
+      "id": "three",
+      "vo": "Three. WordPress. It edits pages, fixes SEO titles, and publishes blog posts straight to the live site.",
+      "layout": "top",
+      "lines": [
+        {
+          "badge": "3",
+          "size": 150
+        },
+        {
+          "text": "*WordPress*",
+          "size": "lg"
+        },
+        {
+          "image": "wordpress.png",
+          "w": 1200,
+          "pan": [
+            -90,
+            90
+          ]
+        },
+        {
+          "text": "It edits pages, fixes SEO titles,",
+          "size": "md"
+        },
+        {
+          "text": "and publishes blog posts",
+          "size": "md"
+        },
+        {
+          "text": "straight to the *live site.*",
+          "size": "lg"
+        }
+      ]
+    },
+    {
+      "id": "four",
+      "vo": "Four. Meta Ads. Every morning it pulls the spend and the cost per lead, and tells me what to pause.",
+      "layout": "top",
+      "transition": "whip",
+      "grid": false,
+      "lines": [
+        {
+          "badge": "4",
+          "size": 150
+        },
+        {
+          "text": "*Meta Ads*",
+          "size": "lg"
+        },
+        {
+          "terminal": [
+            "$ claude  \u203a  morning ad report",
+            "spend: $1,578  \u00b7  leads: 36",
+            "cost per lead: $43.85",
+            "\u2713 pause 2 ad sets over target"
+          ],
+          "w": 900,
+          "title": "meta-ads"
+        },
+        {
+          "text": "Every morning it pulls the spend and the cost per lead,",
+          "size": "sm",
+          "color": "#8E8E8E"
+        },
+        {
+          "text": "and tells me *what to pause.*",
+          "size": "lg"
+        }
+      ]
+    },
+    {
+      "id": "five",
+      "vo": "Five. ElevenLabs. It voices every video I post, including this one.",
+      "layout": "top",
+      "lines": [
+        {
+          "badge": "5",
+          "size": 150
+        },
+        {
+          "text": "*ElevenLabs*",
+          "size": "lg"
+        },
+        {
+          "image": "elevenlabs.png",
+          "w": 1200,
+          "pan": [
+            90,
+            -90
+          ]
+        },
+        {
+          "text": "It voices every video I post,",
+          "size": "md"
+        },
+        {
+          "text": "*including this one.*",
+          "size": "xl",
+          "emphColor": "#E5744C"
+        }
+      ]
+    },
+    {
+      "id": "how",
+      "vo": "They're called MCP servers. You connect each one once, and from then on, Claude Code uses them like an employee who never sleeps.",
+      "deco": true,
+      "grid": false,
+      "transition": "whip",
+      "lines": [
+        {
+          "text": "They're called",
+          "size": "md"
+        },
+        {
+          "text": "*MCP servers.*",
+          "size": "xl"
+        },
+        {
+          "text": "Connect once \u00b7 Use forever",
+          "size": "md",
+          "box": true,
+          "silent": true
+        },
+        {
+          "text": "You connect each one once, and from then on,",
+          "size": "sm",
+          "color": "#8E8E8E"
+        },
+        {
+          "text": "Claude Code uses them like an employee",
+          "size": "md"
+        },
+        {
+          "text": "who *never sleeps.*",
+          "size": "lg"
+        }
+      ]
+    },
+    {
+      "id": "cta",
+      "vo": "Comment MCP and I'll send you the list with the exact setup for each one. And follow, I post what I build.",
+      "deco": true,
+      "grid": false,
+      "camera": {
+        "zoom": [
+          1,
+          1.08
+        ]
+      },
+      "lines": [
+        {
+          "text": "Comment",
+          "size": "md"
+        },
+        {
+          "text": "*MCP*",
+          "size": "xl",
+          "box": true
+        },
+        {
+          "text": "and I'll send you the list",
+          "size": "md"
+        },
+        {
+          "text": "with the exact setup for each one.",
+          "size": "sm",
+          "color": "#8E8E8E"
+        },
+        {
+          "text": "And *follow,* I post what I build.",
+          "size": "md"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+# secrets
+.env
+*.env
+# deps / build
+node_modules/
+remotion/out/
+remotion/.remotion*/
+__pycache__/
+*.pyc
+.DS_Store
+# generated media (re-creatable from beats.json + APIs)
+projects/**/*.mp4
+projects/**/*.mp3
+projects/**/*.wav
+projects/**/stock/
+projects/**/shots/
+projects/**/qa*/
+projects/**/.tmp*
+remotion/public/stock/
+remotion/public/audio/
+remotion/public/images/
+# keep: projects/**/beats.json, words.json, timeline.json, images/, *.md ; remotion/public/sfx, remotion/public/lottie

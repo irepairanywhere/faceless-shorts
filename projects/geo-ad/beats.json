@@ -1,0 +1,60 @@
+{
+  "slug": "geo-ad", "theme": "midnight", "anim": "rise",
+  "voice_id": "nPczCjzI2devNBz1zQrb", "speed": 1.05, "watermark": "rocketlaunchmedia.com",
+  "music": {"prompt": "Dark minimal electronic background bed for a short tech ad: deep synth pads, subtle arpeggio, sleek and modern, no vocals, no melody hooks, loopable", "volume": 0.12},
+  "beats": [
+    {"id": "hook", "vo": "People ask ChatGPT and other AI models for an immigration lawyer over seventeen thousand times a month.",
+     "layout": "top",
+     "lines": [
+       {"chat": "Who's the best immigration lawyer near me?", "who": "you", "label": "Someone, right now", "w": 860, "at": 0.05},
+       {"chat": "Here are some helpful resources: Nolo, lawful.com, USCIS.gov…", "who": "ai", "label": "ChatGPT", "w": 860, "after": "models"},
+       {"text": "*17,000+*", "size": "xl", "silent": true, "after": "seventeen"},
+       {"text": "times a month.", "size": "md", "color": "#9CA3AF"}
+     ]},
+    {"id": "none", "vo": "And not one of the sources they cite is a law firm.",
+     "anim": "fill", "transition": "whip",
+     "lines": [
+       {"text": "And *not one* of the sources they cite", "size": "lg"},
+       {"text": "is a *law firm.*", "size": "xl"}
+     ]},
+    {"id": "sources", "vo": "They cite Nolo. They cite lawful.com. They cite the government. Not you.",
+     "lines": [
+       {"text": "Nolo · lawful.com · justice.gov", "size": "md", "box": true, "silent": true},
+       {"text": "They cite Nolo. They cite lawful.com. They cite the government.", "size": "sm", "color": "#9CA3AF"},
+       {"text": "*Not you.*", "size": "xl"}
+     ]},
+    {"id": "verify", "vo": "Because AI doesn't recommend who ranks on Google. It recommends who it can verify.",
+     "anim": "fill", "transition": "whip",
+     "lines": [
+       {"text": "AI doesn't recommend who ranks on Google.", "size": "md"},
+       {"text": "It recommends who it can", "size": "md"},
+       {"text": "*verify.*", "size": "xl"}
+     ]},
+    {"id": "three", "vo": "It checks three things. Credentials it can read. Reviews on sites it trusts. And comparison pages, which take a third of all AI citations.",
+     "layout": "top",
+     "lines": [
+       {"text": "It checks *three things.*", "size": "lg"},
+       {"badge": "1", "size": 120, "after": "things."},
+       {"text": "*Credentials* it can read.", "size": "md"},
+       {"badge": "2", "size": 120, "after": "read."},
+       {"text": "*Reviews* on sites it trusts.", "size": "md"},
+       {"badge": "3", "size": 120, "after": "trusts."},
+       {"text": "*Comparison pages,*", "size": "md"},
+       {"text": "which take a third of all AI citations.", "size": "sm", "color": "#9CA3AF"}
+     ]},
+    {"id": "install", "vo": "We install all three for immigration law firms, and track every time an AI names you.",
+     "transition": "whip",
+     "lines": [
+       {"text": "We install all three for", "size": "md"},
+       {"text": "*immigration law firms,*", "size": "lg"},
+       {"text": "and track every time an AI *names you.*", "size": "lg"}
+     ]},
+    {"id": "cta", "vo": "Comment GEO and I'll send you the checklist.",
+     "lines": [
+       {"text": "Comment", "size": "md"},
+       {"text": "*GEO*", "size": "xl", "box": true},
+       {"text": "and I'll send you the checklist.", "size": "md"},
+       {"text": "rocketlaunchmedia.com", "size": "sm", "silent": true, "color": "#9CA3AF"}
+     ]}
+  ]
+}

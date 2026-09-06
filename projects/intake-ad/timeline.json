@@ -1,0 +1,949 @@
+{
+ "fps": 30,
+ "durationSec": 45.018,
+ "voSrc": "audio/intake-ad/voice.mp3",
+ "musicSrc": "audio/intake-ad/music.mp3",
+ "musicVolume": 0.12,
+ "watermark": "rocketlaunchmedia.com",
+ "theme": "film",
+ "anim": "rise",
+ "beats": [
+  {
+   "id": "hook",
+   "start": 0.0,
+   "lines": [
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "A",
+       "t": 0.0,
+       "end": 0.093,
+       "emph": false
+      },
+      {
+       "text": "law",
+       "t": 0.186,
+       "end": 0.348,
+       "emph": false
+      },
+      {
+       "text": "firm",
+       "t": 0.418,
+       "end": 0.604,
+       "emph": false
+      },
+      {
+       "text": "misses",
+       "t": 0.639,
+       "end": 0.94,
+       "emph": false
+      }
+     ],
+     "size": "md",
+     "box": false
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "1",
+       "t": 1.033,
+       "end": 1.3,
+       "emph": true
+      },
+      {
+       "text": "in",
+       "t": 1.347,
+       "end": 1.416,
+       "emph": true
+      },
+      {
+       "text": "3",
+       "t": 1.463,
+       "end": 1.683,
+       "emph": true
+      }
+     ],
+     "size": "xl",
+     "box": false,
+     "emphColor": "#FFD166"
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "calls.",
+       "t": 1.73,
+       "end": 2.276,
+       "emph": true
+      }
+     ],
+     "size": "lg",
+     "box": false
+    }
+   ],
+   "layout": "center",
+   "grid": true,
+   "deco": false,
+   "camera": {
+    "zoom": [
+     1,
+     1.05
+    ]
+   },
+   "bg": {
+    "overlay": 0.45,
+    "src": "stock/intake-ad/phone-ringing-on-desk.mp4"
+   },
+   "end": 2.469
+  },
+  {
+   "id": "case",
+   "start": 2.469,
+   "lines": [
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "Each",
+       "t": 2.589,
+       "end": 2.798,
+       "emph": false
+      },
+      {
+       "text": "one",
+       "t": 2.868,
+       "end": 3.03,
+       "emph": false
+      },
+      {
+       "text": "is",
+       "t": 3.065,
+       "end": 3.135,
+       "emph": false
+      },
+      {
+       "text": "a",
+       "t": 3.181,
+       "end": 3.216,
+       "emph": false
+      },
+      {
+       "text": "case",
+       "t": 3.262,
+       "end": 3.564,
+       "emph": false
+      }
+     ],
+     "size": "md",
+     "box": false
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "walking",
+       "t": 3.622,
+       "end": 3.959,
+       "emph": false
+      },
+      {
+       "text": "to",
+       "t": 4.017,
+       "end": 4.075,
+       "emph": false
+      },
+      {
+       "text": "the",
+       "t": 4.133,
+       "end": 4.203,
+       "emph": false
+      },
+      {
+       "text": "next",
+       "t": 4.238,
+       "end": 4.412,
+       "emph": true
+      },
+      {
+       "text": "firm.",
+       "t": 4.458,
+       "end": 4.865,
+       "emph": true
+      }
+     ],
+     "size": "lg",
+     "box": false
+    }
+   ],
+   "layout": "center",
+   "grid": true,
+   "deco": false,
+   "camera": {
+    "zoom": [
+     1,
+     1.05
+    ]
+   },
+   "transition": "whip",
+   "bg": {
+    "overlay": 0.55,
+    "src": "stock/intake-ad/law-office-reception-desk-empty.mp4"
+   },
+   "end": 5.104
+  },
+  {
+   "id": "install",
+   "start": 5.104,
+   "lines": [
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "Here's",
+       "t": 5.224,
+       "end": 5.503,
+       "emph": false
+      },
+      {
+       "text": "what",
+       "t": 5.526,
+       "end": 5.642,
+       "emph": false
+      },
+      {
+       "text": "we",
+       "t": 5.689,
+       "end": 5.77,
+       "emph": false
+      },
+      {
+       "text": "install",
+       "t": 5.828,
+       "end": 6.165,
+       "emph": false
+      }
+     ],
+     "size": "md",
+     "box": false
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "in",
+       "t": 6.223,
+       "end": 6.269,
+       "emph": false
+      },
+      {
+       "text": "30",
+       "t": 6.327,
+       "end": 6.513,
+       "emph": true
+      },
+      {
+       "text": "days.",
+       "t": 6.571,
+       "end": 6.989,
+       "emph": true
+      }
+     ],
+     "size": "xl",
+     "box": false
+    }
+   ],
+   "layout": "center",
+   "grid": true,
+   "deco": false,
+   "camera": {
+    "zoom": [
+     1,
+     1.05
+    ]
+   },
+   "bg": {
+    "overlay": 0.6,
+    "src": "stock/intake-ad/hands-typing-on-laptop-close-up.mp4"
+   },
+   "end": 7.287
+  },
+  {
+   "id": "one",
+   "start": 7.287,
+   "lines": [
+    {
+     "kind": "badge",
+     "text": "1",
+     "size": 150,
+     "t": 7.457
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "Missed-call",
+       "t": 8.173,
+       "end": 8.824,
+       "emph": true
+      },
+      {
+       "text": "text-back",
+       "t": 8.905,
+       "end": 9.601,
+       "emph": true
+      }
+     ],
+     "size": "lg",
+     "box": false
+    },
+    {
+     "kind": "chat",
+     "text": "Sorry we missed your call! This is the firm. What can we help you with today?",
+     "who": "ai",
+     "w": 860,
+     "t": 9.651,
+     "label": "The firm \u00b7 4 seconds later"
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "and",
+       "t": 12.678,
+       "end": 12.817,
+       "emph": false
+      },
+      {
+       "text": "the",
+       "t": 12.852,
+       "end": 12.922,
+       "emph": false
+      },
+      {
+       "text": "conversation",
+       "t": 12.968,
+       "end": 13.642,
+       "emph": false
+      },
+      {
+       "text": "starts.",
+       "t": 13.688,
+       "end": 14.187,
+       "emph": true
+      }
+     ],
+     "size": "lg",
+     "box": false
+    }
+   ],
+   "layout": "top",
+   "grid": true,
+   "deco": false,
+   "camera": {
+    "zoom": [
+     1,
+     1.05
+    ]
+   },
+   "transition": "whip",
+   "bg": {
+    "overlay": 0.65,
+    "src": "stock/intake-ad/person-looking-at-phone-notification.mp4"
+   },
+   "end": 14.427
+  },
+  {
+   "id": "two",
+   "start": 14.427,
+   "lines": [
+    {
+     "kind": "badge",
+     "text": "2",
+     "size": 150,
+     "t": 14.597
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "Bilingual",
+       "t": 15.36,
+       "end": 15.987,
+       "emph": true
+      },
+      {
+       "text": "intake",
+       "t": 16.057,
+       "end": 16.58,
+       "emph": true
+      }
+     ],
+     "size": "lg",
+     "box": false
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "English",
+       "t": 16.63,
+       "end": 16.83,
+       "emph": false
+      },
+      {
+       "text": "\u00b7",
+       "t": 16.71,
+       "end": 16.91,
+       "emph": false
+      },
+      {
+       "text": "Espa\u00f1ol",
+       "t": 16.79,
+       "end": 16.99,
+       "emph": false
+      },
+      {
+       "text": "\u00b7",
+       "t": 16.87,
+       "end": 17.07,
+       "emph": false
+      },
+      {
+       "text": "24/7",
+       "t": 16.95,
+       "end": 17.15,
+       "emph": false
+      }
+     ],
+     "size": "md",
+     "box": true
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "so",
+       "t": 19.401,
+       "end": 19.552,
+       "emph": false
+      },
+      {
+       "text": "no",
+       "t": 19.645,
+       "end": 19.737,
+       "emph": false
+      },
+      {
+       "text": "one",
+       "t": 19.807,
+       "end": 19.923,
+       "emph": false
+      },
+      {
+       "text": "hangs",
+       "t": 19.958,
+       "end": 20.179,
+       "emph": false
+      },
+      {
+       "text": "up",
+       "t": 20.225,
+       "end": 20.318,
+       "emph": false
+      },
+      {
+       "text": "because",
+       "t": 20.364,
+       "end": 20.62,
+       "emph": false
+      },
+      {
+       "text": "nobody",
+       "t": 20.689,
+       "end": 21.073,
+       "emph": false
+      },
+      {
+       "text": "understood",
+       "t": 21.131,
+       "end": 21.537,
+       "emph": true
+      },
+      {
+       "text": "them.",
+       "t": 21.572,
+       "end": 21.862,
+       "emph": true
+      }
+     ],
+     "size": "md",
+     "box": false
+    }
+   ],
+   "layout": "top",
+   "grid": true,
+   "deco": false,
+   "camera": {
+    "zoom": [
+     1,
+     1.05
+    ]
+   },
+   "bg": {
+    "overlay": 0.6,
+    "src": "stock/intake-ad/woman-talking-on-phone-office-smiling.mp4"
+   },
+   "end": 22.52
+  },
+  {
+   "id": "three",
+   "start": 22.52,
+   "lines": [
+    {
+     "kind": "badge",
+     "text": "3",
+     "size": 150,
+     "t": 22.69
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "Instant",
+       "t": 23.557,
+       "end": 24.022,
+       "emph": true
+      },
+      {
+       "text": "follow-up",
+       "t": 24.091,
+       "end": 24.707,
+       "emph": true
+      }
+     ],
+     "size": "lg",
+     "box": false
+    },
+    {
+     "kind": "terminal",
+     "lines": [
+      "new lead: Maria R. \u00b7 green card",
+      "\u2713 text sent \u00b7 0:12",
+      "\u2713 call placed \u00b7 0:40",
+      "\u2713 email sent \u00b7 1:05"
+     ],
+     "w": 900,
+     "title": "intake",
+     "t": 24.757
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "within",
+       "t": 28.294,
+       "end": 28.526,
+       "emph": false
+      },
+      {
+       "text": "5",
+       "t": 28.584,
+       "end": 28.805,
+       "emph": true
+      },
+      {
+       "text": "minutes.",
+       "t": 28.84,
+       "end": 29.316,
+       "emph": true
+      },
+      {
+       "text": "Automatically.",
+       "t": 29.896,
+       "end": 30.72,
+       "emph": false
+      }
+     ],
+     "size": "lg",
+     "box": false
+    }
+   ],
+   "layout": "top",
+   "grid": true,
+   "deco": false,
+   "camera": {
+    "zoom": [
+     1,
+     1.05
+    ]
+   },
+   "transition": "whip",
+   "bg": {
+    "overlay": 0.7,
+    "src": "stock/intake-ad/hands-typing-on-laptop-close-up.mp4"
+   },
+   "end": 30.914
+  },
+  {
+   "id": "guarantee",
+   "start": 30.914,
+   "lines": [
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "You",
+       "t": 31.034,
+       "end": 31.173,
+       "emph": false
+      },
+      {
+       "text": "own",
+       "t": 31.255,
+       "end": 31.394,
+       "emph": true
+      },
+      {
+       "text": "the",
+       "t": 31.429,
+       "end": 31.498,
+       "emph": false
+      },
+      {
+       "text": "whole",
+       "t": 31.556,
+       "end": 31.812,
+       "emph": false
+      },
+      {
+       "text": "system",
+       "t": 31.858,
+       "end": 32.183,
+       "emph": false
+      },
+      {
+       "text": "after",
+       "t": 32.23,
+       "end": 32.415,
+       "emph": false
+      },
+      {
+       "text": "90",
+       "t": 32.485,
+       "end": 32.694,
+       "emph": true
+      },
+      {
+       "text": "days.",
+       "t": 32.752,
+       "end": 33.182,
+       "emph": true
+      }
+     ],
+     "size": "lg",
+     "box": false
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "If",
+       "t": 33.693,
+       "end": 33.762,
+       "emph": false
+      },
+      {
+       "text": "you",
+       "t": 33.809,
+       "end": 33.901,
+       "emph": false
+      },
+      {
+       "text": "invest",
+       "t": 33.983,
+       "end": 34.389,
+       "emph": false
+      },
+      {
+       "text": "and",
+       "t": 34.436,
+       "end": 34.528,
+       "emph": false
+      },
+      {
+       "text": "don't",
+       "t": 34.61,
+       "end": 34.83,
+       "emph": false
+      },
+      {
+       "text": "get",
+       "t": 34.865,
+       "end": 34.981,
+       "emph": false
+      },
+      {
+       "text": "a",
+       "t": 35.016,
+       "end": 35.039,
+       "emph": false
+      },
+      {
+       "text": "qualified",
+       "t": 35.086,
+       "end": 35.538,
+       "emph": false
+      },
+      {
+       "text": "lead",
+       "t": 35.585,
+       "end": 35.84,
+       "emph": false
+      },
+      {
+       "text": "worth",
+       "t": 36.003,
+       "end": 36.258,
+       "emph": false
+      },
+      {
+       "text": "more",
+       "t": 36.34,
+       "end": 36.549,
+       "emph": false
+      },
+      {
+       "text": "than",
+       "t": 36.583,
+       "end": 36.699,
+       "emph": false
+      },
+      {
+       "text": "what",
+       "t": 36.734,
+       "end": 36.862,
+       "emph": false
+      },
+      {
+       "text": "you",
+       "t": 36.897,
+       "end": 36.978,
+       "emph": false
+      },
+      {
+       "text": "paid",
+       "t": 37.071,
+       "end": 37.28,
+       "emph": false
+      },
+      {
+       "text": "within",
+       "t": 37.326,
+       "end": 37.57,
+       "emph": false
+      },
+      {
+       "text": "30",
+       "t": 37.64,
+       "end": 37.86,
+       "emph": false
+      },
+      {
+       "text": "days,",
+       "t": 37.919,
+       "end": 38.36,
+       "emph": false
+      }
+     ],
+     "size": "sm",
+     "box": false,
+     "color": "#C9C9C9"
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "you",
+       "t": 38.72,
+       "end": 38.813,
+       "emph": false
+      },
+      {
+       "text": "get",
+       "t": 38.894,
+       "end": 38.998,
+       "emph": false
+      },
+      {
+       "text": "all",
+       "t": 39.021,
+       "end": 39.114,
+       "emph": true
+      },
+      {
+       "text": "your",
+       "t": 39.172,
+       "end": 39.265,
+       "emph": true
+      },
+      {
+       "text": "money",
+       "t": 39.3,
+       "end": 39.463,
+       "emph": true
+      },
+      {
+       "text": "back.",
+       "t": 39.497,
+       "end": 39.834,
+       "emph": true
+      }
+     ],
+     "size": "lg",
+     "box": false
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "No",
+       "t": 40.194,
+       "end": 40.357,
+       "emph": true
+      },
+      {
+       "text": "questions.",
+       "t": 40.426,
+       "end": 41.076,
+       "emph": true
+      }
+     ],
+     "size": "xl",
+     "box": false,
+     "emphColor": "#FFD166"
+    }
+   ],
+   "layout": "center",
+   "grid": true,
+   "deco": false,
+   "camera": {
+    "zoom": [
+     1,
+     1.05
+    ]
+   },
+   "bg": {
+    "overlay": 0.7,
+    "src": "stock/intake-ad/law-office-reception-desk-empty.mp4"
+   },
+   "end": 41.316
+  },
+  {
+   "id": "cta",
+   "start": 41.316,
+   "lines": [
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "Comment",
+       "t": 41.436,
+       "end": 41.901,
+       "emph": false
+      }
+     ],
+     "size": "md",
+     "box": false
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "INTAKE",
+       "t": 41.947,
+       "end": 42.621,
+       "emph": true
+      }
+     ],
+     "size": "xl",
+     "box": true
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "and",
+       "t": 42.667,
+       "end": 42.876,
+       "emph": false
+      },
+      {
+       "text": "I'll",
+       "t": 42.934,
+       "end": 43.05,
+       "emph": false
+      },
+      {
+       "text": "send",
+       "t": 43.097,
+       "end": 43.236,
+       "emph": false
+      },
+      {
+       "text": "you",
+       "t": 43.271,
+       "end": 43.34,
+       "emph": false
+      },
+      {
+       "text": "the",
+       "t": 43.375,
+       "end": 43.445,
+       "emph": false
+      },
+      {
+       "text": "setup.",
+       "t": 43.48,
+       "end": 44.118,
+       "emph": false
+      }
+     ],
+     "size": "md",
+     "box": false
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "rocketlaunchmedia.com",
+       "t": 44.168,
+       "end": 44.368,
+       "emph": false
+      }
+     ],
+     "size": "sm",
+     "box": false,
+     "color": "#C9C9C9"
+    }
+   ],
+   "layout": "center",
+   "grid": true,
+   "deco": false,
+   "camera": {
+    "zoom": [
+     1,
+     1.05
+    ]
+   },
+   "transition": "whip",
+   "bg": {
+    "overlay": 0.7,
+    "src": "stock/intake-ad/phone-ringing-on-desk.mp4"
+   },
+   "end": 45.018
+  }
+ ],
+ "sfx": true
+}

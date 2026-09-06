@@ -1,0 +1,902 @@
+{
+ "text": "You can now run Claude Code with unlimited usage, completely free.\n\nSave this before you hit your limit mid-session and lose everything you were working on.\n\nSomeone on GitHub just built a free tool called 9Router.\n\nIt acts as a silent bridge between Claude Code and free AI providers like Gemini, Kimi, and GLM.\n\nIt sits in the background and you never have to think about it.\n\nThe second your Claude limit runs out, it doesn't ask you what to do.\n\nIt just switches to the next available provider on its own, all the way down to completely free models if it needs to.\n\nYour session keeps going like nothing happened.\n\nYou set it up once, connect your providers, and from that moment on, 9Router manages everything automatically.\n\nNo manual switching. No interruptions. No extra cost.\n\nAnd it's not just for Claude Code. Cursor, Codex, Antigravity, and almost every other AI coding tool out there works with it straight out of the box.\n\nOne free tool. Zero interruptions. Unlimited sessions.\n\nFollow for more free AI tools like this one.",
+ "voice_id": "nPczCjzI2devNBz1zQrb",
+ "speed": 1.05,
+ "words": [
+  {
+   "text": "You",
+   "start": 0.0,
+   "end": 0.163
+  },
+  {
+   "text": "can",
+   "start": 0.221,
+   "end": 0.325
+  },
+  {
+   "text": "now",
+   "start": 0.372,
+   "end": 0.511
+  },
+  {
+   "text": "run",
+   "start": 0.592,
+   "end": 0.766
+  },
+  {
+   "text": "Claude",
+   "start": 0.824,
+   "end": 1.115
+  },
+  {
+   "text": "Code",
+   "start": 1.161,
+   "end": 1.428
+  },
+  {
+   "text": "with",
+   "start": 1.463,
+   "end": 1.591
+  },
+  {
+   "text": "unlimited",
+   "start": 1.66,
+   "end": 2.159
+  },
+  {
+   "text": "usage,",
+   "start": 2.218,
+   "end": 2.705
+  },
+  {
+   "text": "completely",
+   "start": 2.902,
+   "end": 3.413
+  },
+  {
+   "text": "free.",
+   "start": 3.471,
+   "end": 3.889
+  },
+  {
+   "text": "Save",
+   "start": 4.377,
+   "end": 4.714
+  },
+  {
+   "text": "this",
+   "start": 4.748,
+   "end": 4.899
+  },
+  {
+   "text": "before",
+   "start": 4.969,
+   "end": 5.317
+  },
+  {
+   "text": "you",
+   "start": 5.387,
+   "end": 5.492
+  },
+  {
+   "text": "hit",
+   "start": 5.608,
+   "end": 5.782
+  },
+  {
+   "text": "your",
+   "start": 5.84,
+   "end": 5.968
+  },
+  {
+   "text": "limit",
+   "start": 6.037,
+   "end": 6.281
+  },
+  {
+   "text": "mid-session",
+   "start": 6.374,
+   "end": 7.105
+  },
+  {
+   "text": "and",
+   "start": 7.303,
+   "end": 7.523
+  },
+  {
+   "text": "lose",
+   "start": 7.605,
+   "end": 7.837
+  },
+  {
+   "text": "everything",
+   "start": 7.918,
+   "end": 8.382
+  },
+  {
+   "text": "you",
+   "start": 8.429,
+   "end": 8.499
+  },
+  {
+   "text": "were",
+   "start": 8.533,
+   "end": 8.661
+  },
+  {
+   "text": "working",
+   "start": 8.696,
+   "end": 8.975
+  },
+  {
+   "text": "on.",
+   "start": 9.044,
+   "end": 9.334
+  },
+  {
+   "text": "Someone",
+   "start": 9.996,
+   "end": 10.461
+  },
+  {
+   "text": "on",
+   "start": 10.507,
+   "end": 10.623
+  },
+  {
+   "text": "GitHub",
+   "start": 10.716,
+   "end": 11.192
+  },
+  {
+   "text": "just",
+   "start": 11.273,
+   "end": 11.459
+  },
+  {
+   "text": "built",
+   "start": 11.494,
+   "end": 11.668
+  },
+  {
+   "text": "a",
+   "start": 11.703,
+   "end": 11.726
+  },
+  {
+   "text": "free",
+   "start": 11.796,
+   "end": 12.016
+  },
+  {
+   "text": "tool",
+   "start": 12.063,
+   "end": 12.353
+  },
+  {
+   "text": "called",
+   "start": 12.469,
+   "end": 12.725
+  },
+  {
+   "text": "9Router.",
+   "start": 12.806,
+   "end": 13.549
+  },
+  {
+   "text": "It",
+   "start": 14.129,
+   "end": 14.292
+  },
+  {
+   "text": "acts",
+   "start": 14.338,
+   "end": 14.571
+  },
+  {
+   "text": "as",
+   "start": 14.605,
+   "end": 14.71
+  },
+  {
+   "text": "a",
+   "start": 14.768,
+   "end": 14.791
+  },
+  {
+   "text": "silent",
+   "start": 14.907,
+   "end": 15.302
+  },
+  {
+   "text": "bridge",
+   "start": 15.36,
+   "end": 15.825
+  },
+  {
+   "text": "between",
+   "start": 15.883,
+   "end": 16.231
+  },
+  {
+   "text": "Claude",
+   "start": 16.277,
+   "end": 16.602
+  },
+  {
+   "text": "Code",
+   "start": 16.649,
+   "end": 16.986
+  },
+  {
+   "text": "and",
+   "start": 17.032,
+   "end": 17.136
+  },
+  {
+   "text": "free",
+   "start": 17.194,
+   "end": 17.38
+  },
+  {
+   "text": "AI",
+   "start": 17.415,
+   "end": 17.647
+  },
+  {
+   "text": "providers",
+   "start": 17.705,
+   "end": 18.239
+  },
+  {
+   "text": "like",
+   "start": 18.402,
+   "end": 18.599
+  },
+  {
+   "text": "Gemini,",
+   "start": 18.634,
+   "end": 19.273
+  },
+  {
+   "text": "Kimi,",
+   "start": 19.505,
+   "end": 19.865
+  },
+  {
+   "text": "and",
+   "start": 19.888,
+   "end": 19.969
+  },
+  {
+   "text": "GLM.",
+   "start": 20.027,
+   "end": 20.701
+  },
+  {
+   "text": "It",
+   "start": 21.281,
+   "end": 21.444
+  },
+  {
+   "text": "sits",
+   "start": 21.525,
+   "end": 21.827
+  },
+  {
+   "text": "in",
+   "start": 21.873,
+   "end": 21.943
+  },
+  {
+   "text": "the",
+   "start": 21.978,
+   "end": 22.047
+  },
+  {
+   "text": "background",
+   "start": 22.094,
+   "end": 22.605
+  },
+  {
+   "text": "and",
+   "start": 22.721,
+   "end": 22.907
+  },
+  {
+   "text": "you",
+   "start": 22.965,
+   "end": 23.046
+  },
+  {
+   "text": "never",
+   "start": 23.162,
+   "end": 23.371
+  },
+  {
+   "text": "have",
+   "start": 23.429,
+   "end": 23.568
+  },
+  {
+   "text": "to",
+   "start": 23.592,
+   "end": 23.638
+  },
+  {
+   "text": "think",
+   "start": 23.684,
+   "end": 23.835
+  },
+  {
+   "text": "about",
+   "start": 23.87,
+   "end": 24.079
+  },
+  {
+   "text": "it.",
+   "start": 24.102,
+   "end": 24.265
+  },
+  {
+   "text": "The",
+   "start": 24.625,
+   "end": 24.753
+  },
+  {
+   "text": "second",
+   "start": 24.869,
+   "end": 25.24
+  },
+  {
+   "text": "your",
+   "start": 25.31,
+   "end": 25.449
+  },
+  {
+   "text": "Claude",
+   "start": 25.519,
+   "end": 25.937
+  },
+  {
+   "text": "limit",
+   "start": 25.995,
+   "end": 26.285
+  },
+  {
+   "text": "runs",
+   "start": 26.355,
+   "end": 26.61
+  },
+  {
+   "text": "out,",
+   "start": 26.668,
+   "end": 26.958
+  },
+  {
+   "text": "it",
+   "start": 27.051,
+   "end": 27.167
+  },
+  {
+   "text": "doesn't",
+   "start": 27.225,
+   "end": 27.527
+  },
+  {
+   "text": "ask",
+   "start": 27.574,
+   "end": 27.748
+  },
+  {
+   "text": "you",
+   "start": 27.794,
+   "end": 27.876
+  },
+  {
+   "text": "what",
+   "start": 27.91,
+   "end": 28.038
+  },
+  {
+   "text": "to",
+   "start": 28.073,
+   "end": 28.131
+  },
+  {
+   "text": "do.",
+   "start": 28.189,
+   "end": 28.537
+  },
+  {
+   "text": "It",
+   "start": 28.897,
+   "end": 29.013
+  },
+  {
+   "text": "just",
+   "start": 29.06,
+   "end": 29.234
+  },
+  {
+   "text": "switches",
+   "start": 29.292,
+   "end": 29.722
+  },
+  {
+   "text": "to",
+   "start": 29.78,
+   "end": 29.85
+  },
+  {
+   "text": "the",
+   "start": 29.919,
+   "end": 29.989
+  },
+  {
+   "text": "next",
+   "start": 30.047,
+   "end": 30.268
+  },
+  {
+   "text": "available",
+   "start": 30.314,
+   "end": 30.697
+  },
+  {
+   "text": "provider",
+   "start": 30.732,
+   "end": 31.127
+  },
+  {
+   "text": "on",
+   "start": 31.173,
+   "end": 31.231
+  },
+  {
+   "text": "its",
+   "start": 31.278,
+   "end": 31.382
+  },
+  {
+   "text": "own,",
+   "start": 31.44,
+   "end": 31.823
+  },
+  {
+   "text": "all",
+   "start": 32.09,
+   "end": 32.311
+  },
+  {
+   "text": "the",
+   "start": 32.357,
+   "end": 32.427
+  },
+  {
+   "text": "way",
+   "start": 32.473,
+   "end": 32.578
+  },
+  {
+   "text": "down",
+   "start": 32.624,
+   "end": 32.81
+  },
+  {
+   "text": "to",
+   "start": 32.857,
+   "end": 32.915
+  },
+  {
+   "text": "completely",
+   "start": 32.996,
+   "end": 33.611
+  },
+  {
+   "text": "free",
+   "start": 33.692,
+   "end": 33.913
+  },
+  {
+   "text": "models",
+   "start": 33.971,
+   "end": 34.308
+  },
+  {
+   "text": "if",
+   "start": 34.354,
+   "end": 34.424
+  },
+  {
+   "text": "it",
+   "start": 34.47,
+   "end": 34.528
+  },
+  {
+   "text": "needs",
+   "start": 34.563,
+   "end": 34.772
+  },
+  {
+   "text": "to.",
+   "start": 34.819,
+   "end": 35.132
+  },
+  {
+   "text": "Your",
+   "start": 35.62,
+   "end": 35.805
+  },
+  {
+   "text": "session",
+   "start": 35.875,
+   "end": 36.247
+  },
+  {
+   "text": "keeps",
+   "start": 36.316,
+   "end": 36.583
+  },
+  {
+   "text": "going",
+   "start": 36.641,
+   "end": 36.932
+  },
+  {
+   "text": "like",
+   "start": 36.99,
+   "end": 37.141
+  },
+  {
+   "text": "nothing",
+   "start": 37.187,
+   "end": 37.442
+  },
+  {
+   "text": "happened.",
+   "start": 37.501,
+   "end": 37.965
+  },
+  {
+   "text": "You",
+   "start": 38.383,
+   "end": 38.522
+  },
+  {
+   "text": "set",
+   "start": 38.615,
+   "end": 38.801
+  },
+  {
+   "text": "it",
+   "start": 38.847,
+   "end": 38.905
+  },
+  {
+   "text": "up",
+   "start": 38.952,
+   "end": 39.056
+  },
+  {
+   "text": "once,",
+   "start": 39.149,
+   "end": 39.625
+  },
+  {
+   "text": "connect",
+   "start": 39.985,
+   "end": 40.299
+  },
+  {
+   "text": "your",
+   "start": 40.345,
+   "end": 40.449
+  },
+  {
+   "text": "providers,",
+   "start": 40.508,
+   "end": 41.192
+  },
+  {
+   "text": "and",
+   "start": 41.39,
+   "end": 41.552
+  },
+  {
+   "text": "from",
+   "start": 41.61,
+   "end": 41.75
+  },
+  {
+   "text": "that",
+   "start": 41.808,
+   "end": 41.982
+  },
+  {
+   "text": "moment",
+   "start": 42.052,
+   "end": 42.342
+  },
+  {
+   "text": "on,",
+   "start": 42.4,
+   "end": 42.748
+  },
+  {
+   "text": "9Router",
+   "start": 42.98,
+   "end": 43.445
+  },
+  {
+   "text": "manages",
+   "start": 43.514,
+   "end": 43.944
+  },
+  {
+   "text": "everything",
+   "start": 44.083,
+   "end": 44.536
+  },
+  {
+   "text": "automatically.",
+   "start": 44.582,
+   "end": 45.279
+  },
+  {
+   "text": "No",
+   "start": 45.697,
+   "end": 45.848
+  },
+  {
+   "text": "manual",
+   "start": 45.929,
+   "end": 46.312
+  },
+  {
+   "text": "switching.",
+   "start": 46.394,
+   "end": 46.986
+  },
+  {
+   "text": "No",
+   "start": 47.299,
+   "end": 47.439
+  },
+  {
+   "text": "interruptions.",
+   "start": 47.508,
+   "end": 48.321
+  },
+  {
+   "text": "No",
+   "start": 48.634,
+   "end": 48.797
+  },
+  {
+   "text": "extra",
+   "start": 48.878,
+   "end": 49.168
+  },
+  {
+   "text": "cost.",
+   "start": 49.215,
+   "end": 49.772
+  },
+  {
+   "text": "And",
+   "start": 50.19,
+   "end": 50.329
+  },
+  {
+   "text": "it's",
+   "start": 50.387,
+   "end": 50.527
+  },
+  {
+   "text": "not",
+   "start": 50.62,
+   "end": 50.852
+  },
+  {
+   "text": "just",
+   "start": 50.922,
+   "end": 51.107
+  },
+  {
+   "text": "for",
+   "start": 51.154,
+   "end": 51.258
+  },
+  {
+   "text": "Claude",
+   "start": 51.316,
+   "end": 51.641
+  },
+  {
+   "text": "Code.",
+   "start": 51.688,
+   "end": 52.21
+  },
+  {
+   "text": "Cursor,",
+   "start": 52.628,
+   "end": 53.302
+  },
+  {
+   "text": "Codex,",
+   "start": 53.441,
+   "end": 54.184
+  },
+  {
+   "text": "Antigravity,",
+   "start": 54.3,
+   "end": 55.287
+  },
+  {
+   "text": "and",
+   "start": 55.484,
+   "end": 55.647
+  },
+  {
+   "text": "almost",
+   "start": 55.705,
+   "end": 56.007
+  },
+  {
+   "text": "every",
+   "start": 56.123,
+   "end": 56.436
+  },
+  {
+   "text": "other",
+   "start": 56.494,
+   "end": 56.668
+  },
+  {
+   "text": "AI",
+   "start": 56.738,
+   "end": 57.028
+  },
+  {
+   "text": "coding",
+   "start": 57.098,
+   "end": 57.411
+  },
+  {
+   "text": "tool",
+   "start": 57.47,
+   "end": 57.69
+  },
+  {
+   "text": "out",
+   "start": 57.748,
+   "end": 57.887
+  },
+  {
+   "text": "there",
+   "start": 57.922,
+   "end": 58.294
+  },
+  {
+   "text": "works",
+   "start": 58.526,
+   "end": 58.84
+  },
+  {
+   "text": "with",
+   "start": 58.886,
+   "end": 59.025
+  },
+  {
+   "text": "it",
+   "start": 59.072,
+   "end": 59.153
+  },
+  {
+   "text": "straight",
+   "start": 59.235,
+   "end": 59.676
+  },
+  {
+   "text": "out",
+   "start": 59.711,
+   "end": 59.792
+  },
+  {
+   "text": "of",
+   "start": 59.827,
+   "end": 59.873
+  },
+  {
+   "text": "the",
+   "start": 59.908,
+   "end": 59.978
+  },
+  {
+   "text": "box.",
+   "start": 60.013,
+   "end": 60.5
+  },
+  {
+   "text": "One",
+   "start": 60.988,
+   "end": 61.266
+  },
+  {
+   "text": "free",
+   "start": 61.313,
+   "end": 61.51
+  },
+  {
+   "text": "tool.",
+   "start": 61.557,
+   "end": 61.975
+  },
+  {
+   "text": "Zero",
+   "start": 62.335,
+   "end": 62.741
+  },
+  {
+   "text": "interruptions.",
+   "start": 62.811,
+   "end": 63.67
+  },
+  {
+   "text": "Unlimited",
+   "start": 63.751,
+   "end": 64.285
+  },
+  {
+   "text": "sessions.",
+   "start": 64.331,
+   "end": 64.97
+  },
+  {
+   "text": "Follow",
+   "start": 65.458,
+   "end": 65.783
+  },
+  {
+   "text": "for",
+   "start": 65.841,
+   "end": 65.957
+  },
+  {
+   "text": "more",
+   "start": 66.027,
+   "end": 66.236
+  },
+  {
+   "text": "free",
+   "start": 66.294,
+   "end": 66.503
+  },
+  {
+   "text": "AI",
+   "start": 66.549,
+   "end": 66.828
+  },
+  {
+   "text": "tools",
+   "start": 66.874,
+   "end": 67.153
+  },
+  {
+   "text": "like",
+   "start": 67.199,
+   "end": 67.338
+  },
+  {
+   "text": "this",
+   "start": 67.362,
+   "end": 67.513
+  },
+  {
+   "text": "one.",
+   "start": 67.582,
+   "end": 68.082
+  }
+ ]
+}

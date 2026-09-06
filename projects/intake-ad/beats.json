@@ -1,0 +1,66 @@
+{
+  "slug": "intake-ad", "theme": "film", "anim": "rise",
+  "voice_id": "nPczCjzI2devNBz1zQrb", "speed": 1.05, "watermark": "rocketlaunchmedia.com",
+  "music": {"prompt": "Cinematic minimal background bed for a serious short ad: low sustained strings, soft pulse, tension that resolves, no vocals, no melody hooks, loopable", "volume": 0.12},
+  "beats": [
+    {"id": "hook", "vo": "A law firm misses one in three calls.",
+     "bg": {"stock": "phone ringing on desk", "overlay": 0.45},
+     "lines": [
+       {"text": "A law firm misses", "size": "md"},
+       {"text": "*1 in 3*", "size": "xl", "emphColor": "#FFD166"},
+       {"text": "*calls.*", "size": "lg"}
+     ]},
+    {"id": "case", "vo": "Each one is a case walking to the next firm.",
+     "bg": {"stock": "law office reception desk empty", "overlay": 0.55}, "transition": "whip",
+     "lines": [
+       {"text": "Each one is a case", "size": "md"},
+       {"text": "walking to the *next firm.*", "size": "lg"}
+     ]},
+    {"id": "install", "vo": "Here's what we install in 30 days.",
+     "bg": {"stock": "hands typing on laptop close up", "overlay": 0.6},
+     "lines": [
+       {"text": "Here's what we install", "size": "md"},
+       {"text": "in *30 days.*", "size": "xl"}
+     ]},
+    {"id": "one", "vo": "One. Missed-call text-back. The second a call drops, the caller gets a text, and the conversation starts.",
+     "bg": {"stock": "person looking at phone notification", "overlay": 0.65}, "layout": "top", "transition": "whip",
+     "lines": [
+       {"badge": "1", "size": 150},
+       {"text": "*Missed-call text-back*", "size": "lg"},
+       {"chat": "Sorry we missed your call! This is the firm. What can we help you with today?", "who": "ai", "label": "The firm · 4 seconds later", "w": 860},
+       {"text": "and the conversation *starts.*", "size": "lg"}
+     ]},
+    {"id": "two", "vo": "Two. Bilingual intake. English and Spanish, twenty-four seven, so no one hangs up because nobody understood them.",
+     "bg": {"stock": "woman talking on phone office smiling", "overlay": 0.6}, "layout": "top",
+     "lines": [
+       {"badge": "2", "size": 150},
+       {"text": "*Bilingual intake*", "size": "lg"},
+       {"text": "English · Español · 24/7", "size": "md", "box": true, "silent": true},
+       {"text": "so no one hangs up because nobody *understood them.*", "size": "md"}
+     ]},
+    {"id": "three", "vo": "Three. Instant follow-up. Every lead gets a call, a text, and an email within five minutes. Automatically.",
+     "bg": {"stock": "hands typing on laptop close up", "overlay": 0.7}, "layout": "top", "transition": "whip",
+     "lines": [
+       {"badge": "3", "size": 150},
+       {"text": "*Instant follow-up*", "size": "lg"},
+       {"terminal": ["new lead: Maria R. · green card", "✓ text sent · 0:12", "✓ call placed · 0:40", "✓ email sent · 1:05"], "w": 900, "title": "intake"},
+       {"text": "within *5 minutes.* Automatically.", "size": "lg"}
+     ]},
+    {"id": "guarantee", "vo": "You own the whole system after 90 days. And if you invest and don't get a qualified lead worth more than what you paid within 30 days, you get all your money back. No questions.",
+     "bg": {"stock": "law office reception desk empty", "overlay": 0.7},
+     "lines": [
+       {"text": "You *own* the whole system after *90 days.*", "size": "lg"},
+       {"text": "If you invest and don't get a qualified lead worth more than what you paid within 30 days,", "size": "sm", "color": "#C9C9C9"},
+       {"text": "you get *all your money back.*", "size": "lg"},
+       {"text": "*No questions.*", "size": "xl", "emphColor": "#FFD166"}
+     ]},
+    {"id": "cta", "vo": "Comment INTAKE and I'll send you the setup.",
+     "bg": {"stock": "phone ringing on desk", "overlay": 0.7}, "transition": "whip",
+     "lines": [
+       {"text": "Comment", "size": "md"},
+       {"text": "*INTAKE*", "size": "xl", "box": true},
+       {"text": "and I'll send you the setup.", "size": "md"},
+       {"text": "rocketlaunchmedia.com", "size": "sm", "silent": true, "color": "#C9C9C9"}
+     ]}
+  ]
+}

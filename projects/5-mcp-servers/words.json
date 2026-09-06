@@ -1,0 +1,817 @@
+{
+ "text": "Claude Code runs my marketing agency now. Here are the five connections that made it possible.\n\nSave this if you run a business and still do everything by hand.\n\nOne. GoHighLevel, my CRM. Claude reads the pipeline, moves the deals, and schedules my social posts without me opening the app.\n\nTwo. Google Workspace. Drive, Gmail, and Calendar. It finds the client file, drafts the reply, and books the call.\n\nThree. WordPress. It edits pages, fixes SEO titles, and publishes blog posts straight to the live site.\n\nFour. Meta Ads. Every morning it pulls the spend and the cost per lead, and tells me what to pause.\n\nFive. ElevenLabs. It voices every video I post, including this one.\n\nThey're called MCP servers. You connect each one once, and from then on, Claude Code uses them like an employee who never sleeps.\n\nComment MCP and I'll send you the list with the exact setup for each one. And follow, I post what I build.",
+ "voice_id": "nPczCjzI2devNBz1zQrb",
+ "speed": 1.05,
+ "words": [
+  {
+   "text": "Claude",
+   "start": 0.0,
+   "end": 0.383
+  },
+  {
+   "text": "Code",
+   "start": 0.418,
+   "end": 0.743
+  },
+  {
+   "text": "runs",
+   "start": 0.789,
+   "end": 0.987
+  },
+  {
+   "text": "my",
+   "start": 1.033,
+   "end": 1.103
+  },
+  {
+   "text": "marketing",
+   "start": 1.184,
+   "end": 1.509
+  },
+  {
+   "text": "agency",
+   "start": 1.556,
+   "end": 1.881
+  },
+  {
+   "text": "now.",
+   "start": 1.939,
+   "end": 2.264
+  },
+  {
+   "text": "Here",
+   "start": 2.577,
+   "end": 2.752
+  },
+  {
+   "text": "are",
+   "start": 2.786,
+   "end": 2.879
+  },
+  {
+   "text": "the",
+   "start": 2.902,
+   "end": 2.972
+  },
+  {
+   "text": "five",
+   "start": 3.019,
+   "end": 3.274
+  },
+  {
+   "text": "connections",
+   "start": 3.309,
+   "end": 3.75
+  },
+  {
+   "text": "that",
+   "start": 3.785,
+   "end": 3.889
+  },
+  {
+   "text": "made",
+   "start": 3.936,
+   "end": 4.075
+  },
+  {
+   "text": "it",
+   "start": 4.098,
+   "end": 4.145
+  },
+  {
+   "text": "possible.",
+   "start": 4.18,
+   "end": 4.725
+  },
+  {
+   "text": "Save",
+   "start": 5.143,
+   "end": 5.457
+  },
+  {
+   "text": "this",
+   "start": 5.492,
+   "end": 5.642
+  },
+  {
+   "text": "if",
+   "start": 5.7,
+   "end": 5.77
+  },
+  {
+   "text": "you",
+   "start": 5.817,
+   "end": 5.886
+  },
+  {
+   "text": "run",
+   "start": 5.979,
+   "end": 6.107
+  },
+  {
+   "text": "a",
+   "start": 6.153,
+   "end": 6.177
+  },
+  {
+   "text": "business",
+   "start": 6.223,
+   "end": 6.629
+  },
+  {
+   "text": "and",
+   "start": 6.711,
+   "end": 6.873
+  },
+  {
+   "text": "still",
+   "start": 6.92,
+   "end": 7.14
+  },
+  {
+   "text": "do",
+   "start": 7.187,
+   "end": 7.279
+  },
+  {
+   "text": "everything",
+   "start": 7.338,
+   "end": 7.628
+  },
+  {
+   "text": "by",
+   "start": 7.674,
+   "end": 7.767
+  },
+  {
+   "text": "hand.",
+   "start": 7.825,
+   "end": 8.208
+  },
+  {
+   "text": "One.",
+   "start": 8.986,
+   "end": 9.404
+  },
+  {
+   "text": "GoHighLevel,",
+   "start": 9.822,
+   "end": 10.646
+  },
+  {
+   "text": "my",
+   "start": 10.716,
+   "end": 10.809
+  },
+  {
+   "text": "CRM.",
+   "start": 10.879,
+   "end": 11.459
+  },
+  {
+   "text": "Claude",
+   "start": 12.04,
+   "end": 12.365
+  },
+  {
+   "text": "reads",
+   "start": 12.411,
+   "end": 12.608
+  },
+  {
+   "text": "the",
+   "start": 12.632,
+   "end": 12.701
+  },
+  {
+   "text": "pipeline,",
+   "start": 12.748,
+   "end": 13.375
+  },
+  {
+   "text": "moves",
+   "start": 13.537,
+   "end": 13.793
+  },
+  {
+   "text": "the",
+   "start": 13.839,
+   "end": 13.909
+  },
+  {
+   "text": "deals,",
+   "start": 13.956,
+   "end": 14.455
+  },
+  {
+   "text": "and",
+   "start": 14.652,
+   "end": 14.803
+  },
+  {
+   "text": "schedules",
+   "start": 14.861,
+   "end": 15.256
+  },
+  {
+   "text": "my",
+   "start": 15.314,
+   "end": 15.395
+  },
+  {
+   "text": "social",
+   "start": 15.477,
+   "end": 15.802
+  },
+  {
+   "text": "posts",
+   "start": 15.871,
+   "end": 16.138
+  },
+  {
+   "text": "without",
+   "start": 16.173,
+   "end": 16.452
+  },
+  {
+   "text": "me",
+   "start": 16.487,
+   "end": 16.568
+  },
+  {
+   "text": "opening",
+   "start": 16.614,
+   "end": 16.87
+  },
+  {
+   "text": "the",
+   "start": 16.905,
+   "end": 16.974
+  },
+  {
+   "text": "app.",
+   "start": 17.021,
+   "end": 17.346
+  },
+  {
+   "text": "Two.",
+   "start": 18.008,
+   "end": 18.472
+  },
+  {
+   "text": "Google",
+   "start": 19.134,
+   "end": 19.505
+  },
+  {
+   "text": "Workspace.",
+   "start": 19.54,
+   "end": 20.271
+  },
+  {
+   "text": "Drive,",
+   "start": 20.689,
+   "end": 21.316
+  },
+  {
+   "text": "Gmail,",
+   "start": 21.479,
+   "end": 22.025
+  },
+  {
+   "text": "and",
+   "start": 22.048,
+   "end": 22.164
+  },
+  {
+   "text": "Calendar.",
+   "start": 22.222,
+   "end": 22.802
+  },
+  {
+   "text": "It",
+   "start": 23.383,
+   "end": 23.511
+  },
+  {
+   "text": "finds",
+   "start": 23.569,
+   "end": 23.813
+  },
+  {
+   "text": "the",
+   "start": 23.847,
+   "end": 23.917
+  },
+  {
+   "text": "client",
+   "start": 23.952,
+   "end": 24.265
+  },
+  {
+   "text": "file,",
+   "start": 24.312,
+   "end": 24.765
+  },
+  {
+   "text": "drafts",
+   "start": 25.182,
+   "end": 25.542
+  },
+  {
+   "text": "the",
+   "start": 25.589,
+   "end": 25.659
+  },
+  {
+   "text": "reply,",
+   "start": 25.717,
+   "end": 26.285
+  },
+  {
+   "text": "and",
+   "start": 26.32,
+   "end": 26.46
+  },
+  {
+   "text": "books",
+   "start": 26.506,
+   "end": 26.715
+  },
+  {
+   "text": "the",
+   "start": 26.75,
+   "end": 26.82
+  },
+  {
+   "text": "call.",
+   "start": 26.854,
+   "end": 27.214
+  },
+  {
+   "text": "Three.",
+   "start": 27.876,
+   "end": 28.398
+  },
+  {
+   "text": "WordPress.",
+   "start": 28.886,
+   "end": 29.687
+  },
+  {
+   "text": "It",
+   "start": 30.047,
+   "end": 30.198
+  },
+  {
+   "text": "edits",
+   "start": 30.279,
+   "end": 30.604
+  },
+  {
+   "text": "pages,",
+   "start": 30.662,
+   "end": 31.289
+  },
+  {
+   "text": "fixes",
+   "start": 31.405,
+   "end": 31.8
+  },
+  {
+   "text": "SEO",
+   "start": 31.916,
+   "end": 32.265
+  },
+  {
+   "text": "titles,",
+   "start": 32.323,
+   "end": 32.88
+  },
+  {
+   "text": "and",
+   "start": 33.043,
+   "end": 33.194
+  },
+  {
+   "text": "publishes",
+   "start": 33.252,
+   "end": 33.646
+  },
+  {
+   "text": "blog",
+   "start": 33.705,
+   "end": 33.948
+  },
+  {
+   "text": "posts",
+   "start": 34.018,
+   "end": 34.355
+  },
+  {
+   "text": "straight",
+   "start": 34.494,
+   "end": 34.761
+  },
+  {
+   "text": "to",
+   "start": 34.784,
+   "end": 34.831
+  },
+  {
+   "text": "the",
+   "start": 34.889,
+   "end": 34.958
+  },
+  {
+   "text": "live",
+   "start": 34.993,
+   "end": 35.191
+  },
+  {
+   "text": "site.",
+   "start": 35.214,
+   "end": 35.562
+  },
+  {
+   "text": "Four.",
+   "start": 35.98,
+   "end": 36.491
+  },
+  {
+   "text": "Meta",
+   "start": 36.804,
+   "end": 37.118
+  },
+  {
+   "text": "Ads.",
+   "start": 37.199,
+   "end": 37.733
+  },
+  {
+   "text": "Every",
+   "start": 38.047,
+   "end": 38.314
+  },
+  {
+   "text": "morning",
+   "start": 38.383,
+   "end": 38.65
+  },
+  {
+   "text": "it",
+   "start": 38.697,
+   "end": 38.755
+  },
+  {
+   "text": "pulls",
+   "start": 38.813,
+   "end": 39.057
+  },
+  {
+   "text": "the",
+   "start": 39.092,
+   "end": 39.161
+  },
+  {
+   "text": "spend",
+   "start": 39.196,
+   "end": 39.451
+  },
+  {
+   "text": "and",
+   "start": 39.498,
+   "end": 39.568
+  },
+  {
+   "text": "the",
+   "start": 39.591,
+   "end": 39.66
+  },
+  {
+   "text": "cost",
+   "start": 39.695,
+   "end": 39.997
+  },
+  {
+   "text": "per",
+   "start": 40.055,
+   "end": 40.183
+  },
+  {
+   "text": "lead,",
+   "start": 40.253,
+   "end": 40.636
+  },
+  {
+   "text": "and",
+   "start": 40.949,
+   "end": 41.1
+  },
+  {
+   "text": "tells",
+   "start": 41.147,
+   "end": 41.379
+  },
+  {
+   "text": "me",
+   "start": 41.425,
+   "end": 41.495
+  },
+  {
+   "text": "what",
+   "start": 41.53,
+   "end": 41.657
+  },
+  {
+   "text": "to",
+   "start": 41.704,
+   "end": 41.75
+  },
+  {
+   "text": "pause.",
+   "start": 41.808,
+   "end": 42.296
+  },
+  {
+   "text": "Five.",
+   "start": 42.784,
+   "end": 43.341
+  },
+  {
+   "text": "ElevenLabs.",
+   "start": 43.701,
+   "end": 44.606
+  },
+  {
+   "text": "It",
+   "start": 44.966,
+   "end": 45.106
+  },
+  {
+   "text": "voices",
+   "start": 45.164,
+   "end": 45.523
+  },
+  {
+   "text": "every",
+   "start": 45.64,
+   "end": 45.895
+  },
+  {
+   "text": "video",
+   "start": 45.941,
+   "end": 46.22
+  },
+  {
+   "text": "I",
+   "start": 46.301,
+   "end": 46.325
+  },
+  {
+   "text": "post,",
+   "start": 46.441,
+   "end": 46.893
+  },
+  {
+   "text": "including",
+   "start": 46.94,
+   "end": 47.393
+  },
+  {
+   "text": "this",
+   "start": 47.439,
+   "end": 47.578
+  },
+  {
+   "text": "one.",
+   "start": 47.648,
+   "end": 47.95
+  },
+  {
+   "text": "They're",
+   "start": 48.31,
+   "end": 48.554
+  },
+  {
+   "text": "called",
+   "start": 48.577,
+   "end": 48.809
+  },
+  {
+   "text": "MCP",
+   "start": 48.879,
+   "end": 49.366
+  },
+  {
+   "text": "servers.",
+   "start": 49.506,
+   "end": 50.11
+  },
+  {
+   "text": "You",
+   "start": 50.469,
+   "end": 50.609
+  },
+  {
+   "text": "connect",
+   "start": 50.678,
+   "end": 50.969
+  },
+  {
+   "text": "each",
+   "start": 51.05,
+   "end": 51.247
+  },
+  {
+   "text": "one",
+   "start": 51.317,
+   "end": 51.491
+  },
+  {
+   "text": "once,",
+   "start": 51.538,
+   "end": 51.955
+  },
+  {
+   "text": "and",
+   "start": 52.072,
+   "end": 52.223
+  },
+  {
+   "text": "from",
+   "start": 52.269,
+   "end": 52.408
+  },
+  {
+   "text": "then",
+   "start": 52.455,
+   "end": 52.606
+  },
+  {
+   "text": "on,",
+   "start": 52.687,
+   "end": 53.082
+  },
+  {
+   "text": "Claude",
+   "start": 53.279,
+   "end": 53.627
+  },
+  {
+   "text": "Code",
+   "start": 53.662,
+   "end": 53.918
+  },
+  {
+   "text": "uses",
+   "start": 53.964,
+   "end": 54.254
+  },
+  {
+   "text": "them",
+   "start": 54.289,
+   "end": 54.428
+  },
+  {
+   "text": "like",
+   "start": 54.498,
+   "end": 54.649
+  },
+  {
+   "text": "an",
+   "start": 54.684,
+   "end": 54.742
+  },
+  {
+   "text": "employee",
+   "start": 54.777,
+   "end": 55.264
+  },
+  {
+   "text": "who",
+   "start": 55.311,
+   "end": 55.427
+  },
+  {
+   "text": "never",
+   "start": 55.485,
+   "end": 55.671
+  },
+  {
+   "text": "sleeps.",
+   "start": 55.717,
+   "end": 56.228
+  },
+  {
+   "text": "Comment",
+   "start": 56.89,
+   "end": 57.25
+  },
+  {
+   "text": "MCP",
+   "start": 57.308,
+   "end": 57.795
+  },
+  {
+   "text": "and",
+   "start": 57.935,
+   "end": 58.004
+  },
+  {
+   "text": "I'll",
+   "start": 58.062,
+   "end": 58.202
+  },
+  {
+   "text": "send",
+   "start": 58.248,
+   "end": 58.399
+  },
+  {
+   "text": "you",
+   "start": 58.434,
+   "end": 58.504
+  },
+  {
+   "text": "the",
+   "start": 58.55,
+   "end": 58.62
+  },
+  {
+   "text": "list",
+   "start": 58.666,
+   "end": 58.863
+  },
+  {
+   "text": "with",
+   "start": 58.91,
+   "end": 59.038
+  },
+  {
+   "text": "the",
+   "start": 59.061,
+   "end": 59.13
+  },
+  {
+   "text": "exact",
+   "start": 59.2,
+   "end": 59.572
+  },
+  {
+   "text": "setup",
+   "start": 59.618,
+   "end": 59.873
+  },
+  {
+   "text": "for",
+   "start": 59.92,
+   "end": 60.013
+  },
+  {
+   "text": "each",
+   "start": 60.048,
+   "end": 60.187
+  },
+  {
+   "text": "one.",
+   "start": 60.257,
+   "end": 60.582
+  },
+  {
+   "text": "And",
+   "start": 60.895,
+   "end": 61.058
+  },
+  {
+   "text": "follow,",
+   "start": 61.139,
+   "end": 61.65
+  },
+  {
+   "text": "I",
+   "start": 61.731,
+   "end": 61.789
+  },
+  {
+   "text": "post",
+   "start": 61.905,
+   "end": 62.114
+  },
+  {
+   "text": "what",
+   "start": 62.149,
+   "end": 62.265
+  },
+  {
+   "text": "I",
+   "start": 62.3,
+   "end": 62.323
+  },
+  {
+   "text": "build.",
+   "start": 62.416,
+   "end": 63.02
+  }
+ ]
+}

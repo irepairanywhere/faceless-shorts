@@ -1,0 +1,293 @@
+{
+  "slug": "made-by-text",
+  "voice_id": "nPczCjzI2devNBz1zQrb",
+  "speed": 1.05,
+  "watermark": "rocketlaunchmedia.com",
+  "music": {
+    "prompt": "Minimal modern tech background bed for a short explainer: warm soft synth pads, gentle rhythmic pulse, understated, calm, no vocals, no melody hooks, loopable",
+    "volume": 0.11
+  },
+  "beats": [
+    {
+      "id": "hook",
+      "vo": "This entire video was made from a text file. No editor, no camera, no timeline.",
+      "deco": true,
+      "grid": false,
+      "camera": {
+        "zoom": [
+          1,
+          1.06
+        ]
+      },
+      "lines": [
+        {
+          "text": "This entire video",
+          "size": "md"
+        },
+        {
+          "text": "*was made from a text file.*",
+          "size": "lg"
+        },
+        {
+          "terminal": [
+            "$ make_short.py projects/this-video",
+            "voice: 172 words \u00b7 64s",
+            "music: generated",
+            "\u2713 rendered 1080\u00d71920"
+          ],
+          "w": 900,
+          "title": "faceless-shorts"
+        },
+        {
+          "text": "No editor. No camera. No timeline.",
+          "size": "md",
+          "color": "#8E8E8E"
+        }
+      ]
+    },
+    {
+      "id": "save",
+      "vo": "Save this if you've ever wanted to post every day without filming anything.",
+      "transition": "whip",
+      "lines": [
+        {
+          "text": "Save this if you've ever wanted to",
+          "size": "md"
+        },
+        {
+          "text": "*post every day*",
+          "size": "xl"
+        },
+        {
+          "text": "without filming anything.",
+          "size": "md",
+          "color": "#8E8E8E"
+        },
+        {
+          "icon": "bookmark",
+          "w": 150
+        }
+      ]
+    },
+    {
+      "id": "stack",
+      "vo": "Here's the entire stack. Claude Code writes the script as a simple list of beats: what the voice says, and what shows on screen.",
+      "grid": false,
+      "layout": "top",
+      "lines": [
+        {
+          "text": "Here's the entire stack.",
+          "size": "md"
+        },
+        {
+          "text": "*Claude Code* writes the script",
+          "size": "lg"
+        },
+        {
+          "chat": "Write a 60-second script about the video-use skill. Hook first, then how it works, then a CTA.",
+          "who": "you",
+          "w": 860
+        },
+        {
+          "text": "as a simple list of beats:",
+          "size": "md"
+        },
+        {
+          "text": "what the voice says, and what shows on screen.",
+          "size": "md",
+          "color": "#8E8E8E"
+        }
+      ]
+    },
+    {
+      "id": "voice",
+      "vo": "ElevenLabs reads it out loud and returns the exact timestamp of every single word.",
+      "transition": "whip",
+      "layout": "top",
+      "lines": [
+        {
+          "text": "*ElevenLabs* reads it out loud",
+          "size": "lg"
+        },
+        {
+          "image": "elevenlabs_site.png",
+          "w": 1200,
+          "pan": [
+            90,
+            -90
+          ]
+        },
+        {
+          "text": "and returns the exact timestamp of",
+          "size": "md"
+        },
+        {
+          "text": "*every single word.*",
+          "size": "xl"
+        }
+      ]
+    },
+    {
+      "id": "sync",
+      "vo": "That's why each word pops the moment it's spoken.",
+      "grid": false,
+      "camera": {
+        "zoom": [
+          1,
+          1.1
+        ]
+      },
+      "lines": [
+        {
+          "text": "That's why each word",
+          "size": "md"
+        },
+        {
+          "text": "*pops*",
+          "size": "xl",
+          "emphColor": "#E5744C"
+        },
+        {
+          "text": "the moment it's spoken.",
+          "size": "md"
+        }
+      ]
+    },
+    {
+      "id": "remotion",
+      "vo": "Then Remotion, a free tool that turns React code into video, animates everything: the text, the icons, the camera moves.",
+      "layout": "top",
+      "transition": "whip",
+      "lines": [
+        {
+          "text": "Then *Remotion,*",
+          "size": "lg"
+        },
+        {
+          "image": "remotion_site.png",
+          "w": 1200,
+          "pan": [
+            -90,
+            90
+          ]
+        },
+        {
+          "text": "a free tool that turns React code into video,",
+          "size": "sm",
+          "color": "#8E8E8E"
+        },
+        {
+          "text": "animates everything:",
+          "size": "md"
+        },
+        {
+          "text": "the text \u00b7 the icons \u00b7 the camera moves",
+          "size": "md",
+          "box": true
+        }
+      ]
+    },
+    {
+      "id": "music",
+      "vo": "Even the music underneath was generated from a one-line prompt.",
+      "deco": true,
+      "grid": false,
+      "lines": [
+        {
+          "text": "Even the *music* underneath",
+          "size": "lg"
+        },
+        {
+          "text": "was generated from a",
+          "size": "md"
+        },
+        {
+          "text": "*one-line prompt.*",
+          "size": "lg",
+          "box": true
+        }
+      ]
+    },
+    {
+      "id": "render",
+      "vo": "The whole thing renders in about forty seconds. Change one line in the file, and you get a new video.",
+      "transition": "whip",
+      "lines": [
+        {
+          "text": "The whole thing renders in",
+          "size": "md"
+        },
+        {
+          "text": "*about 40 seconds.*",
+          "size": "xl"
+        },
+        {
+          "terminal": [
+            "$ remotion render KineticShort",
+            "2071 frames \u00b7 30 fps",
+            "\u2713 final.mp4 \u00b7 39s"
+          ],
+          "w": 900,
+          "title": "render"
+        },
+        {
+          "text": "Change one line in the file,",
+          "size": "md"
+        },
+        {
+          "text": "and you get a *new video.*",
+          "size": "lg"
+        }
+      ]
+    },
+    {
+      "id": "why",
+      "vo": "One system. Unlimited videos. And you never have to be on camera.",
+      "grid": false,
+      "lines": [
+        {
+          "text": "One *system.*",
+          "size": "lg",
+          "box": true
+        },
+        {
+          "text": "Unlimited *videos.*",
+          "size": "lg",
+          "box": true
+        },
+        {
+          "text": "And you *never* have to be on camera.",
+          "size": "lg",
+          "emphColor": "#E5744C"
+        }
+      ]
+    },
+    {
+      "id": "cta",
+      "vo": "Follow, I'm building this in public and sharing every piece of it.",
+      "deco": true,
+      "grid": false,
+      "camera": {
+        "zoom": [
+          1,
+          1.08
+        ]
+      },
+      "lines": [
+        {
+          "text": "*Follow.*",
+          "size": "xl"
+        },
+        {
+          "text": "I'm building this in public",
+          "size": "md"
+        },
+        {
+          "text": "and sharing every piece of it.",
+          "size": "md",
+          "color": "#8E8E8E"
+        }
+      ]
+    }
+  ]
+}

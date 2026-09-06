@@ -1,0 +1,40 @@
+{
+  "name": "remotion",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "studio": "remotion studio src/index.ts",
+    "render": "remotion render src/index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@code-hike/lighter": "1.0.3",
+    "@remotion/cli": "^4.0.521",
+    "@remotion/effects": "4.0.521",
+    "@remotion/google-fonts": "^4.0.521",
+    "@remotion/layout-utils": "4.0.521",
+    "@remotion/lottie": "4.0.521",
+    "@remotion/media": "4.0.521",
+    "@remotion/motion-blur": "4.0.521",
+    "@remotion/noise": "4.0.521",
+    "@remotion/paths": "4.0.521",
+    "@remotion/rough-notation": "4.0.521",
+    "@remotion/shapes": "4.0.521",
+    "@remotion/transitions": "4.0.521",
+    "codehike": "1.0.4",
+    "lottie-web": "5.13.0",
+    "lucide-react": "1.41.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "remotion": "^4.0.521"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.31",
+    "@types/react-dom": "^18.3.7",
+    "typescript": "^7.0.2"
+  }
+}

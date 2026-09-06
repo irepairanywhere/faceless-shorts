@@ -1,0 +1,356 @@
+{
+  "title": "Google built a button that changes how its AI shows your site",
+  "theme": "paper",
+  "anim": "pop",
+  "speed": 1.1,
+  "tighten": true,
+  "watermark": "rocketlaunchmedia.com",
+  "sfx_level": 0.7,
+  "music": {
+    "prompt": "minimal modern tech background bed, soft plucky synth, light percussion, optimistic, no vocals, steady 100 bpm, unobtrusive under narration",
+    "volume": 0.1
+  },
+  "beats": [
+    {
+      "id": "hook",
+      "vo": "Google built a button that changes how its AI shows your site to your readers.",
+      "grid": true,
+      "deco": false,
+      "layout": "center",
+      "camera": {
+        "zoom": [
+          1,
+          1.06
+        ]
+      },
+      "lines": [
+        {
+          "image": "badge.png",
+          "w": 640,
+          "tilt": -3,
+          "reveal": false,
+          "at": 0.05
+        },
+        {
+          "gap": 10
+        },
+        {
+          "text": "Google built a *button*",
+          "size": "lg",
+          "annot": "circle"
+        },
+        {
+          "text": "that changes how its *AI*",
+          "size": "md"
+        },
+        {
+          "text": "shows *your site* to your readers.",
+          "size": "md"
+        }
+      ]
+    },
+    {
+      "id": "name",
+      "transition": "slide",
+      "vo": "It's called Google Preferred Sources, and it now runs inside AI Overviews and AI Mode.",
+      "grid": true,
+      "deco": true,
+      "camera": {
+        "zoom": [
+          1,
+          1.05
+        ]
+      },
+      "lines": [
+        {
+          "text": "It's called",
+          "size": "md"
+        },
+        {
+          "text": "*Google*",
+          "size": "xl",
+          "fit": true
+        },
+        {
+          "text": "*Preferred Sources*",
+          "size": "xl",
+          "fit": true,
+          "annot": "underline"
+        },
+        {
+          "text": "and it now runs inside",
+          "size": "sm"
+        },
+        {
+          "text": "AI Overviews",
+          "size": "md",
+          "box": true,
+          "silent": true,
+          "after": "Overviews"
+        },
+        {
+          "text": "AI Mode",
+          "size": "md",
+          "box": true,
+          "silent": true,
+          "after": "Mode"
+        }
+      ]
+    },
+    {
+      "id": "click",
+      "transition": "whip",
+      "vo": "A reader clicks once. Google saves your whole domain as a source they prefer.",
+      "grid": true,
+      "layout": "top",
+      "camera": {
+        "zoom": [
+          1.02,
+          1.08
+        ],
+        "pan": [
+          0,
+          -20
+        ]
+      },
+      "lines": [
+        {
+          "text": "A reader clicks *once.*",
+          "size": "lg",
+          "annot": "circle"
+        },
+        {
+          "image": "footer.png",
+          "w": 1000,
+          "tilt": 0,
+          "reveal": true,
+          "pan": [
+            40,
+            -40
+          ],
+          "after": "once."
+        },
+        {
+          "gap": 6
+        },
+        {
+          "text": "Google saves your *whole domain*",
+          "size": "md",
+          "box": true
+        },
+        {
+          "text": "as a source they prefer.",
+          "size": "sm"
+        }
+      ]
+    },
+    {
+      "id": "label",
+      "transition": "fade",
+      "vo": "From then on, when Google's AI cites your page, that reader sees a Preferred label on your link.",
+      "grid": true,
+      "layout": "top",
+      "camera": {
+        "zoom": [
+          1,
+          1.07
+        ]
+      },
+      "lines": [
+        {
+          "text": "From then on, when Google's AI *cites your page,*",
+          "size": "md"
+        },
+        {
+          "image": "aimock.png",
+          "w": 1000,
+          "reveal": true,
+          "pan": [
+            -30,
+            30
+          ],
+          "after": "page,"
+        },
+        {
+          "gap": 6
+        },
+        {
+          "text": "that reader sees a",
+          "size": "sm"
+        },
+        {
+          "text": "*Preferred* label on your link.",
+          "size": "lg",
+          "annot": "highlight"
+        }
+      ]
+    },
+    {
+      "id": "noTrick",
+      "transition": "leak",
+      "vo": "No ranking trick. The reader chose you, so Google's AI marks you.",
+      "grid": false,
+      "bg": {
+        "color": "#1B1B1B"
+      },
+      "camera": {
+        "zoom": [
+          1,
+          1.04
+        ]
+      },
+      "lines": [
+        {
+          "text": "*No ranking trick.*",
+          "size": "xl",
+          "fit": true,
+          "annot": "box",
+          "color": "#F6F6F6",
+          "emphColor": "#F6F6F6"
+        },
+        {
+          "gap": 14
+        },
+        {
+          "text": "The reader *chose you,*",
+          "size": "md",
+          "color": "#F6F6F6",
+          "emphColor": "#FFB27A"
+        },
+        {
+          "text": "so Google's AI *marks you.*",
+          "size": "md",
+          "color": "#F6F6F6",
+          "emphColor": "#FFB27A"
+        }
+      ]
+    },
+    {
+      "id": "stats",
+      "transition": "wipe",
+      "vo": "Google says people are twice as likely to click a preferred source. Over three hundred thousand sites are already picked.",
+      "grid": true,
+      "deco": true,
+      "camera": {
+        "zoom": [
+          1,
+          1.06
+        ]
+      },
+      "lines": [
+        {
+          "text": "Google says people are",
+          "size": "sm"
+        },
+        {
+          "text": "*twice as likely*",
+          "size": "xl",
+          "fit": true,
+          "annot": "underline"
+        },
+        {
+          "text": "to click a preferred source.",
+          "size": "sm"
+        },
+        {
+          "gap": 10
+        },
+        {
+          "text": "*345,000+*",
+          "size": "xl",
+          "fit": true,
+          "silent": true,
+          "after": "thousand"
+        },
+        {
+          "text": "sites already picked",
+          "size": "sm",
+          "silent": true,
+          "after": "thousand"
+        }
+      ]
+    },
+    {
+      "id": "setup",
+      "transition": "push",
+      "vo": "Setup takes two minutes: paste Google's script, or link to the preferences page with your domain.",
+      "grid": true,
+      "layout": "top",
+      "camera": {
+        "zoom": [
+          1,
+          1.05
+        ]
+      },
+      "lines": [
+        {
+          "text": "Setup takes *two minutes:*",
+          "size": "lg"
+        },
+        {
+          "terminal": [
+            "<script async src=",
+            "  \"https://news.google.com/swg/js/v1/publisher.js\">",
+            "</script>",
+            "<div google-add-preferred-source-btn></div>",
+            "# or a plain link:",
+            "google.com/preferences/source?q=YOURDOMAIN.com"
+          ],
+          "title": "footer.html",
+          "w": 980,
+          "after": "minutes:"
+        },
+        {
+          "gap": 6
+        },
+        {
+          "text": "or link to the preferences page with *your domain.*",
+          "size": "sm"
+        }
+      ]
+    },
+    {
+      "id": "cta",
+      "transition": "whip",
+      "vo": "It's live on our footer. Comment PREFERRED and I'll send the snippet.",
+      "grid": true,
+      "deco": true,
+      "camera": {
+        "zoom": [
+          1,
+          1.06
+        ]
+      },
+      "lines": [
+        {
+          "text": "It's live on *our footer.*",
+          "size": "md"
+        },
+        {
+          "image": "badge.png",
+          "w": 560,
+          "tilt": 2,
+          "reveal": false,
+          "after": "footer."
+        },
+        {
+          "gap": 10
+        },
+        {
+          "text": "Comment",
+          "size": "md"
+        },
+        {
+          "text": "*PREFERRED*",
+          "size": "xl",
+          "fit": true,
+          "annot": "circle"
+        },
+        {
+          "text": "and I'll send the snippet.",
+          "size": "sm"
+        }
+      ]
+    }
+  ]
+}

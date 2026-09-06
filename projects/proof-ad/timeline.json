@@ -1,0 +1,976 @@
+{
+ "fps": 30,
+ "durationSec": 37.589,
+ "voSrc": "audio/proof-ad/voice.mp3",
+ "musicSrc": "audio/proof-ad/music.mp3",
+ "musicVolume": 0.13,
+ "watermark": "rocketlaunchmedia.com",
+ "theme": "bold",
+ "anim": "rise",
+ "beats": [
+  {
+   "id": "hook",
+   "start": 0.0,
+   "lines": [
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "$51,000",
+       "t": 0.05,
+       "end": 0.25,
+       "emph": true
+      }
+     ],
+     "size": "xl",
+     "box": false
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "in",
+       "t": 1.451,
+       "end": 1.521,
+       "emph": false
+      },
+      {
+       "text": "signed",
+       "t": 1.567,
+       "end": 1.823,
+       "emph": true
+      },
+      {
+       "text": "cases.",
+       "t": 1.846,
+       "end": 2.426,
+       "emph": true
+      }
+     ],
+     "size": "lg",
+     "box": false
+    }
+   ],
+   "layout": "center",
+   "grid": true,
+   "deco": false,
+   "camera": {
+    "zoom": [
+     1,
+     1.05
+    ]
+   },
+   "bg": {
+    "overlay": 0.5,
+    "src": "stock/proof-ad/lawyer-signing-contract-close-up.mp4"
+   },
+   "end": 2.597
+  },
+  {
+   "id": "spend",
+   "start": 2.597,
+   "lines": [
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "From",
+       "t": 2.717,
+       "end": 2.902,
+       "emph": false
+      }
+     ],
+     "size": "md",
+     "box": false
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "under",
+       "t": 2.922,
+       "end": 3.122,
+       "emph": true
+      },
+      {
+       "text": "$2,000",
+       "t": 3.002,
+       "end": 3.202,
+       "emph": true
+      }
+     ],
+     "size": "xl",
+     "box": false
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "in",
+       "t": 4.238,
+       "end": 4.307,
+       "emph": false
+      },
+      {
+       "text": "Meta",
+       "t": 4.354,
+       "end": 4.563,
+       "emph": false
+      },
+      {
+       "text": "ads.",
+       "t": 4.598,
+       "end": 5.062,
+       "emph": false
+      }
+     ],
+     "size": "md",
+     "box": false
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "For",
+       "t": 5.352,
+       "end": 5.503,
+       "emph": false
+      },
+      {
+       "text": "one",
+       "t": 5.561,
+       "end": 5.712,
+       "emph": false
+      },
+      {
+       "text": "immigration",
+       "t": 5.735,
+       "end": 6.258,
+       "emph": true
+      },
+      {
+       "text": "law",
+       "t": 6.316,
+       "end": 6.49,
+       "emph": true
+      },
+      {
+       "text": "firm.",
+       "t": 6.56,
+       "end": 7.036,
+       "emph": true
+      }
+     ],
+     "size": "lg",
+     "box": false
+    }
+   ],
+   "layout": "center",
+   "grid": true,
+   "deco": false,
+   "camera": {
+    "zoom": [
+     1,
+     1.05
+    ]
+   },
+   "bg": {
+    "color": "#111111"
+   },
+   "end": 7.206
+  },
+  {
+   "id": "numbers",
+   "start": 7.206,
+   "lines": [
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "535",
+       "t": 7.326,
+       "end": 8.568,
+       "emph": true
+      },
+      {
+       "text": "leads",
+       "t": 8.65,
+       "end": 8.882,
+       "emph": false
+      }
+     ],
+     "size": "lg",
+     "box": false
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "at",
+       "t": 8.983,
+       "end": 9.183,
+       "emph": false
+      },
+      {
+       "text": "just",
+       "t": 9.063,
+       "end": 9.263,
+       "emph": false
+      },
+      {
+       "text": "over",
+       "t": 9.143,
+       "end": 9.343,
+       "emph": false
+      },
+      {
+       "text": "$3",
+       "t": 9.223,
+       "end": 9.423,
+       "emph": true
+      },
+      {
+       "text": "each",
+       "t": 9.303,
+       "end": 9.503,
+       "emph": false
+      }
+     ],
+     "size": "lg",
+     "box": false
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "174",
+       "t": 10.809,
+       "end": 11.761,
+       "emph": true
+      },
+      {
+       "text": "booked",
+       "t": 11.82,
+       "end": 12.017,
+       "emph": false
+      },
+      {
+       "text": "intro",
+       "t": 12.075,
+       "end": 12.307,
+       "emph": false
+      },
+      {
+       "text": "calls.",
+       "t": 12.365,
+       "end": 12.783,
+       "emph": false
+      }
+     ],
+     "size": "lg",
+     "box": false
+    }
+   ],
+   "layout": "center",
+   "grid": true,
+   "deco": false,
+   "camera": {
+    "zoom": [
+     1,
+     1.05
+    ]
+   },
+   "bg": {
+    "color": "#F5D90A"
+   },
+   "end": 12.953
+  },
+  {
+   "id": "system",
+   "start": 12.953,
+   "lines": [
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "Here's",
+       "t": 13.073,
+       "end": 13.329,
+       "emph": false
+      },
+      {
+       "text": "the",
+       "t": 13.352,
+       "end": 13.422,
+       "emph": false
+      },
+      {
+       "text": "system.",
+       "t": 13.48,
+       "end": 13.944,
+       "emph": true
+      }
+     ],
+     "size": "lg",
+     "box": false
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "A",
+       "t": 14.234,
+       "end": 14.304,
+       "emph": false
+      },
+      {
+       "text": "video",
+       "t": 14.409,
+       "end": 14.768,
+       "emph": false
+      },
+      {
+       "text": "ad",
+       "t": 14.85,
+       "end": 15.047,
+       "emph": false
+      },
+      {
+       "text": "that",
+       "t": 15.094,
+       "end": 15.221,
+       "emph": false
+      },
+      {
+       "text": "speaks",
+       "t": 15.268,
+       "end": 15.558,
+       "emph": false
+      },
+      {
+       "text": "to",
+       "t": 15.593,
+       "end": 15.651,
+       "emph": false
+      },
+      {
+       "text": "the",
+       "t": 15.709,
+       "end": 15.779,
+       "emph": false
+      },
+      {
+       "text": "client's",
+       "t": 15.813,
+       "end": 16.185,
+       "emph": false
+      },
+      {
+       "text": "actual",
+       "t": 16.243,
+       "end": 16.603,
+       "emph": false
+      },
+      {
+       "text": "situation.",
+       "t": 16.661,
+       "end": 17.334,
+       "emph": false
+      }
+     ],
+     "size": "sm",
+     "box": false
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "An",
+       "t": 17.625,
+       "end": 17.752,
+       "emph": false
+      },
+      {
+       "text": "instant",
+       "t": 17.81,
+       "end": 18.124,
+       "emph": false
+      },
+      {
+       "text": "form,",
+       "t": 18.159,
+       "end": 18.542,
+       "emph": false
+      },
+      {
+       "text": "not",
+       "t": 18.704,
+       "end": 18.867,
+       "emph": false
+      },
+      {
+       "text": "a",
+       "t": 18.902,
+       "end": 18.925,
+       "emph": false
+      },
+      {
+       "text": "website.",
+       "t": 18.971,
+       "end": 19.471,
+       "emph": false
+      }
+     ],
+     "size": "md",
+     "box": true
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "Bilingual",
+       "t": 19.877,
+       "end": 20.504,
+       "emph": false
+      },
+      {
+       "text": "intake",
+       "t": 20.585,
+       "end": 20.991,
+       "emph": false
+      },
+      {
+       "text": "that",
+       "t": 21.015,
+       "end": 21.119,
+       "emph": false
+      },
+      {
+       "text": "answers",
+       "t": 21.177,
+       "end": 21.502,
+       "emph": false
+      },
+      {
+       "text": "in",
+       "t": 21.56,
+       "end": 21.63,
+       "emph": false
+      },
+      {
+       "text": "under",
+       "t": 21.688,
+       "end": 21.874,
+       "emph": true
+      },
+      {
+       "text": "a",
+       "t": 21.92,
+       "end": 21.943,
+       "emph": true
+      },
+      {
+       "text": "minute.",
+       "t": 22.002,
+       "end": 22.396,
+       "emph": true
+      }
+     ],
+     "size": "md",
+     "box": false
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "And",
+       "t": 22.745,
+       "end": 22.896,
+       "emph": false
+      },
+      {
+       "text": "a",
+       "t": 22.942,
+       "end": 22.965,
+       "emph": false
+      },
+      {
+       "text": "follow-up",
+       "t": 23.07,
+       "end": 23.534,
+       "emph": false
+      },
+      {
+       "text": "sequence",
+       "t": 23.592,
+       "end": 24.033,
+       "emph": false
+      },
+      {
+       "text": "that",
+       "t": 24.057,
+       "end": 24.184,
+       "emph": false
+      },
+      {
+       "text": "books",
+       "t": 24.242,
+       "end": 24.474,
+       "emph": true
+      },
+      {
+       "text": "the",
+       "t": 24.521,
+       "end": 24.602,
+       "emph": true
+      },
+      {
+       "text": "call.",
+       "t": 24.649,
+       "end": 25.148,
+       "emph": true
+      }
+     ],
+     "size": "md",
+     "box": false
+    }
+   ],
+   "layout": "top",
+   "grid": true,
+   "deco": false,
+   "camera": {
+    "zoom": [
+     1,
+     1.05
+    ]
+   },
+   "bg": {
+    "overlay": 0.62,
+    "src": "stock/proof-ad/law-office-consultation-meeting.mp4"
+   },
+   "end": 25.318
+  },
+  {
+   "id": "own",
+   "start": 25.318,
+   "lines": [
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "You",
+       "t": 25.438,
+       "end": 25.577,
+       "emph": false
+      },
+      {
+       "text": "own",
+       "t": 25.659,
+       "end": 25.821,
+       "emph": true
+      },
+      {
+       "text": "it",
+       "t": 25.856,
+       "end": 25.926,
+       "emph": true
+      },
+      {
+       "text": "after",
+       "t": 25.961,
+       "end": 26.158,
+       "emph": false
+      },
+      {
+       "text": "90",
+       "t": 26.228,
+       "end": 26.413,
+       "emph": true
+      },
+      {
+       "text": "days.",
+       "t": 26.471,
+       "end": 26.843,
+       "emph": true
+      }
+     ],
+     "size": "lg",
+     "box": false
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "If",
+       "t": 27.4,
+       "end": 27.47,
+       "emph": false
+      },
+      {
+       "text": "you",
+       "t": 27.528,
+       "end": 27.632,
+       "emph": false
+      },
+      {
+       "text": "invest",
+       "t": 27.714,
+       "end": 28.108,
+       "emph": false
+      },
+      {
+       "text": "and",
+       "t": 28.166,
+       "end": 28.259,
+       "emph": false
+      },
+      {
+       "text": "don't",
+       "t": 28.317,
+       "end": 28.526,
+       "emph": false
+      },
+      {
+       "text": "get",
+       "t": 28.573,
+       "end": 28.7,
+       "emph": false
+      },
+      {
+       "text": "a",
+       "t": 28.735,
+       "end": 28.758,
+       "emph": false
+      },
+      {
+       "text": "qualified",
+       "t": 28.805,
+       "end": 29.292,
+       "emph": false
+      },
+      {
+       "text": "lead",
+       "t": 29.35,
+       "end": 29.617,
+       "emph": false
+      },
+      {
+       "text": "worth",
+       "t": 29.908,
+       "end": 30.175,
+       "emph": false
+      },
+      {
+       "text": "more",
+       "t": 30.256,
+       "end": 30.465,
+       "emph": false
+      },
+      {
+       "text": "than",
+       "t": 30.5,
+       "end": 30.616,
+       "emph": false
+      },
+      {
+       "text": "what",
+       "t": 30.651,
+       "end": 30.778,
+       "emph": false
+      },
+      {
+       "text": "you",
+       "t": 30.813,
+       "end": 30.894,
+       "emph": false
+      },
+      {
+       "text": "paid",
+       "t": 30.976,
+       "end": 31.231,
+       "emph": false
+      },
+      {
+       "text": "within",
+       "t": 31.278,
+       "end": 31.545,
+       "emph": false
+      },
+      {
+       "text": "30",
+       "t": 31.626,
+       "end": 31.858,
+       "emph": false
+      },
+      {
+       "text": "days,",
+       "t": 31.916,
+       "end": 32.218,
+       "emph": false
+      }
+     ],
+     "size": "sm",
+     "box": false
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "you",
+       "t": 32.264,
+       "end": 32.346,
+       "emph": false
+      },
+      {
+       "text": "get",
+       "t": 32.404,
+       "end": 32.52,
+       "emph": false
+      },
+      {
+       "text": "all",
+       "t": 32.555,
+       "end": 32.659,
+       "emph": true
+      },
+      {
+       "text": "your",
+       "t": 32.706,
+       "end": 32.81,
+       "emph": true
+      },
+      {
+       "text": "money",
+       "t": 32.845,
+       "end": 32.984,
+       "emph": true
+      },
+      {
+       "text": "back.",
+       "t": 33.019,
+       "end": 33.309,
+       "emph": true
+      }
+     ],
+     "size": "lg",
+     "box": false
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "No",
+       "t": 33.599,
+       "end": 33.715,
+       "emph": true
+      },
+      {
+       "text": "questions.",
+       "t": 33.773,
+       "end": 34.319,
+       "emph": true
+      }
+     ],
+     "size": "xl",
+     "box": false
+    }
+   ],
+   "layout": "center",
+   "grid": true,
+   "deco": false,
+   "camera": {
+    "zoom": [
+     1,
+     1.05
+    ]
+   },
+   "bg": {
+    "overlay": 0.62,
+    "src": "stock/proof-ad/business-handshake-in-office.mp4"
+   },
+   "end": 34.605
+  },
+  {
+   "id": "cta",
+   "start": 34.605,
+   "lines": [
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "Comment",
+       "t": 34.725,
+       "end": 35.062,
+       "emph": false
+      }
+     ],
+     "size": "md",
+     "box": false
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "SYSTEM",
+       "t": 35.108,
+       "end": 35.457,
+       "emph": true
+      }
+     ],
+     "size": "xl",
+     "box": true
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "and",
+       "t": 35.515,
+       "end": 35.631,
+       "emph": false
+      },
+      {
+       "text": "I'll",
+       "t": 35.677,
+       "end": 35.805,
+       "emph": false
+      },
+      {
+       "text": "send",
+       "t": 35.84,
+       "end": 35.979,
+       "emph": false
+      },
+      {
+       "text": "you",
+       "t": 36.014,
+       "end": 36.084,
+       "emph": false
+      },
+      {
+       "text": "the",
+       "t": 36.118,
+       "end": 36.188,
+       "emph": false
+      },
+      {
+       "text": "breakdown.",
+       "t": 36.223,
+       "end": 36.989,
+       "emph": false
+      }
+     ],
+     "size": "md",
+     "box": false
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "rocketlaunchmedia.com",
+       "t": 37.039,
+       "end": 37.239,
+       "emph": false
+      }
+     ],
+     "size": "sm",
+     "box": false
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "Real",
+       "t": 37.289,
+       "end": 37.489,
+       "emph": false
+      },
+      {
+       "text": "client",
+       "t": 37.369,
+       "end": 37.569,
+       "emph": false
+      },
+      {
+       "text": "results.",
+       "t": 37.449,
+       "end": 37.649,
+       "emph": false
+      },
+      {
+       "text": "Every",
+       "t": 37.529,
+       "end": 37.729,
+       "emph": false
+      },
+      {
+       "text": "firm",
+       "t": 37.609,
+       "end": 37.809,
+       "emph": false
+      },
+      {
+       "text": "and",
+       "t": 37.689,
+       "end": 37.889,
+       "emph": false
+      },
+      {
+       "text": "market",
+       "t": 37.769,
+       "end": 37.969,
+       "emph": false
+      },
+      {
+       "text": "differs.",
+       "t": 37.849,
+       "end": 38.049,
+       "emph": false
+      },
+      {
+       "text": "No",
+       "t": 37.929,
+       "end": 38.129,
+       "emph": false
+      },
+      {
+       "text": "outcome",
+       "t": 38.009,
+       "end": 38.209,
+       "emph": false
+      },
+      {
+       "text": "is",
+       "t": 38.089,
+       "end": 38.289,
+       "emph": false
+      },
+      {
+       "text": "guaranteed.",
+       "t": 38.169,
+       "end": 38.369,
+       "emph": false
+      }
+     ],
+     "size": "sm",
+     "box": false
+    }
+   ],
+   "layout": "center",
+   "grid": true,
+   "deco": false,
+   "camera": {
+    "zoom": [
+     1,
+     1.05
+    ]
+   },
+   "bg": {
+    "color": "#111111"
+   },
+   "end": 37.589
+  }
+ ],
+ "sfx": true,
+ "sfxLevel": 0.75
+}

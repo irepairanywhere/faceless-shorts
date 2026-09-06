@@ -1,0 +1,886 @@
+{
+ "fps": 30,
+ "durationSec": 37.077,
+ "voSrc": "audio/geo-ad/voice.mp3",
+ "musicSrc": "audio/geo-ad/music.mp3",
+ "musicVolume": 0.12,
+ "watermark": "rocketlaunchmedia.com",
+ "theme": "midnight",
+ "anim": "rise",
+ "beats": [
+  {
+   "id": "hook",
+   "start": 0.0,
+   "lines": [
+    {
+     "kind": "chat",
+     "text": "Who's the best immigration lawyer near me?",
+     "who": "you",
+     "w": 860,
+     "t": 0.05,
+     "label": "Someone, right now"
+    },
+    {
+     "kind": "chat",
+     "text": "Here are some helpful resources: Nolo, lawful.com, USCIS.gov\u2026",
+     "who": "ai",
+     "w": 860,
+     "t": 2.67,
+     "label": "ChatGPT"
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "17,000+",
+       "t": 4.083,
+       "end": 4.283,
+       "emph": true
+      }
+     ],
+     "size": "xl",
+     "box": false
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "times",
+       "t": 5.201,
+       "end": 5.48,
+       "emph": false
+      },
+      {
+       "text": "a",
+       "t": 5.526,
+       "end": 5.55,
+       "emph": false
+      },
+      {
+       "text": "month.",
+       "t": 5.619,
+       "end": 6.014,
+       "emph": false
+      }
+     ],
+     "size": "md",
+     "box": false,
+     "color": "#9CA3AF"
+    }
+   ],
+   "layout": "top",
+   "grid": true,
+   "deco": false,
+   "camera": {
+    "zoom": [
+     1,
+     1.05
+    ]
+   },
+   "end": 6.312
+  },
+  {
+   "id": "none",
+   "start": 6.312,
+   "lines": [
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "And",
+       "t": 6.432,
+       "end": 6.571,
+       "emph": false
+      },
+      {
+       "text": "not",
+       "t": 6.629,
+       "end": 6.78,
+       "emph": true
+      },
+      {
+       "text": "one",
+       "t": 6.861,
+       "end": 7.036,
+       "emph": true
+      },
+      {
+       "text": "of",
+       "t": 7.07,
+       "end": 7.117,
+       "emph": false
+      },
+      {
+       "text": "the",
+       "t": 7.152,
+       "end": 7.221,
+       "emph": false
+      },
+      {
+       "text": "sources",
+       "t": 7.279,
+       "end": 7.651,
+       "emph": false
+      },
+      {
+       "text": "they",
+       "t": 7.686,
+       "end": 7.802,
+       "emph": false
+      },
+      {
+       "text": "cite",
+       "t": 7.86,
+       "end": 8.15,
+       "emph": false
+      }
+     ],
+     "size": "lg",
+     "box": false
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "is",
+       "t": 8.197,
+       "end": 8.278,
+       "emph": false
+      },
+      {
+       "text": "a",
+       "t": 8.336,
+       "end": 8.359,
+       "emph": false
+      },
+      {
+       "text": "law",
+       "t": 8.417,
+       "end": 8.591,
+       "emph": true
+      },
+      {
+       "text": "firm.",
+       "t": 8.649,
+       "end": 8.998,
+       "emph": true
+      }
+     ],
+     "size": "xl",
+     "box": false
+    }
+   ],
+   "layout": "center",
+   "grid": true,
+   "deco": false,
+   "camera": {
+    "zoom": [
+     1,
+     1.05
+    ]
+   },
+   "transition": "whip",
+   "anim": "fill",
+   "end": 9.238
+  },
+  {
+   "id": "sources",
+   "start": 9.238,
+   "lines": [
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "Nolo",
+       "t": 9.408,
+       "end": 9.608,
+       "emph": false
+      },
+      {
+       "text": "\u00b7",
+       "t": 9.488,
+       "end": 9.688,
+       "emph": false
+      },
+      {
+       "text": "lawful.com",
+       "t": 9.568,
+       "end": 9.768,
+       "emph": false
+      },
+      {
+       "text": "\u00b7",
+       "t": 9.648,
+       "end": 9.848,
+       "emph": false
+      },
+      {
+       "text": "justice.gov",
+       "t": 9.728,
+       "end": 9.928,
+       "emph": false
+      }
+     ],
+     "size": "md",
+     "box": true
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "They",
+       "t": 9.358,
+       "end": 9.52,
+       "emph": false
+      },
+      {
+       "text": "cite",
+       "t": 9.578,
+       "end": 9.868,
+       "emph": false
+      },
+      {
+       "text": "Nolo.",
+       "t": 9.927,
+       "end": 10.484,
+       "emph": false
+      },
+      {
+       "text": "They",
+       "t": 10.646,
+       "end": 10.809,
+       "emph": false
+      },
+      {
+       "text": "cite",
+       "t": 10.867,
+       "end": 11.169,
+       "emph": false
+      },
+      {
+       "text": "lawful.com.",
+       "t": 11.238,
+       "end": 12.365,
+       "emph": false
+      },
+      {
+       "text": "They",
+       "t": 12.527,
+       "end": 12.678,
+       "emph": false
+      },
+      {
+       "text": "cite",
+       "t": 12.725,
+       "end": 12.968,
+       "emph": false
+      },
+      {
+       "text": "the",
+       "t": 12.992,
+       "end": 13.061,
+       "emph": false
+      },
+      {
+       "text": "government.",
+       "t": 13.119,
+       "end": 13.642,
+       "emph": false
+      }
+     ],
+     "size": "sm",
+     "box": false,
+     "color": "#9CA3AF"
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "Not",
+       "t": 13.781,
+       "end": 14.025,
+       "emph": true
+      },
+      {
+       "text": "you.",
+       "t": 14.094,
+       "end": 14.524,
+       "emph": true
+      }
+     ],
+     "size": "xl",
+     "box": false
+    }
+   ],
+   "layout": "center",
+   "grid": true,
+   "deco": false,
+   "camera": {
+    "zoom": [
+     1,
+     1.05
+    ]
+   },
+   "end": 14.671
+  },
+  {
+   "id": "verify",
+   "start": 14.671,
+   "lines": [
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "AI",
+       "t": 15.128,
+       "end": 15.418,
+       "emph": false
+      },
+      {
+       "text": "doesn't",
+       "t": 15.488,
+       "end": 15.755,
+       "emph": false
+      },
+      {
+       "text": "recommend",
+       "t": 15.801,
+       "end": 16.219,
+       "emph": false
+      },
+      {
+       "text": "who",
+       "t": 16.266,
+       "end": 16.37,
+       "emph": false
+      },
+      {
+       "text": "ranks",
+       "t": 16.44,
+       "end": 16.661,
+       "emph": false
+      },
+      {
+       "text": "on",
+       "t": 16.707,
+       "end": 16.777,
+       "emph": false
+      },
+      {
+       "text": "Google.",
+       "t": 16.835,
+       "end": 17.288,
+       "emph": false
+      }
+     ],
+     "size": "md",
+     "box": false
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "It",
+       "t": 17.601,
+       "end": 17.717,
+       "emph": false
+      },
+      {
+       "text": "recommends",
+       "t": 17.787,
+       "end": 18.228,
+       "emph": false
+      },
+      {
+       "text": "who",
+       "t": 18.251,
+       "end": 18.332,
+       "emph": false
+      },
+      {
+       "text": "it",
+       "t": 18.379,
+       "end": 18.437,
+       "emph": false
+      },
+      {
+       "text": "can",
+       "t": 18.472,
+       "end": 18.576,
+       "emph": false
+      }
+     ],
+     "size": "md",
+     "box": false
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "verify.",
+       "t": 18.623,
+       "end": 19.192,
+       "emph": true
+      }
+     ],
+     "size": "xl",
+     "box": false
+    }
+   ],
+   "layout": "center",
+   "grid": true,
+   "deco": false,
+   "camera": {
+    "zoom": [
+     1,
+     1.05
+    ]
+   },
+   "transition": "whip",
+   "anim": "fill",
+   "end": 19.385
+  },
+  {
+   "id": "three",
+   "start": 19.385,
+   "lines": [
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "It",
+       "t": 19.505,
+       "end": 19.633,
+       "emph": false
+      },
+      {
+       "text": "checks",
+       "t": 19.679,
+       "end": 19.935,
+       "emph": false
+      },
+      {
+       "text": "three",
+       "t": 19.958,
+       "end": 20.155,
+       "emph": true
+      },
+      {
+       "text": "things.",
+       "t": 20.19,
+       "end": 20.654,
+       "emph": true
+      }
+     ],
+     "size": "lg",
+     "box": false
+    },
+    {
+     "kind": "badge",
+     "text": "1",
+     "size": 120,
+     "t": 20.654
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "Credentials",
+       "t": 21.014,
+       "end": 21.595,
+       "emph": true
+      },
+      {
+       "text": "it",
+       "t": 21.653,
+       "end": 21.723,
+       "emph": false
+      },
+      {
+       "text": "can",
+       "t": 21.757,
+       "end": 21.873,
+       "emph": false
+      },
+      {
+       "text": "read.",
+       "t": 21.943,
+       "end": 22.349,
+       "emph": false
+      }
+     ],
+     "size": "md",
+     "box": false
+    },
+    {
+     "kind": "badge",
+     "text": "2",
+     "size": 120,
+     "t": 22.349
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "Reviews",
+       "t": 22.663,
+       "end": 23.023,
+       "emph": true
+      },
+      {
+       "text": "on",
+       "t": 23.081,
+       "end": 23.174,
+       "emph": false
+      },
+      {
+       "text": "sites",
+       "t": 23.267,
+       "end": 23.603,
+       "emph": false
+      },
+      {
+       "text": "it",
+       "t": 23.661,
+       "end": 23.731,
+       "emph": false
+      },
+      {
+       "text": "trusts.",
+       "t": 23.766,
+       "end": 24.358,
+       "emph": false
+      }
+     ],
+     "size": "md",
+     "box": false
+    },
+    {
+     "kind": "badge",
+     "text": "3",
+     "size": 120,
+     "t": 24.358
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "Comparison",
+       "t": 24.834,
+       "end": 25.356,
+       "emph": true
+      },
+      {
+       "text": "pages,",
+       "t": 25.415,
+       "end": 25.798,
+       "emph": true
+      }
+     ],
+     "size": "md",
+     "box": false
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "which",
+       "t": 25.821,
+       "end": 25.995,
+       "emph": false
+      },
+      {
+       "text": "take",
+       "t": 26.041,
+       "end": 26.216,
+       "emph": false
+      },
+      {
+       "text": "a",
+       "t": 26.25,
+       "end": 26.274,
+       "emph": false
+      },
+      {
+       "text": "third",
+       "t": 26.332,
+       "end": 26.541,
+       "emph": false
+      },
+      {
+       "text": "of",
+       "t": 26.576,
+       "end": 26.622,
+       "emph": false
+      },
+      {
+       "text": "all",
+       "t": 26.68,
+       "end": 26.808,
+       "emph": false
+      },
+      {
+       "text": "AI",
+       "t": 26.877,
+       "end": 27.144,
+       "emph": false
+      },
+      {
+       "text": "citations.",
+       "t": 27.202,
+       "end": 27.992,
+       "emph": false
+      }
+     ],
+     "size": "sm",
+     "box": false,
+     "color": "#9CA3AF"
+    }
+   ],
+   "layout": "top",
+   "grid": true,
+   "deco": false,
+   "camera": {
+    "zoom": [
+     1,
+     1.05
+    ]
+   },
+   "end": 28.452
+  },
+  {
+   "id": "install",
+   "start": 28.452,
+   "lines": [
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "We",
+       "t": 28.572,
+       "end": 28.711,
+       "emph": false
+      },
+      {
+       "text": "install",
+       "t": 28.769,
+       "end": 29.118,
+       "emph": false
+      },
+      {
+       "text": "all",
+       "t": 29.187,
+       "end": 29.385,
+       "emph": false
+      },
+      {
+       "text": "three",
+       "t": 29.454,
+       "end": 29.71,
+       "emph": false
+      },
+      {
+       "text": "for",
+       "t": 29.756,
+       "end": 29.861,
+       "emph": false
+      }
+     ],
+     "size": "md",
+     "box": false
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "immigration",
+       "t": 29.919,
+       "end": 30.395,
+       "emph": true
+      },
+      {
+       "text": "law",
+       "t": 30.453,
+       "end": 30.592,
+       "emph": true
+      },
+      {
+       "text": "firms,",
+       "t": 30.65,
+       "end": 31.056,
+       "emph": true
+      }
+     ],
+     "size": "lg",
+     "box": false
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "and",
+       "t": 31.091,
+       "end": 31.242,
+       "emph": false
+      },
+      {
+       "text": "track",
+       "t": 31.277,
+       "end": 31.509,
+       "emph": false
+      },
+      {
+       "text": "every",
+       "t": 31.625,
+       "end": 31.881,
+       "emph": false
+      },
+      {
+       "text": "time",
+       "t": 31.927,
+       "end": 32.136,
+       "emph": false
+      },
+      {
+       "text": "an",
+       "t": 32.159,
+       "end": 32.206,
+       "emph": false
+      },
+      {
+       "text": "AI",
+       "t": 32.252,
+       "end": 32.519,
+       "emph": false
+      },
+      {
+       "text": "names",
+       "t": 32.577,
+       "end": 32.786,
+       "emph": true
+      },
+      {
+       "text": "you.",
+       "t": 32.821,
+       "end": 33.077,
+       "emph": true
+      }
+     ],
+     "size": "lg",
+     "box": false
+    }
+   ],
+   "layout": "center",
+   "grid": true,
+   "deco": false,
+   "camera": {
+    "zoom": [
+     1,
+     1.05
+    ]
+   },
+   "transition": "whip",
+   "end": 33.444
+  },
+  {
+   "id": "cta",
+   "start": 33.444,
+   "lines": [
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "Comment",
+       "t": 33.564,
+       "end": 33.971,
+       "emph": false
+      }
+     ],
+     "size": "md",
+     "box": false
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "GEO",
+       "t": 34.04,
+       "end": 34.551,
+       "emph": true
+      }
+     ],
+     "size": "xl",
+     "box": true
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "and",
+       "t": 34.667,
+       "end": 34.795,
+       "emph": false
+      },
+      {
+       "text": "I'll",
+       "t": 34.841,
+       "end": 34.969,
+       "emph": false
+      },
+      {
+       "text": "send",
+       "t": 35.015,
+       "end": 35.155,
+       "emph": false
+      },
+      {
+       "text": "you",
+       "t": 35.19,
+       "end": 35.259,
+       "emph": false
+      },
+      {
+       "text": "the",
+       "t": 35.294,
+       "end": 35.364,
+       "emph": false
+      },
+      {
+       "text": "checklist.",
+       "t": 35.399,
+       "end": 36.176,
+       "emph": false
+      }
+     ],
+     "size": "md",
+     "box": false
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "rocketlaunchmedia.com",
+       "t": 36.226,
+       "end": 36.426,
+       "emph": false
+      }
+     ],
+     "size": "sm",
+     "box": false,
+     "color": "#9CA3AF"
+    }
+   ],
+   "layout": "center",
+   "grid": true,
+   "deco": false,
+   "camera": {
+    "zoom": [
+     1,
+     1.05
+    ]
+   },
+   "end": 37.077
+  }
+ ],
+ "sfx": true
+}

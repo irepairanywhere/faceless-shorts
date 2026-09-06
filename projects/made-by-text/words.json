@@ -1,0 +1,752 @@
+{
+ "text": "This entire video was made from a text file. No editor, no camera, no timeline.\n\nSave this if you've ever wanted to post every day without filming anything.\n\nHere's the entire stack. Claude Code writes the script as a simple list of beats: what the voice says, and what shows on screen.\n\nElevenLabs reads it out loud and returns the exact timestamp of every single word.\n\nThat's why each word pops the moment it's spoken.\n\nThen Remotion, a free tool that turns React code into video, animates everything: the text, the icons, the camera moves.\n\nEven the music underneath was generated from a one-line prompt.\n\nThe whole thing renders in about forty seconds. Change one line in the file, and you get a new video.\n\nOne system. Unlimited videos. And you never have to be on camera.\n\nFollow, I'm building this in public and sharing every piece of it.",
+ "voice_id": "nPczCjzI2devNBz1zQrb",
+ "speed": 1.05,
+ "words": [
+  {
+   "text": "This",
+   "start": 0.0,
+   "end": 0.232
+  },
+  {
+   "text": "entire",
+   "start": 0.302,
+   "end": 0.72
+  },
+  {
+   "text": "video",
+   "start": 0.766,
+   "end": 1.01
+  },
+  {
+   "text": "was",
+   "start": 1.057,
+   "end": 1.149
+  },
+  {
+   "text": "made",
+   "start": 1.207,
+   "end": 1.37
+  },
+  {
+   "text": "from",
+   "start": 1.393,
+   "end": 1.521
+  },
+  {
+   "text": "a",
+   "start": 1.567,
+   "end": 1.591
+  },
+  {
+   "text": "text",
+   "start": 1.637,
+   "end": 1.916
+  },
+  {
+   "text": "file.",
+   "start": 1.95,
+   "end": 2.368
+  },
+  {
+   "text": "No",
+   "start": 2.786,
+   "end": 2.961
+  },
+  {
+   "text": "editor,",
+   "start": 3.053,
+   "end": 3.46
+  },
+  {
+   "text": "no",
+   "start": 3.518,
+   "end": 3.669
+  },
+  {
+   "text": "camera,",
+   "start": 3.75,
+   "end": 4.249
+  },
+  {
+   "text": "no",
+   "start": 4.307,
+   "end": 4.447
+  },
+  {
+   "text": "timeline.",
+   "start": 4.516,
+   "end": 5.178
+  },
+  {
+   "text": "Save",
+   "start": 5.596,
+   "end": 5.968
+  },
+  {
+   "text": "this",
+   "start": 6.002,
+   "end": 6.153
+  },
+  {
+   "text": "if",
+   "start": 6.211,
+   "end": 6.293
+  },
+  {
+   "text": "you've",
+   "start": 6.339,
+   "end": 6.525
+  },
+  {
+   "text": "ever",
+   "start": 6.56,
+   "end": 6.711
+  },
+  {
+   "text": "wanted",
+   "start": 6.769,
+   "end": 7.012
+  },
+  {
+   "text": "to",
+   "start": 7.036,
+   "end": 7.082
+  },
+  {
+   "text": "post",
+   "start": 7.129,
+   "end": 7.396
+  },
+  {
+   "text": "every",
+   "start": 7.477,
+   "end": 7.755
+  },
+  {
+   "text": "day",
+   "start": 7.802,
+   "end": 7.964
+  },
+  {
+   "text": "without",
+   "start": 8.011,
+   "end": 8.278
+  },
+  {
+   "text": "filming",
+   "start": 8.324,
+   "end": 8.615
+  },
+  {
+   "text": "anything.",
+   "start": 8.661,
+   "end": 9.16
+  },
+  {
+   "text": "Here's",
+   "start": 9.474,
+   "end": 9.752
+  },
+  {
+   "text": "the",
+   "start": 9.787,
+   "end": 9.857
+  },
+  {
+   "text": "entire",
+   "start": 9.915,
+   "end": 10.333
+  },
+  {
+   "text": "stack.",
+   "start": 10.368,
+   "end": 10.89
+  },
+  {
+   "text": "Claude",
+   "start": 11.308,
+   "end": 11.691
+  },
+  {
+   "text": "Code",
+   "start": 11.738,
+   "end": 12.063
+  },
+  {
+   "text": "writes",
+   "start": 12.086,
+   "end": 12.341
+  },
+  {
+   "text": "the",
+   "start": 12.388,
+   "end": 12.457
+  },
+  {
+   "text": "script",
+   "start": 12.504,
+   "end": 12.841
+  },
+  {
+   "text": "as",
+   "start": 12.887,
+   "end": 12.992
+  },
+  {
+   "text": "a",
+   "start": 13.05,
+   "end": 13.073
+  },
+  {
+   "text": "simple",
+   "start": 13.166,
+   "end": 13.491
+  },
+  {
+   "text": "list",
+   "start": 13.526,
+   "end": 13.712
+  },
+  {
+   "text": "of",
+   "start": 13.758,
+   "end": 13.816
+  },
+  {
+   "text": "beats:",
+   "start": 13.874,
+   "end": 14.397
+  },
+  {
+   "text": "what",
+   "start": 14.71,
+   "end": 14.896
+  },
+  {
+   "text": "the",
+   "start": 14.942,
+   "end": 15.012
+  },
+  {
+   "text": "voice",
+   "start": 15.07,
+   "end": 15.349
+  },
+  {
+   "text": "says,",
+   "start": 15.384,
+   "end": 15.929
+  },
+  {
+   "text": "and",
+   "start": 16.069,
+   "end": 16.208
+  },
+  {
+   "text": "what",
+   "start": 16.278,
+   "end": 16.429
+  },
+  {
+   "text": "shows",
+   "start": 16.475,
+   "end": 16.719
+  },
+  {
+   "text": "on",
+   "start": 16.777,
+   "end": 16.858
+  },
+  {
+   "text": "screen.",
+   "start": 16.905,
+   "end": 17.381
+  },
+  {
+   "text": "ElevenLabs",
+   "start": 18.042,
+   "end": 18.82
+  },
+  {
+   "text": "reads",
+   "start": 18.89,
+   "end": 19.087
+  },
+  {
+   "text": "it",
+   "start": 19.122,
+   "end": 19.192
+  },
+  {
+   "text": "out",
+   "start": 19.227,
+   "end": 19.354
+  },
+  {
+   "text": "loud",
+   "start": 19.424,
+   "end": 19.703
+  },
+  {
+   "text": "and",
+   "start": 19.749,
+   "end": 19.819
+  },
+  {
+   "text": "returns",
+   "start": 19.877,
+   "end": 20.271
+  },
+  {
+   "text": "the",
+   "start": 20.318,
+   "end": 20.399
+  },
+  {
+   "text": "exact",
+   "start": 20.48,
+   "end": 20.956
+  },
+  {
+   "text": "timestamp",
+   "start": 21.015,
+   "end": 21.641
+  },
+  {
+   "text": "of",
+   "start": 21.688,
+   "end": 21.746
+  },
+  {
+   "text": "every",
+   "start": 21.816,
+   "end": 21.99
+  },
+  {
+   "text": "single",
+   "start": 22.025,
+   "end": 22.268
+  },
+  {
+   "text": "word.",
+   "start": 22.303,
+   "end": 22.698
+  },
+  {
+   "text": "That's",
+   "start": 23.058,
+   "end": 23.29
+  },
+  {
+   "text": "why",
+   "start": 23.325,
+   "end": 23.464
+  },
+  {
+   "text": "each",
+   "start": 23.58,
+   "end": 23.778
+  },
+  {
+   "text": "word",
+   "start": 23.836,
+   "end": 24.033
+  },
+  {
+   "text": "pops",
+   "start": 24.091,
+   "end": 24.381
+  },
+  {
+   "text": "the",
+   "start": 24.428,
+   "end": 24.497
+  },
+  {
+   "text": "moment",
+   "start": 24.544,
+   "end": 24.765
+  },
+  {
+   "text": "it's",
+   "start": 24.799,
+   "end": 24.892
+  },
+  {
+   "text": "spoken.",
+   "start": 24.915,
+   "end": 25.461
+  },
+  {
+   "text": "Then",
+   "start": 25.821,
+   "end": 25.984
+  },
+  {
+   "text": "Remotion,",
+   "start": 26.065,
+   "end": 26.645
+  },
+  {
+   "text": "a",
+   "start": 26.669,
+   "end": 26.703
+  },
+  {
+   "text": "free",
+   "start": 26.761,
+   "end": 26.97
+  },
+  {
+   "text": "tool",
+   "start": 27.017,
+   "end": 27.249
+  },
+  {
+   "text": "that",
+   "start": 27.295,
+   "end": 27.423
+  },
+  {
+   "text": "turns",
+   "start": 27.458,
+   "end": 27.702
+  },
+  {
+   "text": "React",
+   "start": 27.795,
+   "end": 28.12
+  },
+  {
+   "text": "code",
+   "start": 28.178,
+   "end": 28.41
+  },
+  {
+   "text": "into",
+   "start": 28.433,
+   "end": 28.561
+  },
+  {
+   "text": "video,",
+   "start": 28.619,
+   "end": 29.165
+  },
+  {
+   "text": "animates",
+   "start": 29.432,
+   "end": 29.919
+  },
+  {
+   "text": "everything:",
+   "start": 29.966,
+   "end": 30.453
+  },
+  {
+   "text": "the",
+   "start": 30.813,
+   "end": 30.918
+  },
+  {
+   "text": "text,",
+   "start": 30.987,
+   "end": 31.51
+  },
+  {
+   "text": "the",
+   "start": 31.707,
+   "end": 31.823
+  },
+  {
+   "text": "icons,",
+   "start": 31.905,
+   "end": 32.624
+  },
+  {
+   "text": "the",
+   "start": 32.822,
+   "end": 32.926
+  },
+  {
+   "text": "camera",
+   "start": 32.984,
+   "end": 33.333
+  },
+  {
+   "text": "moves.",
+   "start": 33.402,
+   "end": 33.902
+  },
+  {
+   "text": "Even",
+   "start": 34.482,
+   "end": 34.749
+  },
+  {
+   "text": "the",
+   "start": 34.784,
+   "end": 34.854
+  },
+  {
+   "text": "music",
+   "start": 34.923,
+   "end": 35.272
+  },
+  {
+   "text": "underneath",
+   "start": 35.33,
+   "end": 35.736
+  },
+  {
+   "text": "was",
+   "start": 35.782,
+   "end": 35.91
+  },
+  {
+   "text": "generated",
+   "start": 35.98,
+   "end": 36.502
+  },
+  {
+   "text": "from",
+   "start": 36.549,
+   "end": 36.688
+  },
+  {
+   "text": "a",
+   "start": 36.746,
+   "end": 36.769
+  },
+  {
+   "text": "one-line",
+   "start": 36.85,
+   "end": 37.234
+  },
+  {
+   "text": "prompt.",
+   "start": 37.28,
+   "end": 37.756
+  },
+  {
+   "text": "The",
+   "start": 38.174,
+   "end": 38.302
+  },
+  {
+   "text": "whole",
+   "start": 38.371,
+   "end": 38.592
+  },
+  {
+   "text": "thing",
+   "start": 38.627,
+   "end": 38.801
+  },
+  {
+   "text": "renders",
+   "start": 38.882,
+   "end": 39.207
+  },
+  {
+   "text": "in",
+   "start": 39.289,
+   "end": 39.381
+  },
+  {
+   "text": "about",
+   "start": 39.44,
+   "end": 39.66
+  },
+  {
+   "text": "forty",
+   "start": 39.718,
+   "end": 39.962
+  },
+  {
+   "text": "seconds.",
+   "start": 40.02,
+   "end": 40.566
+  },
+  {
+   "text": "Change",
+   "start": 40.984,
+   "end": 41.344
+  },
+  {
+   "text": "one",
+   "start": 41.39,
+   "end": 41.541
+  },
+  {
+   "text": "line",
+   "start": 41.587,
+   "end": 41.785
+  },
+  {
+   "text": "in",
+   "start": 41.808,
+   "end": 41.866
+  },
+  {
+   "text": "the",
+   "start": 41.889,
+   "end": 41.959
+  },
+  {
+   "text": "file,",
+   "start": 42.005,
+   "end": 42.493
+  },
+  {
+   "text": "and",
+   "start": 42.655,
+   "end": 42.795
+  },
+  {
+   "text": "you",
+   "start": 42.853,
+   "end": 42.923
+  },
+  {
+   "text": "get",
+   "start": 42.993,
+   "end": 43.097
+  },
+  {
+   "text": "a",
+   "start": 43.144,
+   "end": 43.167
+  },
+  {
+   "text": "new",
+   "start": 43.225,
+   "end": 43.341
+  },
+  {
+   "text": "video.",
+   "start": 43.387,
+   "end": 43.945
+  },
+  {
+   "text": "One",
+   "start": 44.258,
+   "end": 44.513
+  },
+  {
+   "text": "system.",
+   "start": 44.572,
+   "end": 45.106
+  },
+  {
+   "text": "Unlimited",
+   "start": 45.419,
+   "end": 45.93
+  },
+  {
+   "text": "videos.",
+   "start": 45.965,
+   "end": 46.568
+  },
+  {
+   "text": "And",
+   "start": 46.835,
+   "end": 46.963
+  },
+  {
+   "text": "you",
+   "start": 47.01,
+   "end": 47.079
+  },
+  {
+   "text": "never",
+   "start": 47.161,
+   "end": 47.346
+  },
+  {
+   "text": "have",
+   "start": 47.393,
+   "end": 47.532
+  },
+  {
+   "text": "to",
+   "start": 47.555,
+   "end": 47.602
+  },
+  {
+   "text": "be",
+   "start": 47.648,
+   "end": 47.729
+  },
+  {
+   "text": "on",
+   "start": 47.776,
+   "end": 47.857
+  },
+  {
+   "text": "camera.",
+   "start": 47.915,
+   "end": 48.472
+  },
+  {
+   "text": "Follow,",
+   "start": 49.053,
+   "end": 49.436
+  },
+  {
+   "text": "I'm",
+   "start": 49.471,
+   "end": 49.622
+  },
+  {
+   "text": "building",
+   "start": 49.68,
+   "end": 49.993
+  },
+  {
+   "text": "this",
+   "start": 50.04,
+   "end": 50.202
+  },
+  {
+   "text": "in",
+   "start": 50.318,
+   "end": 50.458
+  },
+  {
+   "text": "public",
+   "start": 50.551,
+   "end": 50.934
+  },
+  {
+   "text": "and",
+   "start": 50.992,
+   "end": 51.073
+  },
+  {
+   "text": "sharing",
+   "start": 51.131,
+   "end": 51.421
+  },
+  {
+   "text": "every",
+   "start": 51.468,
+   "end": 51.63
+  },
+  {
+   "text": "piece",
+   "start": 51.688,
+   "end": 51.909
+  },
+  {
+   "text": "of",
+   "start": 51.944,
+   "end": 52.002
+  },
+  {
+   "text": "it.",
+   "start": 52.048,
+   "end": 52.431
+  }
+ ]
+}
