@@ -1,0 +1,1140 @@
+{
+ "fps": 30,
+ "durationSec": 37.112,
+ "voSrc": "audio/upgrades-itself/voice.mp3",
+ "musicSrc": "audio/upgrades-itself/music.mp3",
+ "musicVolume": 0.1,
+ "watermark": "rocketlaunchmedia.com",
+ "theme": "paper",
+ "anim": "pop",
+ "annot": null,
+ "beats": [
+  {
+   "id": "hook",
+   "start": 0.0,
+   "lines": [
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "This",
+       "t": 0.0,
+       "end": 0.221,
+       "emph": false
+      },
+      {
+       "text": "video",
+       "t": 0.302,
+       "end": 0.65,
+       "emph": false
+      },
+      {
+       "text": "gets",
+       "t": 0.708,
+       "end": 0.894,
+       "emph": false
+      },
+      {
+       "text": "better",
+       "t": 0.952,
+       "end": 1.173,
+       "emph": true
+      }
+     ],
+     "size": "lg",
+     "box": false,
+     "underline": false
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "the",
+       "t": 1.231,
+       "end": 1.3,
+       "emph": false
+      },
+      {
+       "text": "longer",
+       "t": 1.347,
+       "end": 1.614,
+       "emph": false
+      },
+      {
+       "text": "it",
+       "t": 1.672,
+       "end": 1.741,
+       "emph": false
+      },
+      {
+       "text": "runs.",
+       "t": 1.788,
+       "end": 2.31,
+       "emph": true
+      }
+     ],
+     "size": "md",
+     "box": false
+    },
+    {
+     "kind": "gap",
+     "h": 10
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "Watch.",
+       "t": 2.6,
+       "end": 3.123,
+       "emph": false
+      }
+     ],
+     "size": "sm",
+     "box": false
+    }
+   ],
+   "layout": "center",
+   "grid": true,
+   "deco": false,
+   "camera": {
+    "zoom": [
+     1,
+     1.02
+    ]
+   },
+   "end": 3.293
+  },
+  {
+   "id": "install",
+   "start": 3.293,
+   "lines": [
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "Claude",
+       "t": 3.413,
+       "end": 3.727,
+       "emph": false
+      },
+      {
+       "text": "Code",
+       "t": 3.773,
+       "end": 4.063,
+       "emph": false
+      },
+      {
+       "text": "just",
+       "t": 4.11,
+       "end": 4.272,
+       "emph": false
+      },
+      {
+       "text": "got",
+       "t": 4.307,
+       "end": 4.446,
+       "emph": false
+      }
+     ],
+     "size": "md",
+     "box": false
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "Remotion's",
+       "t": 4.505,
+       "end": 4.992,
+       "emph": true
+      },
+      {
+       "text": "official",
+       "t": 5.039,
+       "end": 5.375,
+       "emph": false
+      },
+      {
+       "text": "skills,",
+       "t": 5.422,
+       "end": 5.956,
+       "emph": false
+      }
+     ],
+     "size": "lg",
+     "box": false,
+     "underline": false
+    },
+    {
+     "kind": "terminal",
+     "lines": [
+      "$ npx skills add remotion-dev/skills",
+      "\u2713 12 skills installed"
+     ],
+     "w": 960,
+     "title": "terminal",
+     "t": 5.956
+    },
+    {
+     "kind": "gap",
+     "h": 6
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "twelve",
+       "t": 6.246,
+       "end": 6.559,
+       "emph": true
+      },
+      {
+       "text": "of",
+       "t": 6.594,
+       "end": 6.652,
+       "emph": false
+      },
+      {
+       "text": "them.",
+       "t": 6.699,
+       "end": 7.001,
+       "emph": false
+      }
+     ],
+     "size": "sm",
+     "box": false
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "Every",
+       "t": 7.291,
+       "end": 7.558,
+       "emph": false
+      },
+      {
+       "text": "upgrade",
+       "t": 7.616,
+       "end": 7.964,
+       "emph": false
+      },
+      {
+       "text": "I",
+       "t": 7.999,
+       "end": 8.034,
+       "emph": false
+      },
+      {
+       "text": "name",
+       "t": 8.138,
+       "end": 8.347,
+       "emph": false
+      },
+      {
+       "text": "switches",
+       "t": 8.394,
+       "end": 8.754,
+       "emph": false
+      },
+      {
+       "text": "on",
+       "t": 8.812,
+       "end": 9.021,
+       "emph": false
+      },
+      {
+       "text": "the",
+       "t": 9.125,
+       "end": 9.241,
+       "emph": false
+      },
+      {
+       "text": "moment",
+       "t": 9.299,
+       "end": 9.52,
+       "emph": false
+      },
+      {
+       "text": "I",
+       "t": 9.555,
+       "end": 9.589,
+       "emph": false
+      },
+      {
+       "text": "say",
+       "t": 9.659,
+       "end": 9.833,
+       "emph": false
+      },
+      {
+       "text": "it.",
+       "t": 9.88,
+       "end": 10.089,
+       "emph": false
+      }
+     ],
+     "size": "sm",
+     "box": false
+    }
+   ],
+   "layout": "top",
+   "grid": true,
+   "deco": false,
+   "camera": {
+    "zoom": [
+     1,
+     1.03
+    ]
+   },
+   "transition": "cut",
+   "end": 10.317
+  },
+  {
+   "id": "transitions",
+   "start": 10.317,
+   "lines": [
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "Transitions.",
+       "t": 10.437,
+       "end": 11.343,
+       "emph": true
+      }
+     ],
+     "size": "xl",
+     "box": false
+    },
+    {
+     "kind": "gap",
+     "h": 10
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "Every",
+       "t": 11.691,
+       "end": 11.923,
+       "emph": false
+      },
+      {
+       "text": "cut",
+       "t": 11.97,
+       "end": 12.12,
+       "emph": false
+      },
+      {
+       "text": "used",
+       "t": 12.19,
+       "end": 12.353,
+       "emph": false
+      },
+      {
+       "text": "to",
+       "t": 12.376,
+       "end": 12.434,
+       "emph": false
+      },
+      {
+       "text": "be",
+       "t": 12.48,
+       "end": 12.562,
+       "emph": false
+      },
+      {
+       "text": "a",
+       "t": 12.596,
+       "end": 12.631,
+       "emph": false
+      },
+      {
+       "text": "hard",
+       "t": 12.689,
+       "end": 12.875,
+       "emph": true
+      },
+      {
+       "text": "cut.",
+       "t": 12.933,
+       "end": 13.258,
+       "emph": true
+      }
+     ],
+     "size": "md",
+     "box": false
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "Now",
+       "t": 13.548,
+       "end": 13.699,
+       "emph": false
+      },
+      {
+       "text": "it",
+       "t": 13.757,
+       "end": 13.827,
+       "emph": false
+      },
+      {
+       "text": "moves.",
+       "t": 13.873,
+       "end": 14.384,
+       "emph": true
+      }
+     ],
+     "size": "md",
+     "box": false
+    }
+   ],
+   "layout": "center",
+   "grid": true,
+   "deco": false,
+   "camera": {
+    "zoom": [
+     1,
+     1.05
+    ]
+   },
+   "transition": "slide",
+   "end": 14.612
+  },
+  {
+   "id": "leaks",
+   "start": 14.612,
+   "lines": [
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "Light",
+       "t": 14.732,
+       "end": 14.976,
+       "emph": true
+      },
+      {
+       "text": "leaks",
+       "t": 15.034,
+       "end": 15.499,
+       "emph": true
+      }
+     ],
+     "size": "xl",
+     "box": false,
+     "color": "#F6F6F6",
+     "emphColor": "#FFB27A",
+     "underline": false
+    },
+    {
+     "kind": "gap",
+     "h": 8
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "on",
+       "t": 15.557,
+       "end": 15.708,
+       "emph": false
+      },
+      {
+       "text": "every",
+       "t": 15.766,
+       "end": 15.94,
+       "emph": false
+      },
+      {
+       "text": "cut",
+       "t": 15.998,
+       "end": 16.195,
+       "emph": false
+      },
+      {
+       "text": "into",
+       "t": 16.253,
+       "end": 16.416,
+       "emph": false
+      },
+      {
+       "text": "a",
+       "t": 16.474,
+       "end": 16.497,
+       "emph": false
+      },
+      {
+       "text": "dark",
+       "t": 16.543,
+       "end": 16.752,
+       "emph": false
+      },
+      {
+       "text": "scene.",
+       "t": 16.81,
+       "end": 17.217,
+       "emph": false
+      }
+     ],
+     "size": "sm",
+     "box": false,
+     "color": "#F6F6F6"
+    }
+   ],
+   "layout": "center",
+   "grid": false,
+   "deco": false,
+   "camera": {
+    "zoom": [
+     1,
+     1.05
+    ]
+   },
+   "transition": "leak",
+   "bg": {
+    "color": "#1B1B1B"
+   },
+   "end": 17.445
+  },
+  {
+   "id": "highlights",
+   "start": 17.445,
+   "lines": [
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "Hand-drawn",
+       "t": 17.565,
+       "end": 18.111,
+       "emph": true
+      },
+      {
+       "text": "highlights,",
+       "t": 18.169,
+       "end": 18.668,
+       "emph": false
+      }
+     ],
+     "size": "lg",
+     "box": false,
+     "annot": "circle"
+    },
+    {
+     "kind": "gap",
+     "h": 10
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "and",
+       "t": 18.691,
+       "end": 18.784,
+       "emph": false
+      },
+      {
+       "text": "underlines.",
+       "t": 18.842,
+       "end": 19.574,
+       "emph": true
+      }
+     ],
+     "size": "lg",
+     "box": false,
+     "annot": "underline"
+    }
+   ],
+   "layout": "center",
+   "grid": true,
+   "deco": false,
+   "camera": {
+    "zoom": [
+     1,
+     1.05
+    ]
+   },
+   "transition": "whip",
+   "end": 19.744
+  },
+  {
+   "id": "fit",
+   "start": 19.744,
+   "lines": [
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "Text",
+       "t": 19.864,
+       "end": 20.154,
+       "emph": true
+      },
+      {
+       "text": "that",
+       "t": 20.189,
+       "end": 20.317,
+       "emph": true
+      },
+      {
+       "text": "fits",
+       "t": 20.363,
+       "end": 20.561,
+       "emph": true
+      }
+     ],
+     "size": "xl",
+     "box": false,
+     "fit": true
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "the",
+       "t": 20.607,
+       "end": 20.688,
+       "emph": true
+      },
+      {
+       "text": "frame,",
+       "t": 20.746,
+       "end": 21.234,
+       "emph": true
+      }
+     ],
+     "size": "xl",
+     "box": false,
+     "fit": true
+    },
+    {
+     "kind": "gap",
+     "h": 8
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "edge",
+       "t": 21.373,
+       "end": 21.594,
+       "emph": false
+      },
+      {
+       "text": "to",
+       "t": 21.64,
+       "end": 21.71,
+       "emph": false
+      },
+      {
+       "text": "edge.",
+       "t": 21.78,
+       "end": 22.221,
+       "emph": false
+      }
+     ],
+     "size": "sm",
+     "box": false
+    }
+   ],
+   "layout": "center",
+   "grid": true,
+   "deco": false,
+   "camera": {
+    "zoom": [
+     1,
+     1.04
+    ]
+   },
+   "transition": "push",
+   "end": 22.391
+  },
+  {
+   "id": "icons",
+   "start": 22.391,
+   "lines": [
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "Real",
+       "t": 22.511,
+       "end": 22.755,
+       "emph": true
+      },
+      {
+       "text": "icons,",
+       "t": 22.813,
+       "end": 23.254,
+       "emph": true
+      }
+     ],
+     "size": "lg",
+     "box": false,
+     "underline": false
+    },
+    {
+     "kind": "icon",
+     "name": "sparkles",
+     "w": 110,
+     "t": 23.254,
+     "rotate": 0,
+     "color": "#FFFFFF",
+     "bg": "#E5744C"
+    },
+    {
+     "kind": "icon",
+     "name": "mouse-pointer-click",
+     "w": 110,
+     "t": 23.411,
+     "rotate": 0,
+     "color": "#FFFFFF",
+     "bg": "#1E1E1E"
+    },
+    {
+     "kind": "icon",
+     "name": "rocket",
+     "w": 110,
+     "t": 23.661,
+     "rotate": 0,
+     "color": "#FFFFFF",
+     "bg": "#E5744C"
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "with",
+       "t": 23.277,
+       "end": 23.417,
+       "emph": false
+      },
+      {
+       "text": "motion",
+       "t": 23.475,
+       "end": 23.765,
+       "emph": true
+      },
+      {
+       "text": "trails.",
+       "t": 23.811,
+       "end": 24.322,
+       "emph": true
+      }
+     ],
+     "size": "md",
+     "box": false
+    }
+   ],
+   "layout": "center",
+   "grid": true,
+   "deco": false,
+   "camera": {
+    "zoom": [
+     1,
+     1.05
+    ]
+   },
+   "transition": "slide",
+   "end": 24.492
+  },
+  {
+   "id": "lottie",
+   "start": 24.492,
+   "lines": [
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "Animations,",
+       "t": 24.612,
+       "end": 25.448,
+       "emph": true
+      }
+     ],
+     "size": "lg",
+     "box": false,
+     "underline": false
+    },
+    {
+     "kind": "lottie",
+     "src": "lottie/demo-animation.json",
+     "w": 560,
+     "t": 25.448,
+     "loop": true,
+     "speed": 1
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "not",
+       "t": 25.517,
+       "end": 25.68,
+       "emph": false
+      },
+      {
+       "text": "static",
+       "t": 25.738,
+       "end": 26.051,
+       "emph": false
+      },
+      {
+       "text": "icons.",
+       "t": 26.109,
+       "end": 26.678,
+       "emph": false
+      }
+     ],
+     "size": "sm",
+     "box": false
+    }
+   ],
+   "layout": "center",
+   "grid": true,
+   "deco": false,
+   "camera": {
+    "zoom": [
+     1,
+     1.05
+    ]
+   },
+   "transition": "fade",
+   "end": 26.965
+  },
+  {
+   "id": "code",
+   "start": 26.965,
+   "lines": [
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "Code",
+       "t": 27.085,
+       "end": 27.34,
+       "emph": true
+      },
+      {
+       "text": "that",
+       "t": 27.363,
+       "end": 27.479,
+       "emph": false
+      },
+      {
+       "text": "highlights",
+       "t": 27.537,
+       "end": 27.932,
+       "emph": false
+      },
+      {
+       "text": "itself",
+       "t": 27.979,
+       "end": 28.304,
+       "emph": false
+      }
+     ],
+     "size": "md",
+     "box": false
+    },
+    {
+     "kind": "code",
+     "lines": [
+      "<TransitionSeries>",
+      "  <TransitionSeries.Sequence durationInFrames={60}>",
+      "    <Scene />",
+      "  </TransitionSeries.Sequence>",
+      "  <TransitionSeries.Transition",
+      "    presentation={slide()} />",
+      "</TransitionSeries>"
+     ],
+     "lang": "tsx",
+     "title": "Scene.tsx",
+     "w": 980,
+     "t": 27.235,
+     "theme": "dracula",
+     "typing": true
+    },
+    {
+     "kind": "gap",
+     "h": 6
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "as",
+       "t": 28.362,
+       "end": 28.455,
+       "emph": false
+      },
+      {
+       "text": "it",
+       "t": 28.513,
+       "end": 28.582,
+       "emph": false
+      },
+      {
+       "text": "types.",
+       "t": 28.617,
+       "end": 29.104,
+       "emph": true
+      }
+     ],
+     "size": "sm",
+     "box": false
+    }
+   ],
+   "layout": "top",
+   "grid": true,
+   "deco": false,
+   "camera": {
+    "zoom": [
+     1,
+     1.04
+    ]
+   },
+   "transition": "wipe",
+   "end": 29.275
+  },
+  {
+   "id": "sound",
+   "start": 29.275,
+   "lines": [
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "And",
+       "t": 29.395,
+       "end": 29.545,
+       "emph": false
+      },
+      {
+       "text": "eight",
+       "t": 29.65,
+       "end": 29.859,
+       "emph": true
+      },
+      {
+       "text": "sounds",
+       "t": 29.917,
+       "end": 30.242,
+       "emph": false
+      }
+     ],
+     "size": "md",
+     "box": false
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "became",
+       "t": 30.3,
+       "end": 30.602,
+       "emph": false
+      },
+      {
+       "text": "50",
+       "t": 30.66,
+       "end": 31.055,
+       "emph": true
+      }
+     ],
+     "size": "xl",
+     "box": false,
+     "fit": true
+    },
+    {
+     "kind": "icon",
+     "name": "volume-2",
+     "w": 96,
+     "t": 31.055,
+     "rotate": 0,
+     "color": "#FFFFFF",
+     "bg": "#1E1E1E"
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "so",
+       "t": 31.09,
+       "end": 31.206,
+       "emph": false
+      },
+      {
+       "text": "nothing",
+       "t": 31.264,
+       "end": 31.484,
+       "emph": false
+      },
+      {
+       "text": "repeats.",
+       "t": 31.542,
+       "end": 32.065,
+       "emph": false
+      }
+     ],
+     "size": "sm",
+     "box": false
+    }
+   ],
+   "layout": "center",
+   "grid": true,
+   "deco": false,
+   "camera": {
+    "zoom": [
+     1,
+     1.05
+    ]
+   },
+   "transition": "whip",
+   "end": 32.351
+  },
+  {
+   "id": "cta",
+   "start": 32.351,
+   "lines": [
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "One",
+       "t": 32.471,
+       "end": 32.645,
+       "emph": true
+      },
+      {
+       "text": "install",
+       "t": 32.68,
+       "end": 32.982,
+       "emph": true
+      },
+      {
+       "text": "did",
+       "t": 33.04,
+       "end": 33.156,
+       "emph": false
+      },
+      {
+       "text": "all",
+       "t": 33.191,
+       "end": 33.319,
+       "emph": false
+      },
+      {
+       "text": "of",
+       "t": 33.365,
+       "end": 33.412,
+       "emph": false
+      },
+      {
+       "text": "this.",
+       "t": 33.446,
+       "end": 33.806,
+       "emph": false
+      }
+     ],
+     "size": "lg",
+     "box": false,
+     "annot": "underline"
+    },
+    {
+     "kind": "gap",
+     "h": 14
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "Comment",
+       "t": 34.213,
+       "end": 34.584,
+       "emph": false
+      }
+     ],
+     "size": "md",
+     "box": false
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "REMOTION",
+       "t": 34.631,
+       "end": 35.095,
+       "emph": true
+      }
+     ],
+     "size": "xl",
+     "box": false,
+     "fit": true,
+     "annot": "circle"
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "and",
+       "t": 35.153,
+       "end": 35.281,
+       "emph": false
+      },
+      {
+       "text": "I'll",
+       "t": 35.327,
+       "end": 35.455,
+       "emph": false
+      },
+      {
+       "text": "send",
+       "t": 35.501,
+       "end": 35.641,
+       "emph": false
+      },
+      {
+       "text": "you",
+       "t": 35.676,
+       "end": 35.745,
+       "emph": false
+      },
+      {
+       "text": "the",
+       "t": 35.792,
+       "end": 35.861,
+       "emph": false
+      },
+      {
+       "text": "command.",
+       "t": 35.896,
+       "end": 36.511,
+       "emph": false
+      }
+     ],
+     "size": "sm",
+     "box": false
+    }
+   ],
+   "layout": "center",
+   "grid": true,
+   "deco": false,
+   "camera": {
+    "zoom": [
+     1,
+     1.05
+    ]
+   },
+   "transition": "slide",
+   "end": 37.112
+  }
+ ],
+ "sfx": true,
+ "sfxLevel": 0.7
+}

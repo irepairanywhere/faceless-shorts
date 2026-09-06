@@ -52,6 +52,7 @@ Rules from Ahmed (2026-09-06): no starbursts in the first two beats and at most 
 | intake-ad | film | ringing-phone stock video + "1 IN 3" | rise |
 | geo-ad | midnight | chat thread (question → ChatGPT answer) + count-up | rise + fill |
 | google-preferred | paper | badge/logo reveal (Google badge drops in, sentence follows) + hand-drawn circle | pop |
+| upgrades-itself | paper | plain typed install command, no decor; each beat switches on one upgrade (slide → leak → annotations → fit → icons → lottie → code → sound) | pop |
 
 Voice + word timings come from ElevenLabs `/with-timestamps` (cached by text hash — edit the VO and it re-synthesizes).
 Rendering is Remotion (React) in `remotion/`; the look lives in `remotion/src/theme.ts` and `remotion/src/components/`.
@@ -80,6 +81,7 @@ Requires: node 18+, ffmpeg, python3 + requests, ELEVENLABS_API_KEY (env, ./.env,
 | Problem statement | 2-beat variant: pain (footage) → proof (solid) | any |
 | Screenshot reveal | blurred `image` sharpening while the hook line lands | paper, midnight |
 | Card drop | `card`/`phone` element first, text second | paper |
+| Progressive reveal | start deliberately plain (cut transitions, no annotations), then unlock one capability per beat as the voice names it — the video itself is the demo | paper |
 | Badge / logo reveal | the product's own badge or logo `image` at 0.05s, the claim lands under it, `annot: circle` on the key word | paper, midnight |
 
 ## Transition bank

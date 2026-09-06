@@ -1,0 +1,514 @@
+{
+ "text": "This video gets better the longer it runs. Watch.\n\nClaude Code just got Remotion's official skills, twelve of them. Every upgrade I name switches on the moment I say it.\n\nTransitions. Every cut used to be a hard cut. Now it moves.\n\nLight leaks, on every cut into a dark scene.\n\nHand-drawn highlights, and underlines.\n\nText that fits the frame, edge to edge.\n\nReal icons, with motion trails.\n\nAnimations, not static icons.\n\nCode that highlights itself as it types.\n\nAnd eight sounds became fifty, so nothing repeats.\n\nOne install did all of this. Comment REMOTION and I'll send you the command.",
+ "voice_id": "nPczCjzI2devNBz1zQrb",
+ "speed": 1.1,
+ "words": [
+  {
+   "text": "This",
+   "start": 0.0,
+   "end": 0.221
+  },
+  {
+   "text": "video",
+   "start": 0.302,
+   "end": 0.65
+  },
+  {
+   "text": "gets",
+   "start": 0.708,
+   "end": 0.894
+  },
+  {
+   "text": "better",
+   "start": 0.952,
+   "end": 1.173
+  },
+  {
+   "text": "the",
+   "start": 1.231,
+   "end": 1.3
+  },
+  {
+   "text": "longer",
+   "start": 1.347,
+   "end": 1.614
+  },
+  {
+   "text": "it",
+   "start": 1.672,
+   "end": 1.741
+  },
+  {
+   "text": "runs.",
+   "start": 1.788,
+   "end": 2.31
+  },
+  {
+   "text": "Watch.",
+   "start": 2.6,
+   "end": 3.123
+  },
+  {
+   "text": "Claude",
+   "start": 3.413,
+   "end": 3.727
+  },
+  {
+   "text": "Code",
+   "start": 3.773,
+   "end": 4.063
+  },
+  {
+   "text": "just",
+   "start": 4.11,
+   "end": 4.272
+  },
+  {
+   "text": "got",
+   "start": 4.307,
+   "end": 4.446
+  },
+  {
+   "text": "Remotion's",
+   "start": 4.505,
+   "end": 4.992
+  },
+  {
+   "text": "official",
+   "start": 5.039,
+   "end": 5.375
+  },
+  {
+   "text": "skills,",
+   "start": 5.422,
+   "end": 5.956
+  },
+  {
+   "text": "twelve",
+   "start": 6.246,
+   "end": 6.559
+  },
+  {
+   "text": "of",
+   "start": 6.594,
+   "end": 6.652
+  },
+  {
+   "text": "them.",
+   "start": 6.699,
+   "end": 7.001
+  },
+  {
+   "text": "Every",
+   "start": 7.291,
+   "end": 7.558
+  },
+  {
+   "text": "upgrade",
+   "start": 7.616,
+   "end": 7.964
+  },
+  {
+   "text": "I",
+   "start": 7.999,
+   "end": 8.034
+  },
+  {
+   "text": "name",
+   "start": 8.138,
+   "end": 8.347
+  },
+  {
+   "text": "switches",
+   "start": 8.394,
+   "end": 8.754
+  },
+  {
+   "text": "on",
+   "start": 8.812,
+   "end": 9.021
+  },
+  {
+   "text": "the",
+   "start": 9.125,
+   "end": 9.241
+  },
+  {
+   "text": "moment",
+   "start": 9.299,
+   "end": 9.52
+  },
+  {
+   "text": "I",
+   "start": 9.555,
+   "end": 9.589
+  },
+  {
+   "text": "say",
+   "start": 9.659,
+   "end": 9.833
+  },
+  {
+   "text": "it.",
+   "start": 9.88,
+   "end": 10.089
+  },
+  {
+   "text": "Transitions.",
+   "start": 10.437,
+   "end": 11.343
+  },
+  {
+   "text": "Every",
+   "start": 11.691,
+   "end": 11.923
+  },
+  {
+   "text": "cut",
+   "start": 11.97,
+   "end": 12.12
+  },
+  {
+   "text": "used",
+   "start": 12.19,
+   "end": 12.353
+  },
+  {
+   "text": "to",
+   "start": 12.376,
+   "end": 12.434
+  },
+  {
+   "text": "be",
+   "start": 12.48,
+   "end": 12.562
+  },
+  {
+   "text": "a",
+   "start": 12.596,
+   "end": 12.631
+  },
+  {
+   "text": "hard",
+   "start": 12.689,
+   "end": 12.875
+  },
+  {
+   "text": "cut.",
+   "start": 12.933,
+   "end": 13.258
+  },
+  {
+   "text": "Now",
+   "start": 13.548,
+   "end": 13.699
+  },
+  {
+   "text": "it",
+   "start": 13.757,
+   "end": 13.827
+  },
+  {
+   "text": "moves.",
+   "start": 13.873,
+   "end": 14.384
+  },
+  {
+   "text": "Light",
+   "start": 14.732,
+   "end": 14.976
+  },
+  {
+   "text": "leaks,",
+   "start": 15.034,
+   "end": 15.499
+  },
+  {
+   "text": "on",
+   "start": 15.557,
+   "end": 15.708
+  },
+  {
+   "text": "every",
+   "start": 15.766,
+   "end": 15.94
+  },
+  {
+   "text": "cut",
+   "start": 15.998,
+   "end": 16.195
+  },
+  {
+   "text": "into",
+   "start": 16.253,
+   "end": 16.416
+  },
+  {
+   "text": "a",
+   "start": 16.474,
+   "end": 16.497
+  },
+  {
+   "text": "dark",
+   "start": 16.543,
+   "end": 16.752
+  },
+  {
+   "text": "scene.",
+   "start": 16.81,
+   "end": 17.217
+  },
+  {
+   "text": "Hand-drawn",
+   "start": 17.565,
+   "end": 18.111
+  },
+  {
+   "text": "highlights,",
+   "start": 18.169,
+   "end": 18.668
+  },
+  {
+   "text": "and",
+   "start": 18.691,
+   "end": 18.784
+  },
+  {
+   "text": "underlines.",
+   "start": 18.842,
+   "end": 19.574
+  },
+  {
+   "text": "Text",
+   "start": 19.864,
+   "end": 20.154
+  },
+  {
+   "text": "that",
+   "start": 20.189,
+   "end": 20.317
+  },
+  {
+   "text": "fits",
+   "start": 20.363,
+   "end": 20.561
+  },
+  {
+   "text": "the",
+   "start": 20.607,
+   "end": 20.688
+  },
+  {
+   "text": "frame,",
+   "start": 20.746,
+   "end": 21.234
+  },
+  {
+   "text": "edge",
+   "start": 21.373,
+   "end": 21.594
+  },
+  {
+   "text": "to",
+   "start": 21.64,
+   "end": 21.71
+  },
+  {
+   "text": "edge.",
+   "start": 21.78,
+   "end": 22.221
+  },
+  {
+   "text": "Real",
+   "start": 22.511,
+   "end": 22.755
+  },
+  {
+   "text": "icons,",
+   "start": 22.813,
+   "end": 23.254
+  },
+  {
+   "text": "with",
+   "start": 23.277,
+   "end": 23.417
+  },
+  {
+   "text": "motion",
+   "start": 23.475,
+   "end": 23.765
+  },
+  {
+   "text": "trails.",
+   "start": 23.811,
+   "end": 24.322
+  },
+  {
+   "text": "Animations,",
+   "start": 24.612,
+   "end": 25.448
+  },
+  {
+   "text": "not",
+   "start": 25.517,
+   "end": 25.68
+  },
+  {
+   "text": "static",
+   "start": 25.738,
+   "end": 26.051
+  },
+  {
+   "text": "icons.",
+   "start": 26.109,
+   "end": 26.678
+  },
+  {
+   "text": "Code",
+   "start": 27.085,
+   "end": 27.34
+  },
+  {
+   "text": "that",
+   "start": 27.363,
+   "end": 27.479
+  },
+  {
+   "text": "highlights",
+   "start": 27.537,
+   "end": 27.932
+  },
+  {
+   "text": "itself",
+   "start": 27.979,
+   "end": 28.304
+  },
+  {
+   "text": "as",
+   "start": 28.362,
+   "end": 28.455
+  },
+  {
+   "text": "it",
+   "start": 28.513,
+   "end": 28.582
+  },
+  {
+   "text": "types.",
+   "start": 28.617,
+   "end": 29.104
+  },
+  {
+   "text": "And",
+   "start": 29.395,
+   "end": 29.545
+  },
+  {
+   "text": "eight",
+   "start": 29.65,
+   "end": 29.859
+  },
+  {
+   "text": "sounds",
+   "start": 29.917,
+   "end": 30.242
+  },
+  {
+   "text": "became",
+   "start": 30.3,
+   "end": 30.602
+  },
+  {
+   "text": "fifty,",
+   "start": 30.66,
+   "end": 31.055
+  },
+  {
+   "text": "so",
+   "start": 31.09,
+   "end": 31.206
+  },
+  {
+   "text": "nothing",
+   "start": 31.264,
+   "end": 31.484
+  },
+  {
+   "text": "repeats.",
+   "start": 31.542,
+   "end": 32.065
+  },
+  {
+   "text": "One",
+   "start": 32.471,
+   "end": 32.645
+  },
+  {
+   "text": "install",
+   "start": 32.68,
+   "end": 32.982
+  },
+  {
+   "text": "did",
+   "start": 33.04,
+   "end": 33.156
+  },
+  {
+   "text": "all",
+   "start": 33.191,
+   "end": 33.319
+  },
+  {
+   "text": "of",
+   "start": 33.365,
+   "end": 33.412
+  },
+  {
+   "text": "this.",
+   "start": 33.446,
+   "end": 33.806
+  },
+  {
+   "text": "Comment",
+   "start": 34.213,
+   "end": 34.584
+  },
+  {
+   "text": "REMOTION",
+   "start": 34.631,
+   "end": 35.095
+  },
+  {
+   "text": "and",
+   "start": 35.153,
+   "end": 35.281
+  },
+  {
+   "text": "I'll",
+   "start": 35.327,
+   "end": 35.455
+  },
+  {
+   "text": "send",
+   "start": 35.501,
+   "end": 35.641
+  },
+  {
+   "text": "you",
+   "start": 35.676,
+   "end": 35.745
+  },
+  {
+   "text": "the",
+   "start": 35.792,
+   "end": 35.861
+  },
+  {
+   "text": "command.",
+   "start": 35.896,
+   "end": 36.511
+  }
+ ],
+ "removed_s": 1.57,
+ "tightened": true
+}

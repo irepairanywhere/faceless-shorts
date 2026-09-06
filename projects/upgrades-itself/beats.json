@@ -1,0 +1,159 @@
+{
+  "title": "This video gets better the longer it runs",
+  "theme": "paper",
+  "anim": "pop",
+  "speed": 1.1,
+  "tighten": true,
+  "watermark": "rocketlaunchmedia.com",
+  "sfx_level": 0.7,
+  "music": {"prompt": "clean modern electronic bed that slowly builds, soft plucks then light drums join, optimistic, no vocals, 105 bpm, unobtrusive under narration", "volume": 0.1},
+  "beats": [
+    {
+      "id": "hook",
+      "vo": "This video gets better the longer it runs. Watch.",
+      "grid": true,
+      "deco": false,
+      "camera": {"zoom": [1, 1.02]},
+      "lines": [
+        {"text": "This video gets *better*", "size": "lg", "underline": false},
+        {"text": "the longer it *runs.*", "size": "md"},
+        {"gap": 10},
+        {"text": "Watch.", "size": "sm"}
+      ]
+    },
+    {
+      "id": "install",
+      "transition": "cut",
+      "vo": "Claude Code just got Remotion's official skills, twelve of them. Every upgrade I name switches on the moment I say it.",
+      "grid": true,
+      "layout": "top",
+      "camera": {"zoom": [1, 1.03]},
+      "lines": [
+        {"text": "Claude Code just got", "size": "md"},
+        {"text": "*Remotion's* official skills,", "size": "lg", "underline": false},
+        {"terminal": ["$ npx skills add remotion-dev/skills", "✓ 12 skills installed"], "title": "terminal", "w": 960, "after": "skills,"},
+        {"gap": 6},
+        {"text": "*twelve* of them.", "size": "sm"},
+        {"text": "Every upgrade I name switches on the moment I say it.", "size": "sm"}
+      ]
+    },
+    {
+      "id": "transitions",
+      "transition": "slide",
+      "vo": "Transitions. Every cut used to be a hard cut. Now it moves.",
+      "grid": true,
+      "camera": {"zoom": [1, 1.05]},
+      "lines": [
+        {"text": "*Transitions.*", "size": "xl"},
+        {"gap": 10},
+        {"text": "Every cut used to be a *hard cut.*", "size": "md"},
+        {"text": "Now it *moves.*", "size": "md"}
+      ]
+    },
+    {
+      "id": "leaks",
+      "transition": "leak",
+      "vo": "Light leaks, on every cut into a dark scene.",
+      "grid": false,
+      "bg": {"color": "#1B1B1B"},
+      "camera": {"zoom": [1, 1.05]},
+      "lines": [
+        {"text": "*Light leaks*", "size": "xl", "color": "#F6F6F6", "emphColor": "#FFB27A", "underline": false},
+        {"gap": 8},
+        {"text": "on every cut into a dark scene.", "size": "sm", "color": "#F6F6F6"}
+      ]
+    },
+    {
+      "id": "highlights",
+      "transition": "whip",
+      "vo": "Hand-drawn highlights, and underlines.",
+      "grid": true,
+      "camera": {"zoom": [1, 1.05]},
+      "lines": [
+        {"text": "*Hand-drawn* highlights,", "size": "lg", "annot": "circle"},
+        {"gap": 10},
+        {"text": "and *underlines.*", "size": "lg", "annot": "underline"}
+      ]
+    },
+    {
+      "id": "fit",
+      "transition": "push",
+      "vo": "Text that fits the frame, edge to edge.",
+      "grid": true,
+      "camera": {"zoom": [1, 1.04]},
+      "lines": [
+        {"text": "*Text that fits*", "size": "xl", "fit": true},
+        {"text": "*the frame,*", "size": "xl", "fit": true},
+        {"gap": 8},
+        {"text": "edge to edge.", "size": "sm"}
+      ]
+    },
+    {
+      "id": "icons",
+      "transition": "slide",
+      "vo": "Real icons, with motion trails.",
+      "grid": true,
+      "camera": {"zoom": [1, 1.05]},
+      "lines": [
+        {"text": "*Real icons,*", "size": "lg", "underline": false},
+        {"icon": "sparkles", "w": 110, "bg": "#E5744C", "color": "#FFFFFF", "after": "icons,"},
+        {"icon": "mouse-pointer-click", "w": 110, "bg": "#1E1E1E", "color": "#FFFFFF", "at": 0.9},
+        {"icon": "rocket", "w": 110, "bg": "#E5744C", "color": "#FFFFFF", "at": 1.15},
+        {"text": "with *motion trails.*", "size": "md"}
+      ]
+    },
+    {
+      "id": "lottie",
+      "transition": "fade",
+      "vo": "Animations, not static icons.",
+      "grid": true,
+      "camera": {"zoom": [1, 1.05]},
+      "lines": [
+        {"text": "*Animations,*", "size": "lg", "underline": false},
+        {"lottie": "demo-animation.json", "w": 560, "after": "Animations,"},
+        {"text": "not static icons.", "size": "sm"}
+      ]
+    },
+    {
+      "id": "code",
+      "transition": "wipe",
+      "vo": "Code that highlights itself as it types.",
+      "grid": true,
+      "layout": "top",
+      "camera": {"zoom": [1, 1.04]},
+      "lines": [
+        {"text": "*Code* that highlights itself", "size": "md"},
+        {"code": ["<TransitionSeries>", "  <TransitionSeries.Sequence durationInFrames={60}>", "    <Scene />", "  </TransitionSeries.Sequence>", "  <TransitionSeries.Transition", "    presentation={slide()} />", "</TransitionSeries>"], "lang": "tsx", "title": "Scene.tsx", "theme": "dracula", "w": 980, "at": 0.15},
+        {"gap": 6},
+        {"text": "as it *types.*", "size": "sm"}
+      ]
+    },
+    {
+      "id": "sound",
+      "transition": "whip",
+      "vo": "And eight sounds became fifty, so nothing repeats.",
+      "grid": true,
+      "camera": {"zoom": [1, 1.05]},
+      "lines": [
+        {"text": "And *eight* sounds", "size": "md"},
+        {"text": "became *50*", "size": "xl", "fit": true},
+        {"icon": "volume-2", "w": 96, "bg": "#1E1E1E", "color": "#FFFFFF", "after": "fifty,"},
+        {"text": "so nothing repeats.", "size": "sm"}
+      ]
+    },
+    {
+      "id": "cta",
+      "transition": "slide",
+      "vo": "One install did all of this. Comment REMOTION and I'll send you the command.",
+      "grid": true,
+      "camera": {"zoom": [1, 1.05]},
+      "lines": [
+        {"text": "*One install* did all of this.", "size": "lg", "annot": "underline"},
+        {"gap": 14},
+        {"text": "Comment", "size": "md"},
+        {"text": "*REMOTION*", "size": "xl", "fit": true, "annot": "circle"},
+        {"text": "and I'll send you the command.", "size": "sm"}
+      ]
+    }
+  ]
+}
