@@ -1,0 +1,342 @@
+{
+ "fps": 30,
+ "durationSec": 6.916,
+ "voSrc": "audio/_smoke9/voice.mp3",
+ "musicSrc": null,
+ "musicVolume": 0.12,
+ "watermark": "rocketlaunchmedia.com",
+ "theme": "paper",
+ "width": 1080,
+ "height": 1920,
+ "anim": "pop",
+ "annot": null,
+ "beats": [
+  {
+   "id": "one",
+   "start": 0.0,
+   "lines": [
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "3D",
+       "t": 0.0,
+       "end": 0.29,
+       "emph": true
+      },
+      {
+       "text": "emoji",
+       "t": 0.36,
+       "end": 0.65,
+       "emph": false
+      },
+      {
+       "text": "stickers,",
+       "t": 0.697,
+       "end": 1.149,
+       "emph": false
+      }
+     ],
+     "size": "lg",
+     "box": false
+    },
+    {
+     "kind": "emoji",
+     "src": "emoji/rocket_3d.png",
+     "w": 300,
+     "t": 0.487,
+     "rotate": -8,
+     "float": true
+    },
+    {
+     "kind": "cursor",
+     "t": 0.2,
+     "fromX": 0.25,
+     "fromY": 0.8,
+     "toX": 0.65,
+     "toY": 0.35
+    }
+   ],
+   "layout": "center",
+   "grid": true,
+   "deco": false,
+   "camera": {
+    "zoom": [
+     1,
+     1.05
+    ]
+   },
+   "end": 1.087
+  },
+  {
+   "id": "two",
+   "start": 1.087,
+   "lines": [
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "animated",
+       "t": 1.207,
+       "end": 1.683,
+       "emph": true
+      },
+      {
+       "text": "emoji,",
+       "t": 1.73,
+       "end": 2.264,
+       "emph": false
+      }
+     ],
+     "size": "lg",
+     "box": false
+    },
+    {
+     "kind": "emoji",
+     "name": "fire",
+     "animated": true,
+     "w": 300,
+     "t": 1.799,
+     "rotate": 0,
+     "float": true
+    },
+    {
+     "kind": "browser-frame",
+     "t": 1.407,
+     "url": "onda.video",
+     "width": 700
+    }
+   ],
+   "layout": "center",
+   "grid": true,
+   "deco": false,
+   "camera": {
+    "zoom": [
+     1,
+     1.05
+    ]
+   },
+   "transition": "flip",
+   "end": 2.399
+  },
+  {
+   "id": "three",
+   "start": 2.399,
+   "lines": [
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "real",
+       "t": 2.519,
+       "end": 2.728,
+       "emph": false
+      },
+      {
+       "text": "brand",
+       "t": 2.786,
+       "end": 2.995,
+       "emph": true
+      },
+      {
+       "text": "logos,",
+       "t": 3.053,
+       "end": 3.518,
+       "emph": false
+      }
+     ],
+     "size": "lg",
+     "box": false
+    },
+    {
+     "kind": "icon",
+     "name": "claude",
+     "src": "brand/lobe-claude-color.svg",
+     "w": 170,
+     "t": 2.856,
+     "rotate": 0
+    },
+    {
+     "kind": "icon",
+     "name": "openai",
+     "src": "brand/lobe-openai-ffffff.svg",
+     "w": 150,
+     "t": 2.856,
+     "rotate": 0
+    },
+    {
+     "kind": "icon",
+     "name": "tiktok",
+     "src": "brand/si-tiktok-ffffff.svg",
+     "w": 150,
+     "t": 2.856,
+     "rotate": 0
+    },
+    {
+     "kind": "badge",
+     "icon": "googleads",
+     "iconSrc": "brand/si-googleads-4285f4.svg",
+     "size": 170,
+     "t": 2.856
+    }
+   ],
+   "layout": "center",
+   "grid": true,
+   "deco": false,
+   "camera": {
+    "zoom": [
+     1,
+     1.05
+    ]
+   },
+   "transition": "glass",
+   "bg": {
+    "color": "#0B0B11"
+   },
+   "end": 3.456
+  },
+  {
+   "id": "four",
+   "start": 3.456,
+   "lines": [
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "and",
+       "t": 3.576,
+       "end": 3.727,
+       "emph": false
+      },
+      {
+       "text": "ten",
+       "t": 3.785,
+       "end": 3.959,
+       "emph": true
+      },
+      {
+       "text": "new",
+       "t": 4.017,
+       "end": 4.133,
+       "emph": false
+      },
+      {
+       "text": "transitions.",
+       "t": 4.18,
+       "end": 4.876,
+       "emph": false
+      }
+     ],
+     "size": "lg",
+     "box": false,
+     "annot": "circle"
+    },
+    {
+     "kind": "emoji",
+     "src": "emoji/exploding-head_3d.png",
+     "w": 240,
+     "t": 4.296,
+     "rotate": 0,
+     "float": true
+    },
+    {
+     "kind": "bar-chart",
+     "t": 3.776,
+     "data": [
+      {
+       "label": "Us",
+       "value": 90
+      },
+      {
+       "label": "Them",
+       "value": 40
+      }
+     ]
+    }
+   ],
+   "layout": "center",
+   "grid": true,
+   "deco": false,
+   "camera": {
+    "zoom": [
+     1,
+     1.05
+    ]
+   },
+   "transition": "chromatic",
+   "end": 4.896
+  },
+  {
+   "id": "five",
+   "start": 4.896,
+   "lines": [
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "All",
+       "t": 5.016,
+       "end": 5.201,
+       "emph": false
+      },
+      {
+       "text": "in",
+       "t": 5.259,
+       "end": 5.306,
+       "emph": false
+      },
+      {
+       "text": "one",
+       "t": 5.364,
+       "end": 5.492,
+       "emph": false
+      },
+      {
+       "text": "text",
+       "t": 5.526,
+       "end": 5.735,
+       "emph": true
+      },
+      {
+       "text": "file.",
+       "t": 5.77,
+       "end": 6.316,
+       "emph": true
+      }
+     ],
+     "size": "lg",
+     "box": false,
+     "fit": true
+    },
+    {
+     "kind": "icon",
+     "name": "sparkles",
+     "w": 140,
+     "t": 6.316,
+     "rotate": 0,
+     "color": "#FFFFFF",
+     "bg": "#E5744C"
+    },
+    {
+     "kind": "device-frame",
+     "t": 5.216,
+     "device": "laptop",
+     "width": 380
+    }
+   ],
+   "layout": "center",
+   "grid": true,
+   "deco": false,
+   "camera": {
+    "zoom": [
+     1,
+     1.05
+    ]
+   },
+   "transition": "clock",
+   "end": 6.916
+  }
+ ],
+ "sfx": true,
+ "sfxLevel": 0.7
+}

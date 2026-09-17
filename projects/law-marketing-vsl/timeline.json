@@ -1,0 +1,2748 @@
+{
+ "fps": 30,
+ "durationSec": 114.2,
+ "voSrc": "audio/law-marketing-vsl/voice.mp3",
+ "musicSrc": "audio/law-marketing-vsl/music.mp3",
+ "musicVolume": 0.09,
+ "watermark": "rocketlaunchmedia.com",
+ "theme": "midnight",
+ "width": 1920,
+ "height": 1080,
+ "anim": "rise",
+ "annot": null,
+ "beats": [
+  {
+   "id": "open",
+   "start": 0.0,
+   "lines": [
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "Before",
+       "t": 0.0,
+       "end": 0.453,
+       "emph": false
+      },
+      {
+       "text": "you",
+       "t": 0.499,
+       "end": 0.592,
+       "emph": false
+      },
+      {
+       "text": "pick",
+       "t": 0.673,
+       "end": 0.836,
+       "emph": false
+      },
+      {
+       "text": "a",
+       "t": 0.882,
+       "end": 0.906,
+       "emph": false
+      },
+      {
+       "text": "time",
+       "t": 0.964,
+       "end": 1.207,
+       "emph": false
+      },
+      {
+       "text": "below,",
+       "t": 1.242,
+       "end": 1.579,
+       "emph": false
+      }
+     ],
+     "size": "md",
+     "box": false
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "give",
+       "t": 1.637,
+       "end": 1.8,
+       "emph": false
+      },
+      {
+       "text": "me",
+       "t": 1.834,
+       "end": 1.916,
+       "emph": false
+      },
+      {
+       "text": "two",
+       "t": 1.962,
+       "end": 2.113,
+       "emph": true
+      },
+      {
+       "text": "minutes.",
+       "t": 2.183,
+       "end": 2.624,
+       "emph": true
+      }
+     ],
+     "size": "xl",
+     "box": false,
+     "annot": "underline"
+    }
+   ],
+   "layout": "center",
+   "grid": true,
+   "deco": false,
+   "camera": {
+    "zoom": [
+     1,
+     1.06
+    ],
+    "pan": [
+     -30,
+     10
+    ]
+   },
+   "bg": {
+    "overlay": 0.62,
+    "src": "stock/law-marketing-vsl/immigration-lawyer-office-desk-documents-wide.mp4"
+   },
+   "end": 2.666
+  },
+  {
+   "id": "reframe",
+   "start": 2.666,
+   "lines": [
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "The",
+       "t": 3.088,
+       "end": 3.158,
+       "emph": false
+      },
+      {
+       "text": "problem",
+       "t": 3.228,
+       "end": 3.622,
+       "emph": false
+      },
+      {
+       "text": "you",
+       "t": 3.68,
+       "end": 3.762,
+       "emph": false
+      },
+      {
+       "text": "just",
+       "t": 3.878,
+       "end": 4.087,
+       "emph": false
+      },
+      {
+       "text": "booked",
+       "t": 4.133,
+       "end": 4.342,
+       "emph": false
+      },
+      {
+       "text": "this",
+       "t": 4.365,
+       "end": 4.481,
+       "emph": false
+      },
+      {
+       "text": "call",
+       "t": 4.528,
+       "end": 4.714,
+       "emph": false
+      },
+      {
+       "text": "about",
+       "t": 4.76,
+       "end": 5.027,
+       "emph": false
+      }
+     ],
+     "size": "md",
+     "box": false
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "is",
+       "t": 5.097,
+       "end": 5.236,
+       "emph": false
+      },
+      {
+       "text": "not",
+       "t": 5.329,
+       "end": 5.538,
+       "emph": true
+      },
+      {
+       "text": "the",
+       "t": 5.584,
+       "end": 5.654,
+       "emph": false
+      },
+      {
+       "text": "one",
+       "t": 5.747,
+       "end": 6.002,
+       "emph": false
+      }
+     ],
+     "size": "xl",
+     "box": false,
+     "annot": "circle"
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "most",
+       "t": 6.072,
+       "end": 6.316,
+       "emph": false
+      },
+      {
+       "text": "immigration",
+       "t": 6.362,
+       "end": 6.908,
+       "emph": false
+      },
+      {
+       "text": "firms",
+       "t": 6.966,
+       "end": 7.245,
+       "emph": false
+      },
+      {
+       "text": "think",
+       "t": 7.291,
+       "end": 7.454,
+       "emph": false
+      },
+      {
+       "text": "they",
+       "t": 7.5,
+       "end": 7.616,
+       "emph": false
+      },
+      {
+       "text": "have.",
+       "t": 7.674,
+       "end": 8.057,
+       "emph": false
+      }
+     ],
+     "size": "md",
+     "box": false
+    }
+   ],
+   "layout": "center",
+   "grid": true,
+   "deco": false,
+   "camera": {
+    "zoom": [
+     1,
+     1.05
+    ]
+   },
+   "transition": "whip",
+   "end": 8.355
+  },
+  {
+   "id": "leads",
+   "start": 8.355,
+   "lines": [
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "It",
+       "t": 8.475,
+       "end": 8.615,
+       "emph": false
+      },
+      {
+       "text": "isn't",
+       "t": 8.673,
+       "end": 8.94,
+       "emph": false
+      },
+      {
+       "text": "leads.",
+       "t": 9.009,
+       "end": 9.567,
+       "emph": true
+      }
+     ],
+     "size": "xl",
+     "box": false,
+     "emphColor": "#FFFFFF",
+     "annot": "underline"
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "It's",
+       "t": 9.601,
+       "end": 9.799,
+       "emph": false
+      },
+      {
+       "text": "who's",
+       "t": 9.822,
+       "end": 10.043,
+       "emph": true
+      },
+      {
+       "text": "on",
+       "t": 10.089,
+       "end": 10.147,
+       "emph": true
+      },
+      {
+       "text": "the",
+       "t": 10.182,
+       "end": 10.252,
+       "emph": true
+      },
+      {
+       "text": "other",
+       "t": 10.298,
+       "end": 10.461,
+       "emph": true
+      },
+      {
+       "text": "end",
+       "t": 10.507,
+       "end": 10.612,
+       "emph": true
+      },
+      {
+       "text": "of",
+       "t": 10.658,
+       "end": 10.704,
+       "emph": false
+      },
+      {
+       "text": "them.",
+       "t": 10.751,
+       "end": 11.029,
+       "emph": false
+      }
+     ],
+     "size": "md",
+     "box": false,
+     "emphColor": "#FFFFFF"
+    }
+   ],
+   "layout": "center",
+   "grid": true,
+   "deco": false,
+   "camera": {
+    "zoom": [
+     1,
+     1.05
+    ]
+   },
+   "transition": "push",
+   "bg": {
+    "color": "#1B2CF5"
+   },
+   "end": 11.199
+  },
+  {
+   "id": "flooded",
+   "start": 11.199,
+   "lines": [
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "Immigration",
+       "t": 11.319,
+       "end": 11.958,
+       "emph": false
+      },
+      {
+       "text": "firms",
+       "t": 12.027,
+       "end": 12.329,
+       "emph": false
+      },
+      {
+       "text": "are",
+       "t": 12.364,
+       "end": 12.468,
+       "emph": false
+      },
+      {
+       "text": "flooded",
+       "t": 12.515,
+       "end": 12.851,
+       "emph": true
+      }
+     ],
+     "size": "lg",
+     "box": false
+    },
+    {
+     "kind": "icon",
+     "name": "bell-ring",
+     "w": 130,
+     "t": 12.851,
+     "rotate": 0,
+     "color": "#FFFFFF",
+     "bg": "#8B5CF6"
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "with",
+       "t": 12.886,
+       "end": 13.014,
+       "emph": false
+      },
+      {
+       "text": "low-quality",
+       "t": 13.072,
+       "end": 13.629,
+       "emph": false
+      },
+      {
+       "text": "leads.",
+       "t": 13.687,
+       "end": 14.198,
+       "emph": false
+      }
+     ],
+     "size": "md",
+     "box": false
+    },
+    {
+     "kind": "gap",
+     "h": 10
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "take",
+       "t": 14.988,
+       "end": 15.185,
+       "emph": false
+      },
+      {
+       "text": "the",
+       "t": 15.22,
+       "end": 15.29,
+       "emph": false
+      },
+      {
+       "text": "consult,",
+       "t": 15.348,
+       "end": 16.056,
+       "emph": false
+      },
+      {
+       "text": "take",
+       "t": 16.218,
+       "end": 16.451,
+       "emph": false
+      },
+      {
+       "text": "the",
+       "t": 16.485,
+       "end": 16.555,
+       "emph": false
+      },
+      {
+       "text": "advice,",
+       "t": 16.602,
+       "end": 17.194,
+       "emph": false
+      }
+     ],
+     "size": "sm",
+     "box": false
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "and",
+       "t": 17.333,
+       "end": 17.507,
+       "emph": false
+      },
+      {
+       "text": "never",
+       "t": 17.623,
+       "end": 17.855,
+       "emph": true
+      },
+      {
+       "text": "hire",
+       "t": 17.913,
+       "end": 18.146,
+       "emph": true
+      },
+      {
+       "text": "you.",
+       "t": 18.204,
+       "end": 18.482,
+       "emph": true
+      }
+     ],
+     "size": "lg",
+     "box": false
+    }
+   ],
+   "layout": "center",
+   "grid": true,
+   "deco": false,
+   "camera": {
+    "zoom": [
+     1,
+     1.05
+    ],
+    "pan": [
+     25,
+     -10
+    ]
+   },
+   "transition": "cut",
+   "bg": {
+    "overlay": 0.62,
+    "src": "stock/law-marketing-vsl/smartphone-notifications-messages-screen-wide.mp4"
+   },
+   "end": 18.652
+  },
+  {
+   "id": "years",
+   "start": 18.652,
+   "lines": [
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "We",
+       "t": 18.981,
+       "end": 19.051,
+       "emph": false
+      },
+      {
+       "text": "spent",
+       "t": 19.097,
+       "end": 19.341,
+       "emph": false
+      },
+      {
+       "text": "years",
+       "t": 19.434,
+       "end": 19.805,
+       "emph": true
+      },
+      {
+       "text": "fixing",
+       "t": 19.887,
+       "end": 20.212,
+       "emph": false
+      },
+      {
+       "text": "exactly",
+       "t": 20.281,
+       "end": 20.827,
+       "emph": false
+      },
+      {
+       "text": "that,",
+       "t": 20.885,
+       "end": 21.256,
+       "emph": false
+      }
+     ],
+     "size": "md",
+     "box": false
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "using",
+       "t": 21.524,
+       "end": 21.814,
+       "emph": false
+      },
+      {
+       "text": "the",
+       "t": 21.86,
+       "end": 21.93,
+       "emph": false
+      },
+      {
+       "text": "latest",
+       "t": 22.0,
+       "end": 22.325,
+       "emph": false
+      }
+     ],
+     "size": "sm",
+     "box": false
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "AI",
+       "t": 22.406,
+       "end": 22.696,
+       "emph": true
+      },
+      {
+       "text": "qualification",
+       "t": 22.766,
+       "end": 23.497,
+       "emph": true
+      },
+      {
+       "text": "technology,",
+       "t": 23.555,
+       "end": 24.287,
+       "emph": false
+      }
+     ],
+     "size": "xl",
+     "box": false,
+     "annot": "underline"
+    },
+    {
+     "kind": "icon",
+     "name": "sparkles",
+     "w": 130,
+     "t": 22.696,
+     "rotate": 0,
+     "color": "#FFFFFF",
+     "bg": "#8B5CF6"
+    }
+   ],
+   "layout": "center",
+   "grid": true,
+   "deco": false,
+   "camera": {
+    "zoom": [
+     1,
+     1.05
+    ]
+   },
+   "transition": "whip",
+   "end": 24.434
+  },
+  {
+   "id": "daily",
+   "start": 24.434,
+   "lines": [
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "implement",
+       "t": 24.937,
+       "end": 25.424,
+       "emph": false
+      },
+      {
+       "text": "it,",
+       "t": 25.448,
+       "end": 25.691,
+       "emph": false
+      },
+      {
+       "text": "refine",
+       "t": 25.889,
+       "end": 26.342,
+       "emph": false
+      },
+      {
+       "text": "it,",
+       "t": 26.376,
+       "end": 26.562,
+       "emph": false
+      },
+      {
+       "text": "and",
+       "t": 26.62,
+       "end": 26.783,
+       "emph": false
+      },
+      {
+       "text": "re-implement",
+       "t": 26.876,
+       "end": 27.468,
+       "emph": false
+      },
+      {
+       "text": "it",
+       "t": 27.491,
+       "end": 27.572,
+       "emph": false
+      }
+     ],
+     "size": "sm",
+     "box": false
+    },
+    {
+     "kind": "icon",
+     "name": "repeat",
+     "w": 120,
+     "t": 27.468,
+     "rotate": 0,
+     "color": "#FFFFFF",
+     "bg": "#8B5CF6"
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "every",
+       "t": 27.688,
+       "end": 27.967,
+       "emph": true
+      },
+      {
+       "text": "single",
+       "t": 28.013,
+       "end": 28.304,
+       "emph": true
+      },
+      {
+       "text": "day",
+       "t": 28.339,
+       "end": 28.617,
+       "emph": true
+      }
+     ],
+     "size": "lg",
+     "box": false
+    },
+    {
+     "kind": "gap",
+     "h": 10
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "23",
+       "t": 29.368,
+       "end": 29.568,
+       "emph": true
+      },
+      {
+       "text": "law",
+       "t": 29.448,
+       "end": 29.648,
+       "emph": false
+      },
+      {
+       "text": "firms",
+       "t": 29.528,
+       "end": 29.728,
+       "emph": false
+      }
+     ],
+     "size": "xl",
+     "box": false
+    }
+   ],
+   "layout": "center",
+   "grid": true,
+   "deco": false,
+   "camera": {
+    "zoom": [
+     1,
+     1.05
+    ]
+   },
+   "transition": "slide",
+   "bg": {
+    "overlay": 0.6,
+    "src": "stock/law-marketing-vsl/team-working-on-laptops-modern-office-wide.mp4"
+   },
+   "end": 31.214
+  },
+  {
+   "id": "two-places",
+   "start": 31.214,
+   "lines": [
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "Almost",
+       "t": 31.334,
+       "end": 31.706,
+       "emph": false
+      },
+      {
+       "text": "every",
+       "t": 31.799,
+       "end": 32.077,
+       "emph": false
+      },
+      {
+       "text": "firm",
+       "t": 32.135,
+       "end": 32.356,
+       "emph": false
+      },
+      {
+       "text": "we",
+       "t": 32.402,
+       "end": 32.495,
+       "emph": false
+      },
+      {
+       "text": "partner",
+       "t": 32.565,
+       "end": 32.878,
+       "emph": false
+      },
+      {
+       "text": "with",
+       "t": 32.936,
+       "end": 33.145,
+       "emph": false
+      }
+     ],
+     "size": "md",
+     "box": false
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "starts",
+       "t": 33.285,
+       "end": 33.633,
+       "emph": false
+      },
+      {
+       "text": "in",
+       "t": 33.68,
+       "end": 33.749,
+       "emph": false
+      },
+      {
+       "text": "one",
+       "t": 33.842,
+       "end": 34.074,
+       "emph": true
+      },
+      {
+       "text": "of",
+       "t": 34.109,
+       "end": 34.156,
+       "emph": true
+      },
+      {
+       "text": "two",
+       "t": 34.202,
+       "end": 34.353,
+       "emph": true
+      },
+      {
+       "text": "places.",
+       "t": 34.423,
+       "end": 35.038,
+       "emph": true
+      }
+     ],
+     "size": "lg",
+     "box": false,
+     "annot": "underline"
+    },
+    {
+     "kind": "icon",
+     "name": "split",
+     "w": 130,
+     "t": 34.353,
+     "rotate": 0,
+     "color": "#FFFFFF",
+     "bg": "#8B5CF6"
+    }
+   ],
+   "layout": "center",
+   "grid": true,
+   "deco": false,
+   "camera": {
+    "zoom": [
+     1,
+     1.05
+    ]
+   },
+   "transition": "leak",
+   "end": 35.208
+  },
+  {
+   "id": "referrals",
+   "start": 35.208,
+   "lines": [
+    {
+     "kind": "badge",
+     "text": "1",
+     "t": 35.378
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "they",
+       "t": 35.629,
+       "end": 35.745,
+       "emph": false
+      },
+      {
+       "text": "can't",
+       "t": 35.792,
+       "end": 36.036,
+       "emph": false
+      },
+      {
+       "text": "grow,",
+       "t": 36.082,
+       "end": 36.605,
+       "emph": false
+      }
+     ],
+     "size": "md",
+     "box": false
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "because",
+       "t": 36.767,
+       "end": 37.081,
+       "emph": false
+      },
+      {
+       "text": "they",
+       "t": 37.104,
+       "end": 37.243,
+       "emph": false
+      },
+      {
+       "text": "only",
+       "t": 37.301,
+       "end": 37.487,
+       "emph": false
+      },
+      {
+       "text": "rely",
+       "t": 37.557,
+       "end": 37.824,
+       "emph": false
+      },
+      {
+       "text": "on",
+       "t": 37.893,
+       "end": 37.963,
+       "emph": false
+      },
+      {
+       "text": "referrals,",
+       "t": 38.021,
+       "end": 38.718,
+       "emph": true
+      }
+     ],
+     "size": "lg",
+     "box": false,
+     "emphColor": "#FFFFFF",
+     "annot": "box"
+    }
+   ],
+   "layout": "center",
+   "grid": true,
+   "deco": false,
+   "camera": {
+    "zoom": [
+     1,
+     1.05
+    ]
+   },
+   "transition": "push",
+   "bg": {
+    "color": "#1B2CF5"
+   },
+   "end": 38.76
+  },
+  {
+   "id": "wrong-people",
+   "start": 38.76,
+   "lines": [
+    {
+     "kind": "badge",
+     "text": "2",
+     "t": 38.93
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "the",
+       "t": 39.066,
+       "end": 39.136,
+       "emph": false
+      },
+      {
+       "text": "ads",
+       "t": 39.205,
+       "end": 39.484,
+       "emph": false
+      },
+      {
+       "text": "work,",
+       "t": 39.53,
+       "end": 39.971,
+       "emph": false
+      },
+      {
+       "text": "the",
+       "t": 40.204,
+       "end": 40.32,
+       "emph": false
+      },
+      {
+       "text": "leads",
+       "t": 40.389,
+       "end": 40.633,
+       "emph": false
+      },
+      {
+       "text": "come",
+       "t": 40.679,
+       "end": 40.877,
+       "emph": false
+      },
+      {
+       "text": "in,",
+       "t": 40.912,
+       "end": 41.213,
+       "emph": false
+      }
+     ],
+     "size": "md",
+     "box": false
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "and",
+       "t": 41.411,
+       "end": 41.562,
+       "emph": false
+      },
+      {
+       "text": "the",
+       "t": 41.608,
+       "end": 41.678,
+       "emph": false
+      },
+      {
+       "text": "wrong",
+       "t": 41.748,
+       "end": 42.049,
+       "emph": true
+      },
+      {
+       "text": "people",
+       "t": 42.119,
+       "end": 42.398,
+       "emph": true
+      },
+      {
+       "text": "fill",
+       "t": 42.433,
+       "end": 42.572,
+       "emph": false
+      },
+      {
+       "text": "the",
+       "t": 42.63,
+       "end": 42.7,
+       "emph": false
+      },
+      {
+       "text": "calendar.",
+       "t": 42.723,
+       "end": 43.257,
+       "emph": false
+      }
+     ],
+     "size": "lg",
+     "box": false,
+     "annot": "underline"
+    },
+    {
+     "kind": "icon",
+     "name": "calendar-x",
+     "w": 130,
+     "t": 43.257,
+     "rotate": 0,
+     "color": "#FFFFFF",
+     "bg": "#8B5CF6"
+    }
+   ],
+   "layout": "center",
+   "grid": true,
+   "deco": false,
+   "camera": {
+    "zoom": [
+     1,
+     1.05
+    ]
+   },
+   "transition": "whip",
+   "end": 43.299
+  },
+  {
+   "id": "changes",
+   "start": 43.299,
+   "lines": [
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "Here's",
+       "t": 43.419,
+       "end": 43.652,
+       "emph": false
+      },
+      {
+       "text": "what",
+       "t": 43.686,
+       "end": 43.803,
+       "emph": false
+      },
+      {
+       "text": "changes.",
+       "t": 43.849,
+       "end": 44.453,
+       "emph": true
+      }
+     ],
+     "size": "xl",
+     "box": false,
+     "fit": true,
+     "annot": "underline"
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "Over",
+       "t": 44.871,
+       "end": 45.091,
+       "emph": false
+      },
+      {
+       "text": "ninety",
+       "t": 45.207,
+       "end": 45.521,
+       "emph": false
+      },
+      {
+       "text": "days,",
+       "t": 45.579,
+       "end": 45.881,
+       "emph": false
+      },
+      {
+       "text": "we",
+       "t": 45.916,
+       "end": 46.02,
+       "emph": false
+      },
+      {
+       "text": "build",
+       "t": 46.078,
+       "end": 46.264,
+       "emph": false
+      },
+      {
+       "text": "three",
+       "t": 46.322,
+       "end": 46.566,
+       "emph": true
+      },
+      {
+       "text": "things",
+       "t": 46.624,
+       "end": 46.879,
+       "emph": true
+      },
+      {
+       "text": "inside",
+       "t": 46.926,
+       "end": 47.239,
+       "emph": false
+      },
+      {
+       "text": "your",
+       "t": 47.262,
+       "end": 47.367,
+       "emph": false
+      },
+      {
+       "text": "firm.",
+       "t": 47.413,
+       "end": 47.808,
+       "emph": false
+      }
+     ],
+     "size": "md",
+     "box": false
+    }
+   ],
+   "layout": "center",
+   "grid": true,
+   "deco": false,
+   "camera": {
+    "zoom": [
+     1,
+     1.06
+    ],
+    "pan": [
+     -20,
+     15
+    ]
+   },
+   "transition": "zoom",
+   "bg": {
+    "overlay": 0.62,
+    "src": "stock/law-marketing-vsl/calendar-appointments-planner-desk-wide.mp4"
+   },
+   "end": 47.978
+  },
+  {
+   "id": "one",
+   "start": 47.978,
+   "lines": [
+    {
+     "kind": "badge",
+     "text": "1",
+     "t": 48.148
+    },
+    {
+     "kind": "icon",
+     "name": "megaphone",
+     "w": 130,
+     "t": 49.711,
+     "rotate": 0,
+     "color": "#FFFFFF",
+     "bg": "#8B5CF6"
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "Ad",
+       "t": 48.864,
+       "end": 49.073,
+       "emph": true
+      },
+      {
+       "text": "campaigns",
+       "t": 49.142,
+       "end": 49.711,
+       "emph": true
+      },
+      {
+       "text": "that",
+       "t": 49.746,
+       "end": 49.874,
+       "emph": false
+      },
+      {
+       "text": "bring",
+       "t": 49.932,
+       "end": 50.141,
+       "emph": false
+      },
+      {
+       "text": "in",
+       "t": 50.199,
+       "end": 50.257,
+       "emph": false
+      },
+      {
+       "text": "people",
+       "t": 50.338,
+       "end": 50.721,
+       "emph": false
+      }
+     ],
+     "size": "lg",
+     "box": false
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "who",
+       "t": 50.745,
+       "end": 50.93,
+       "emph": false
+      },
+      {
+       "text": "already",
+       "t": 51.047,
+       "end": 51.511,
+       "emph": false
+      },
+      {
+       "text": "know",
+       "t": 51.546,
+       "end": 51.697,
+       "emph": false
+      },
+      {
+       "text": "what",
+       "t": 51.732,
+       "end": 51.848,
+       "emph": false
+      },
+      {
+       "text": "hiring",
+       "t": 51.894,
+       "end": 52.231,
+       "emph": false
+      },
+      {
+       "text": "an",
+       "t": 52.277,
+       "end": 52.324,
+       "emph": false
+      },
+      {
+       "text": "attorney",
+       "t": 52.382,
+       "end": 52.684,
+       "emph": false
+      },
+      {
+       "text": "costs.",
+       "t": 52.742,
+       "end": 53.241,
+       "emph": true
+      }
+     ],
+     "size": "md",
+     "box": false
+    }
+   ],
+   "layout": "center",
+   "grid": true,
+   "deco": false,
+   "camera": {
+    "zoom": [
+     1,
+     1.05
+    ]
+   },
+   "transition": "slide",
+   "end": 53.481
+  },
+  {
+   "id": "two",
+   "start": 53.481,
+   "lines": [
+    {
+     "kind": "badge",
+     "text": "2",
+     "t": 53.651
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "an",
+       "t": 54.274,
+       "end": 54.413,
+       "emph": false
+      },
+      {
+       "text": "AI",
+       "t": 54.53,
+       "end": 54.878,
+       "emph": true
+      },
+      {
+       "text": "qualification",
+       "t": 54.959,
+       "end": 55.726,
+       "emph": true
+      },
+      {
+       "text": "funnel",
+       "t": 55.807,
+       "end": 56.074,
+       "emph": true
+      }
+     ],
+     "size": "lg",
+     "box": false,
+     "emphColor": "#FFFFFF"
+    },
+    {
+     "kind": "chat",
+     "text": "Do you have a budget set aside for your case?",
+     "who": "ai",
+     "w": 900,
+     "t": 60.044,
+     "label": "AI assistant"
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "Budget,",
+       "t": 59.452,
+       "end": 60.044,
+       "emph": false
+      },
+      {
+       "text": "location,",
+       "t": 60.242,
+       "end": 61.02,
+       "emph": false
+      },
+      {
+       "text": "case",
+       "t": 61.217,
+       "end": 61.531,
+       "emph": false
+      },
+      {
+       "text": "type,",
+       "t": 61.577,
+       "end": 61.983,
+       "emph": false
+      },
+      {
+       "text": "and",
+       "t": 62.181,
+       "end": 62.343,
+       "emph": false
+      },
+      {
+       "text": "a",
+       "t": 62.401,
+       "end": 62.424,
+       "emph": false
+      },
+      {
+       "text": "commitment",
+       "t": 62.494,
+       "end": 62.993,
+       "emph": true
+      },
+      {
+       "text": "to",
+       "t": 63.028,
+       "end": 63.098,
+       "emph": true
+      },
+      {
+       "text": "a",
+       "t": 63.179,
+       "end": 63.202,
+       "emph": true
+      },
+      {
+       "text": "time.",
+       "t": 63.26,
+       "end": 63.678,
+       "emph": true
+      }
+     ],
+     "size": "md",
+     "box": false,
+     "emphColor": "#FFFFFF"
+    }
+   ],
+   "layout": "center",
+   "grid": true,
+   "deco": false,
+   "camera": {
+    "zoom": [
+     1,
+     1.05
+    ]
+   },
+   "transition": "push",
+   "bg": {
+    "color": "#1B2CF5"
+   },
+   "end": 63.848
+  },
+  {
+   "id": "three",
+   "start": 63.848,
+   "lines": [
+    {
+     "kind": "badge",
+     "text": "3",
+     "t": 64.018
+    },
+    {
+     "kind": "icon",
+     "name": "phone-incoming",
+     "w": 130,
+     "t": 66.116,
+     "rotate": 0,
+     "color": "#FFFFFF",
+     "bg": "#8B5CF6"
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "Automated",
+       "t": 64.931,
+       "end": 65.512,
+       "emph": true
+      },
+      {
+       "text": "intake",
+       "t": 65.593,
+       "end": 66.116,
+       "emph": true
+      },
+      {
+       "text": "inside",
+       "t": 66.174,
+       "end": 66.627,
+       "emph": false
+      },
+      {
+       "text": "your",
+       "t": 66.661,
+       "end": 66.777,
+       "emph": false
+      },
+      {
+       "text": "own",
+       "t": 66.824,
+       "end": 66.963,
+       "emph": false
+      },
+      {
+       "text": "CRM,",
+       "t": 67.01,
+       "end": 67.613,
+       "emph": false
+      }
+     ],
+     "size": "lg",
+     "box": false
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "so",
+       "t": 67.648,
+       "end": 67.753,
+       "emph": false
+      },
+      {
+       "text": "every",
+       "t": 67.822,
+       "end": 68.008,
+       "emph": false
+      },
+      {
+       "text": "lead",
+       "t": 68.055,
+       "end": 68.217,
+       "emph": false
+      },
+      {
+       "text": "is",
+       "t": 68.264,
+       "end": 68.345,
+       "emph": false
+      },
+      {
+       "text": "answered,",
+       "t": 68.403,
+       "end": 68.902,
+       "emph": false
+      },
+      {
+       "text": "tracked,",
+       "t": 69.134,
+       "end": 69.634,
+       "emph": false
+      },
+      {
+       "text": "and",
+       "t": 69.657,
+       "end": 69.808,
+       "emph": false
+      },
+      {
+       "text": "followed",
+       "t": 69.877,
+       "end": 70.203,
+       "emph": false
+      },
+      {
+       "text": "up.",
+       "t": 70.249,
+       "end": 70.528,
+       "emph": false
+      }
+     ],
+     "size": "sm",
+     "box": false
+    }
+   ],
+   "layout": "center",
+   "grid": true,
+   "deco": false,
+   "camera": {
+    "zoom": [
+     1,
+     1.05
+    ],
+    "pan": [
+     20,
+     -10
+    ]
+   },
+   "transition": "cut",
+   "bg": {
+    "overlay": 0.62,
+    "src": "stock/law-marketing-vsl/receptionist-answering-phone-office-wide.mp4"
+   },
+   "end": 70.698
+  },
+  {
+   "id": "consult",
+   "start": 70.698,
+   "lines": [
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "All",
+       "t": 70.818,
+       "end": 71.062,
+       "emph": false
+      },
+      {
+       "text": "you",
+       "t": 71.12,
+       "end": 71.19,
+       "emph": false
+      },
+      {
+       "text": "have",
+       "t": 71.271,
+       "end": 71.41,
+       "emph": false
+      },
+      {
+       "text": "to",
+       "t": 71.434,
+       "end": 71.48,
+       "emph": false
+      },
+      {
+       "text": "do",
+       "t": 71.538,
+       "end": 71.619,
+       "emph": false
+      }
+     ],
+     "size": "md",
+     "box": false
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "is",
+       "t": 71.689,
+       "end": 71.77,
+       "emph": false
+      },
+      {
+       "text": "take",
+       "t": 71.817,
+       "end": 71.979,
+       "emph": true
+      },
+      {
+       "text": "the",
+       "t": 72.014,
+       "end": 72.084,
+       "emph": true
+      },
+      {
+       "text": "consult",
+       "t": 72.142,
+       "end": 72.641,
+       "emph": true
+      }
+     ],
+     "size": "xl",
+     "box": false,
+     "annot": "highlight"
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "that's",
+       "t": 72.664,
+       "end": 72.85,
+       "emph": false
+      },
+      {
+       "text": "already",
+       "t": 72.931,
+       "end": 73.349,
+       "emph": false
+      },
+      {
+       "text": "on",
+       "t": 73.407,
+       "end": 73.489,
+       "emph": false
+      },
+      {
+       "text": "your",
+       "t": 73.535,
+       "end": 73.639,
+       "emph": false
+      },
+      {
+       "text": "calendar.",
+       "t": 73.686,
+       "end": 74.243,
+       "emph": false
+      }
+     ],
+     "size": "md",
+     "box": false
+    },
+    {
+     "kind": "icon",
+     "name": "calendar-check",
+     "w": 150,
+     "t": 74.243,
+     "rotate": 0,
+     "color": "#B47CFD"
+    }
+   ],
+   "layout": "center",
+   "grid": true,
+   "deco": false,
+   "camera": {
+    "zoom": [
+     1,
+     1.05
+    ]
+   },
+   "transition": "leak",
+   "end": 74.437
+  },
+  {
+   "id": "own",
+   "start": 74.437,
+   "lines": [
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "You",
+       "t": 74.777,
+       "end": 74.87,
+       "emph": false
+      },
+      {
+       "text": "own",
+       "t": 74.986,
+       "end": 75.149,
+       "emph": true
+      },
+      {
+       "text": "all",
+       "t": 75.195,
+       "end": 75.346,
+       "emph": false
+      },
+      {
+       "text": "of",
+       "t": 75.404,
+       "end": 75.462,
+       "emph": false
+      },
+      {
+       "text": "it.",
+       "t": 75.509,
+       "end": 75.718,
+       "emph": false
+      }
+     ],
+     "size": "lg",
+     "box": false,
+     "emphColor": "#FFFFFF"
+    },
+    {
+     "kind": "icon",
+     "name": "key-round",
+     "w": 130,
+     "t": 75.149,
+     "rotate": 0,
+     "color": "#FFFFFF",
+     "bg": "#8B5CF6"
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "Your",
+       "t": 76.031,
+       "end": 76.217,
+       "emph": false
+      },
+      {
+       "text": "accounts,",
+       "t": 76.252,
+       "end": 76.844,
+       "emph": false
+      },
+      {
+       "text": "your",
+       "t": 76.902,
+       "end": 77.053,
+       "emph": false
+      },
+      {
+       "text": "website,",
+       "t": 77.111,
+       "end": 77.715,
+       "emph": false
+      },
+      {
+       "text": "your",
+       "t": 77.784,
+       "end": 77.935,
+       "emph": false
+      },
+      {
+       "text": "data.",
+       "t": 78.005,
+       "end": 78.481,
+       "emph": false
+      }
+     ],
+     "size": "sm",
+     "box": false
+    },
+    {
+     "kind": "gap",
+     "h": 10
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "No",
+       "t": 78.748,
+       "end": 78.899,
+       "emph": true
+      },
+      {
+       "text": "monthly",
+       "t": 78.992,
+       "end": 79.305,
+       "emph": true
+      },
+      {
+       "text": "retainers.",
+       "t": 79.386,
+       "end": 80.153,
+       "emph": true
+      }
+     ],
+     "size": "lg",
+     "box": false,
+     "emphColor": "#FFFFFF",
+     "annot": "underline"
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "No",
+       "t": 80.385,
+       "end": 80.547,
+       "emph": false
+      },
+      {
+       "text": "rip-and-replace.",
+       "t": 80.64,
+       "end": 81.569,
+       "emph": false
+      }
+     ],
+     "size": "md",
+     "box": false
+    }
+   ],
+   "layout": "center",
+   "grid": true,
+   "deco": false,
+   "camera": {
+    "zoom": [
+     1,
+     1.05
+    ]
+   },
+   "transition": "push",
+   "bg": {
+    "color": "#1B2CF5"
+   },
+   "end": 81.739
+  },
+  {
+   "id": "the-call",
+   "start": 81.739,
+   "lines": [
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "The",
+       "t": 82.068,
+       "end": 82.138,
+       "emph": false
+      },
+      {
+       "text": "call",
+       "t": 82.184,
+       "end": 82.335,
+       "emph": false
+      },
+      {
+       "text": "you're",
+       "t": 82.381,
+       "end": 82.521,
+       "emph": false
+      },
+      {
+       "text": "about",
+       "t": 82.544,
+       "end": 82.73,
+       "emph": false
+      },
+      {
+       "text": "to",
+       "t": 82.764,
+       "end": 82.822,
+       "emph": false
+      },
+      {
+       "text": "book:",
+       "t": 82.892,
+       "end": 83.275,
+       "emph": false
+      }
+     ],
+     "size": "md",
+     "box": false
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "a",
+       "t": 83.751,
+       "end": 83.786,
+       "emph": false
+      },
+      {
+       "text": "ten-minute",
+       "t": 83.855,
+       "end": 84.378,
+       "emph": true
+      },
+      {
+       "text": "phone",
+       "t": 84.401,
+       "end": 84.657,
+       "emph": false
+      },
+      {
+       "text": "call",
+       "t": 84.691,
+       "end": 84.877,
+       "emph": false
+      }
+     ],
+     "size": "lg",
+     "box": false,
+     "annot": "underline"
+    },
+    {
+     "kind": "icon",
+     "name": "phone-call",
+     "w": 130,
+     "t": 84.657,
+     "rotate": 0,
+     "color": "#FFFFFF",
+     "bg": "#8B5CF6"
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "to",
+       "t": 84.924,
+       "end": 84.97,
+       "emph": false
+      },
+      {
+       "text": "get",
+       "t": 85.016,
+       "end": 85.121,
+       "emph": false
+      },
+      {
+       "text": "to",
+       "t": 85.156,
+       "end": 85.214,
+       "emph": false
+      },
+      {
+       "text": "know",
+       "t": 85.26,
+       "end": 85.411,
+       "emph": false
+      },
+      {
+       "text": "you",
+       "t": 85.504,
+       "end": 85.632,
+       "emph": false
+      },
+      {
+       "text": "and",
+       "t": 85.701,
+       "end": 85.771,
+       "emph": false
+      },
+      {
+       "text": "your",
+       "t": 85.806,
+       "end": 85.91,
+       "emph": false
+      },
+      {
+       "text": "firm",
+       "t": 85.957,
+       "end": 86.143,
+       "emph": false
+      },
+      {
+       "text": "a",
+       "t": 86.189,
+       "end": 86.212,
+       "emph": false
+      },
+      {
+       "text": "little",
+       "t": 86.247,
+       "end": 86.433,
+       "emph": false
+      },
+      {
+       "text": "better.",
+       "t": 86.456,
+       "end": 86.839,
+       "emph": false
+      }
+     ],
+     "size": "sm",
+     "box": false
+    }
+   ],
+   "layout": "center",
+   "grid": true,
+   "deco": false,
+   "camera": {
+    "zoom": [
+     1,
+     1.05
+    ],
+    "pan": [
+     -25,
+     10
+    ]
+   },
+   "transition": "cut",
+   "bg": {
+    "overlay": 0.62,
+    "src": "stock/law-marketing-vsl/man-talking-on-phone-office-window-wide.mp4"
+   },
+   "end": 87.033
+  },
+  {
+   "id": "not-sales",
+   "start": 87.033,
+   "lines": [
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "It",
+       "t": 87.153,
+       "end": 87.28,
+       "emph": false
+      },
+      {
+       "text": "is",
+       "t": 87.327,
+       "end": 87.42,
+       "emph": false
+      },
+      {
+       "text": "not",
+       "t": 87.513,
+       "end": 87.722,
+       "emph": true
+      },
+      {
+       "text": "a",
+       "t": 87.756,
+       "end": 87.791,
+       "emph": false
+      },
+      {
+       "text": "sales",
+       "t": 87.849,
+       "end": 88.105,
+       "emph": false
+      },
+      {
+       "text": "call.",
+       "t": 88.151,
+       "end": 88.511,
+       "emph": false
+      }
+     ],
+     "size": "xl",
+     "box": false,
+     "annot": "circle"
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "Ten",
+       "t": 88.871,
+       "end": 89.138,
+       "emph": false
+      },
+      {
+       "text": "minutes",
+       "t": 89.196,
+       "end": 89.452,
+       "emph": false
+      },
+      {
+       "text": "isn't",
+       "t": 89.533,
+       "end": 89.788,
+       "emph": false
+      },
+      {
+       "text": "enough",
+       "t": 89.846,
+       "end": 90.067,
+       "emph": false
+      },
+      {
+       "text": "to",
+       "t": 90.102,
+       "end": 90.148,
+       "emph": false
+      },
+      {
+       "text": "sell",
+       "t": 90.206,
+       "end": 90.392,
+       "emph": false
+      },
+      {
+       "text": "anything.",
+       "t": 90.45,
+       "end": 90.938,
+       "emph": false
+      }
+     ],
+     "size": "sm",
+     "box": false
+    }
+   ],
+   "layout": "center",
+   "grid": true,
+   "deco": false,
+   "camera": {
+    "zoom": [
+     1,
+     1.05
+    ]
+   },
+   "transition": "whip",
+   "end": 91.177
+  },
+  {
+   "id": "two-things",
+   "start": 91.177,
+   "lines": [
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "Two",
+       "t": 92.296,
+       "end": 92.505,
+       "emph": false
+      },
+      {
+       "text": "things",
+       "t": 92.586,
+       "end": 92.842,
+       "emph": false
+      },
+      {
+       "text": "first:",
+       "t": 92.911,
+       "end": 93.422,
+       "emph": false
+      }
+     ],
+     "size": "md",
+     "box": false
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "whether",
+       "t": 93.782,
+       "end": 94.049,
+       "emph": false
+      },
+      {
+       "text": "we",
+       "t": 94.095,
+       "end": 94.165,
+       "emph": false
+      },
+      {
+       "text": "can",
+       "t": 94.212,
+       "end": 94.328,
+       "emph": false
+      },
+      {
+       "text": "actually",
+       "t": 94.374,
+       "end": 94.688,
+       "emph": true
+      },
+      {
+       "text": "help",
+       "t": 94.746,
+       "end": 94.955,
+       "emph": true
+      },
+      {
+       "text": "you,",
+       "t": 95.024,
+       "end": 95.303,
+       "emph": true
+      }
+     ],
+     "size": "lg",
+     "box": false,
+     "emphColor": "#FFFFFF",
+     "annot": "underline"
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "and",
+       "t": 95.373,
+       "end": 95.5,
+       "emph": false
+      },
+      {
+       "text": "whether",
+       "t": 95.547,
+       "end": 95.779,
+       "emph": false
+      },
+      {
+       "text": "your",
+       "t": 95.849,
+       "end": 95.976,
+       "emph": false
+      },
+      {
+       "text": "firm",
+       "t": 96.046,
+       "end": 96.278,
+       "emph": false
+      },
+      {
+       "text": "qualifies",
+       "t": 96.348,
+       "end": 96.905,
+       "emph": true
+      },
+      {
+       "text": "to",
+       "t": 96.94,
+       "end": 96.998,
+       "emph": false
+      },
+      {
+       "text": "work",
+       "t": 97.056,
+       "end": 97.218,
+       "emph": false
+      },
+      {
+       "text": "with",
+       "t": 97.253,
+       "end": 97.381,
+       "emph": false
+      },
+      {
+       "text": "us.",
+       "t": 97.427,
+       "end": 97.764,
+       "emph": false
+      }
+     ],
+     "size": "md",
+     "box": false,
+     "emphColor": "#FFFFFF"
+    }
+   ],
+   "layout": "center",
+   "grid": true,
+   "deco": false,
+   "camera": {
+    "zoom": [
+     1,
+     1.05
+    ]
+   },
+   "transition": "push",
+   "bg": {
+    "color": "#1B2CF5"
+   },
+   "end": 98.062
+  },
+  {
+   "id": "video-call",
+   "start": 98.062,
+   "lines": [
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "If",
+       "t": 98.182,
+       "end": 98.333,
+       "emph": false
+      },
+      {
+       "text": "both",
+       "t": 98.403,
+       "end": 98.612,
+       "emph": false
+      },
+      {
+       "text": "are",
+       "t": 98.658,
+       "end": 98.797,
+       "emph": false
+      },
+      {
+       "text": "a",
+       "t": 98.832,
+       "end": 98.856,
+       "emph": false
+      },
+      {
+       "text": "yes,",
+       "t": 98.948,
+       "end": 99.471,
+       "emph": true
+      }
+     ],
+     "size": "lg",
+     "box": false
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "we",
+       "t": 99.61,
+       "end": 99.726,
+       "emph": false
+      },
+      {
+       "text": "book",
+       "t": 99.796,
+       "end": 99.97,
+       "emph": false
+      },
+      {
+       "text": "a",
+       "t": 100.017,
+       "end": 100.051,
+       "emph": false
+      },
+      {
+       "text": "thirty-minute",
+       "t": 100.133,
+       "end": 100.632,
+       "emph": true
+      },
+      {
+       "text": "video",
+       "t": 100.667,
+       "end": 100.98,
+       "emph": true
+      },
+      {
+       "text": "call,",
+       "t": 101.038,
+       "end": 101.514,
+       "emph": true
+      }
+     ],
+     "size": "md",
+     "box": false
+    },
+    {
+     "kind": "icon",
+     "name": "video",
+     "w": 130,
+     "t": 100.98,
+     "rotate": 0,
+     "color": "#FFFFFF",
+     "bg": "#8B5CF6"
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "and",
+       "t": 103.244,
+       "end": 103.395,
+       "emph": false
+      },
+      {
+       "text": "walk",
+       "t": 103.465,
+       "end": 103.65,
+       "emph": false
+      },
+      {
+       "text": "you",
+       "t": 103.697,
+       "end": 103.767,
+       "emph": false
+      },
+      {
+       "text": "through",
+       "t": 103.801,
+       "end": 103.999,
+       "emph": false
+      },
+      {
+       "text": "everything",
+       "t": 104.045,
+       "end": 104.37,
+       "emph": false
+      },
+      {
+       "text": "in",
+       "t": 104.417,
+       "end": 104.475,
+       "emph": false
+      },
+      {
+       "text": "detail.",
+       "t": 104.544,
+       "end": 105.148,
+       "emph": false
+      }
+     ],
+     "size": "sm",
+     "box": false
+    }
+   ],
+   "layout": "center",
+   "grid": true,
+   "deco": false,
+   "camera": {
+    "zoom": [
+     1,
+     1.05
+    ],
+    "pan": [
+     20,
+     10
+    ]
+   },
+   "transition": "zoom",
+   "bg": {
+    "overlay": 0.62,
+    "src": "stock/law-marketing-vsl/video-call-laptop-smiling-professional-wide.mp4"
+   },
+   "end": 105.342
+  },
+  {
+   "id": "guarantee",
+   "start": 105.342,
+   "lines": [
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "The",
+       "t": 105.752,
+       "end": 105.821,
+       "emph": false
+      },
+      {
+       "text": "guarantee:",
+       "t": 105.891,
+       "end": 106.634,
+       "emph": true
+      }
+     ],
+     "size": "md",
+     "box": false,
+     "emphColor": "#FFFFFF"
+    },
+    {
+     "kind": "icon",
+     "name": "shield-check",
+     "w": 110,
+     "t": 106.634,
+     "rotate": 0,
+     "color": "#FFFFFF",
+     "bg": "#8B5CF6"
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "not",
+       "t": 107.18,
+       "end": 107.331,
+       "emph": false
+      },
+      {
+       "text": "profitable",
+       "t": 107.4,
+       "end": 107.958,
+       "emph": false
+      },
+      {
+       "text": "after",
+       "t": 107.993,
+       "end": 108.202,
+       "emph": false
+      },
+      {
+       "text": "ninety",
+       "t": 108.271,
+       "end": 108.503,
+       "emph": false
+      },
+      {
+       "text": "days,",
+       "t": 108.561,
+       "end": 109.061,
+       "emph": false
+      }
+     ],
+     "size": "sm",
+     "box": false
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "you",
+       "t": 109.293,
+       "end": 109.374,
+       "emph": false
+      },
+      {
+       "text": "get",
+       "t": 109.455,
+       "end": 109.583,
+       "emph": false
+      },
+      {
+       "text": "every",
+       "t": 109.676,
+       "end": 109.943,
+       "emph": true
+      },
+      {
+       "text": "dollar",
+       "t": 109.989,
+       "end": 110.233,
+       "emph": true
+      },
+      {
+       "text": "back.",
+       "t": 110.291,
+       "end": 110.663,
+       "emph": true
+      }
+     ],
+     "size": "lg",
+     "box": false,
+     "emphColor": "#FFFFFF",
+     "annot": "highlight"
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "No",
+       "t": 111.081,
+       "end": 111.255,
+       "emph": false
+      },
+      {
+       "text": "questions.",
+       "t": 111.325,
+       "end": 112.021,
+       "emph": false
+      }
+     ],
+     "size": "sm",
+     "box": false
+    }
+   ],
+   "layout": "center",
+   "grid": true,
+   "deco": false,
+   "camera": {
+    "zoom": [
+     1,
+     1.05
+    ]
+   },
+   "transition": "push",
+   "bg": {
+    "color": "#1B2CF5"
+   },
+   "end": 112.191
+  },
+  {
+   "id": "cta",
+   "start": 112.191,
+   "lines": [
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "Pick",
+       "t": 112.311,
+       "end": 112.52,
+       "emph": true
+      },
+      {
+       "text": "your",
+       "t": 112.566,
+       "end": 112.682,
+       "emph": true
+      },
+      {
+       "text": "time",
+       "t": 112.717,
+       "end": 112.915,
+       "emph": true
+      },
+      {
+       "text": "below.",
+       "t": 112.938,
+       "end": 113.6,
+       "emph": true
+      }
+     ],
+     "size": "xl",
+     "box": false,
+     "annot": "box"
+    },
+    {
+     "kind": "icon",
+     "name": "calendar-check",
+     "w": 170,
+     "t": 113.6,
+     "rotate": 0,
+     "color": "#B47CFD"
+    }
+   ],
+   "layout": "center",
+   "grid": true,
+   "deco": false,
+   "camera": {
+    "zoom": [
+     1,
+     1.05
+    ]
+   },
+   "transition": "leak",
+   "end": 114.2
+  }
+ ],
+ "sfx": true,
+ "sfxLevel": 0.5
+}

@@ -20,3 +20,26 @@ remotion/public/stock/
 remotion/public/audio/
 remotion/public/images/
 # keep: projects/**/beats.json, words.json, timeline.json, images/, *.md ; remotion/public/sfx, remotion/public/lottie
+
+# ---- client work: stays local, never in the public template ----
+remotion/src/RootClient.tsx
+remotion/src/index.client.ts
+remotion/src/ARollKit.tsx
+remotion/src/ARollKit.tsx.bak
+remotion/src/themes.ts
+remotion/src/*Ad.tsx
+remotion/public/aroll-ad/
+projects/ea-*/
+projects/immigration-consult-vsl/
+projects/_compare/
+
+# ---- staged/generated assets (re-created on demand) ----
+remotion/public/emoji/
+remotion/public/animated-emoji/
+remotion/public/brand/
+.retired-sfx/
+
+# ---- local tooling ----
+.docmancer/
+graphify-out/
+.claude/

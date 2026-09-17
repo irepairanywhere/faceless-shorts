@@ -1,0 +1,654 @@
+{
+ "title": "Watch this before your call (law-marketing VSL)",
+ "aspect": "16:9",
+ "theme": "midnight",
+ "anim": "rise",
+ "speed": 1.05,
+ "tighten": true,
+ "watermark": "rocketlaunchmedia.com",
+ "sfx_level": 0.5,
+ "music": {
+  "prompt": "warm cinematic corporate underscore, soft piano and pads with a subtle pulse, hopeful and confident, light drums enter halfway, no vocals, 90 bpm, unobtrusive under narration",
+  "volume": 0.09
+ },
+ "beats": [
+  {
+   "id": "open",
+   "bg": {
+    "stock": "immigration lawyer office desk documents",
+    "overlay": 0.62
+   },
+   "camera": {
+    "zoom": [
+     1,
+     1.06
+    ],
+    "pan": [
+     -30,
+     10
+    ]
+   },
+   "deco": false,
+   "vo": "Before you pick a time below, give me two minutes.",
+   "lines": [
+    {
+     "text": "Before you pick a time below,",
+     "size": "md"
+    },
+    {
+     "text": "give me *two minutes.*",
+     "size": "xl",
+     "annot": "underline"
+    }
+   ]
+  },
+  {
+   "id": "reframe",
+   "transition": "whip",
+   "deco": false,
+   "vo": "Because the problem you just booked this call about is not the one most immigration firms think they have.",
+   "lines": [
+    {
+     "text": "The problem you just booked this call about",
+     "size": "md"
+    },
+    {
+     "text": "is *not* the one",
+     "size": "xl",
+     "annot": "circle"
+    },
+    {
+     "text": "most immigration firms think they have.",
+     "size": "md"
+    }
+   ]
+  },
+  {
+   "id": "leads",
+   "transition": "push",
+   "bg": {
+    "color": "#1B2CF5"
+   },
+   "deco": false,
+   "vo": "It isn't leads. It's who's on the other end of them.",
+   "lines": [
+    {
+     "text": "It isn't *leads.*",
+     "size": "xl",
+     "emphColor": "#FFFFFF",
+     "annot": "underline"
+    },
+    {
+     "text": "It's *who's on the other end* of them.",
+     "size": "md",
+     "emphColor": "#FFFFFF"
+    }
+   ]
+  },
+  {
+   "id": "flooded",
+   "transition": "cut",
+   "bg": {
+    "stock": "smartphone notifications messages screen",
+    "overlay": 0.62
+   },
+   "deco": false,
+   "vo": "Immigration firms are flooded with low-quality leads. People who take the consult, take the advice, and never hire you.",
+   "lines": [
+    {
+     "text": "Immigration firms are *flooded*",
+     "size": "lg"
+    },
+    {
+     "icon": "bell-ring",
+     "w": 130,
+     "color": "#FFFFFF",
+     "bg": "#8B5CF6",
+     "after": "flooded"
+    },
+    {
+     "text": "with low-quality leads.",
+     "size": "md"
+    },
+    {
+     "gap": 10
+    },
+    {
+     "text": "take the consult, take the advice,",
+     "size": "sm"
+    },
+    {
+     "text": "and *never hire you.*",
+     "size": "lg"
+    }
+   ],
+   "camera": {
+    "zoom": [
+     1,
+     1.05
+    ],
+    "pan": [
+     25,
+     -10
+    ]
+   }
+  },
+  {
+   "id": "years",
+   "transition": "whip",
+   "deco": false,
+   "vo": "So we spent years fixing exactly that, using the latest AI qualification technology,",
+   "lines": [
+    {
+     "text": "We spent *years* fixing exactly that,",
+     "size": "md"
+    },
+    {
+     "text": "using the latest",
+     "size": "sm"
+    },
+    {
+     "text": "*AI qualification* technology,",
+     "size": "xl",
+     "annot": "underline"
+    },
+    {
+     "icon": "sparkles",
+     "w": 130,
+     "color": "#FFFFFF",
+     "bg": "#8B5CF6",
+     "after": "AI"
+    }
+   ]
+  },
+  {
+   "id": "daily",
+   "transition": "slide",
+   "bg": {
+    "stock": "team working on laptops modern office",
+    "overlay": 0.6
+   },
+   "deco": false,
+   "vo": "and we implement it, refine it, and re-implement it every single day across twenty-three different law firms.",
+   "lines": [
+    {
+     "text": "implement it, refine it, and re-implement it",
+     "size": "sm"
+    },
+    {
+     "icon": "repeat",
+     "w": 120,
+     "color": "#FFFFFF",
+     "bg": "#8B5CF6",
+     "after": "re-implement"
+    },
+    {
+     "text": "*every single day*",
+     "size": "lg"
+    },
+    {
+     "gap": 10
+    },
+    {
+     "text": "*23* law firms",
+     "size": "xl",
+     "silent": true,
+     "after": "twenty-three"
+    }
+   ]
+  },
+  {
+   "id": "two-places",
+   "transition": "leak",
+   "deco": false,
+   "vo": "Almost every firm we partner with starts in one of two places.",
+   "lines": [
+    {
+     "text": "Almost every firm we partner with",
+     "size": "md"
+    },
+    {
+     "text": "starts in *one of two places.*",
+     "size": "lg",
+     "annot": "underline"
+    },
+    {
+     "icon": "split",
+     "w": 130,
+     "color": "#FFFFFF",
+     "bg": "#8B5CF6",
+     "after": "two"
+    }
+   ]
+  },
+  {
+   "id": "referrals",
+   "transition": "push",
+   "bg": {
+    "color": "#1B2CF5"
+   },
+   "deco": false,
+   "vo": "Either they can't grow, because they only rely on referrals,",
+   "lines": [
+    {
+     "badge": "1"
+    },
+    {
+     "text": "they can't grow,",
+     "size": "md"
+    },
+    {
+     "text": "because they only rely on *referrals,*",
+     "size": "lg",
+     "emphColor": "#FFFFFF",
+     "annot": "box"
+    }
+   ]
+  },
+  {
+   "id": "wrong-people",
+   "transition": "whip",
+   "deco": false,
+   "vo": "or the ads work, the leads come in, and the wrong people fill the calendar.",
+   "lines": [
+    {
+     "badge": "2"
+    },
+    {
+     "text": "the ads work, the leads come in,",
+     "size": "md"
+    },
+    {
+     "text": "and the *wrong people* fill the calendar.",
+     "size": "lg",
+     "annot": "underline"
+    },
+    {
+     "icon": "calendar-x",
+     "w": 130,
+     "color": "#FFFFFF",
+     "bg": "#8B5CF6",
+     "after": "calendar"
+    }
+   ]
+  },
+  {
+   "id": "changes",
+   "transition": "zoom",
+   "bg": {
+    "stock": "calendar appointments planner desk",
+    "overlay": 0.62
+   },
+   "deco": false,
+   "vo": "Here's what changes. Over ninety days, we build three things inside your firm.",
+   "lines": [
+    {
+     "text": "Here's what *changes.*",
+     "size": "xl",
+     "annot": "underline",
+     "fit": true
+    },
+    {
+     "text": "Over ninety days, we build *three things* inside your firm.",
+     "size": "md"
+    }
+   ],
+   "camera": {
+    "zoom": [
+     1,
+     1.06
+    ],
+    "pan": [
+     -20,
+     15
+    ]
+   }
+  },
+  {
+   "id": "one",
+   "transition": "slide",
+   "deco": false,
+   "vo": "One: ad campaigns that bring in people who already know what hiring an attorney costs.",
+   "lines": [
+    {
+     "badge": "1"
+    },
+    {
+     "icon": "megaphone",
+     "w": 130,
+     "color": "#FFFFFF",
+     "bg": "#8B5CF6",
+     "after": "campaigns"
+    },
+    {
+     "text": "*Ad campaigns* that bring in people",
+     "size": "lg"
+    },
+    {
+     "text": "who already know what hiring an attorney *costs.*",
+     "size": "md"
+    }
+   ]
+  },
+  {
+   "id": "two",
+   "transition": "push",
+   "bg": {
+    "color": "#1B2CF5"
+   },
+   "deco": false,
+   "vo": "Two: an AI qualification funnel that screens every lead before anyone touches your calendar. Budget, location, case type, and a commitment to a time.",
+   "lines": [
+    {
+     "badge": "2"
+    },
+    {
+     "text": "an *AI qualification funnel*",
+     "size": "lg",
+     "emphColor": "#FFFFFF"
+    },
+    {
+     "chat": "Do you have a budget set aside for your case?",
+     "who": "ai",
+     "w": 900,
+     "label": "AI assistant",
+     "after": "Budget"
+    },
+    {
+     "text": "Budget, location, case type, and a *commitment to a time.*",
+     "size": "md",
+     "emphColor": "#FFFFFF"
+    }
+   ]
+  },
+  {
+   "id": "three",
+   "transition": "cut",
+   "bg": {
+    "stock": "receptionist answering phone office",
+    "overlay": 0.62
+   },
+   "deco": false,
+   "vo": "Three: automated intake inside your own CRM, so every lead is answered, tracked, and followed up.",
+   "lines": [
+    {
+     "badge": "3"
+    },
+    {
+     "icon": "phone-incoming",
+     "w": 130,
+     "color": "#FFFFFF",
+     "bg": "#8B5CF6",
+     "after": "intake"
+    },
+    {
+     "text": "*Automated intake* inside your own CRM,",
+     "size": "lg"
+    },
+    {
+     "text": "so every lead is answered, tracked, and followed up.",
+     "size": "sm"
+    }
+   ],
+   "camera": {
+    "zoom": [
+     1,
+     1.05
+    ],
+    "pan": [
+     20,
+     -10
+    ]
+   }
+  },
+  {
+   "id": "consult",
+   "transition": "leak",
+   "deco": false,
+   "vo": "All you have to do is take the consult that's already on your calendar.",
+   "lines": [
+    {
+     "text": "All you have to do",
+     "size": "md"
+    },
+    {
+     "text": "is *take the consult*",
+     "size": "xl",
+     "annot": "highlight"
+    },
+    {
+     "text": "that's already on your calendar.",
+     "size": "md"
+    },
+    {
+     "icon": "calendar-check",
+     "w": 150,
+     "color": "#B47CFD",
+     "after": "calendar"
+    }
+   ]
+  },
+  {
+   "id": "own",
+   "transition": "push",
+   "bg": {
+    "color": "#1B2CF5"
+   },
+   "deco": false,
+   "vo": "And you own all of it. Your accounts, your website, your data. No monthly retainers. No rip-and-replace.",
+   "lines": [
+    {
+     "text": "You *own* all of it.",
+     "size": "lg",
+     "emphColor": "#FFFFFF"
+    },
+    {
+     "icon": "key-round",
+     "w": 130,
+     "color": "#FFFFFF",
+     "bg": "#8B5CF6",
+     "after": "own"
+    },
+    {
+     "text": "Your accounts, your website, your data.",
+     "size": "sm"
+    },
+    {
+     "gap": 10
+    },
+    {
+     "text": "*No monthly retainers.*",
+     "size": "lg",
+     "emphColor": "#FFFFFF",
+     "annot": "underline"
+    },
+    {
+     "text": "No rip-and-replace.",
+     "size": "md"
+    }
+   ]
+  },
+  {
+   "id": "the-call",
+   "transition": "cut",
+   "bg": {
+    "stock": "man talking on phone office window",
+    "overlay": 0.62
+   },
+   "deco": false,
+   "vo": "Now, the call you're about to book. It's a ten-minute phone call to get to know you and your firm a little better.",
+   "lines": [
+    {
+     "text": "The call you're about to book:",
+     "size": "md"
+    },
+    {
+     "text": "a *ten-minute* phone call",
+     "size": "lg",
+     "annot": "underline"
+    },
+    {
+     "icon": "phone-call",
+     "w": 130,
+     "color": "#FFFFFF",
+     "bg": "#8B5CF6",
+     "after": "phone"
+    },
+    {
+     "text": "to get to know you and your firm a little better.",
+     "size": "sm"
+    }
+   ],
+   "camera": {
+    "zoom": [
+     1,
+     1.05
+    ],
+    "pan": [
+     -25,
+     10
+    ]
+   }
+  },
+  {
+   "id": "not-sales",
+   "transition": "whip",
+   "deco": false,
+   "vo": "It is not a sales call. Ten minutes isn't enough to sell anything.",
+   "lines": [
+    {
+     "text": "It is *not* a sales call.",
+     "size": "xl",
+     "annot": "circle"
+    },
+    {
+     "text": "Ten minutes isn't enough to sell anything.",
+     "size": "sm"
+    }
+   ]
+  },
+  {
+   "id": "two-things",
+   "transition": "push",
+   "bg": {
+    "color": "#1B2CF5"
+   },
+   "deco": false,
+   "vo": "We have to determine two things first: whether we can actually help you, and whether your firm qualifies to work with us.",
+   "lines": [
+    {
+     "text": "Two things first:",
+     "size": "md"
+    },
+    {
+     "text": "whether we can *actually help you,*",
+     "size": "lg",
+     "emphColor": "#FFFFFF",
+     "annot": "underline"
+    },
+    {
+     "text": "and whether your firm *qualifies* to work with us.",
+     "size": "md",
+     "emphColor": "#FFFFFF"
+    }
+   ]
+  },
+  {
+   "id": "video-call",
+   "transition": "zoom",
+   "bg": {
+    "stock": "video call laptop smiling professional",
+    "overlay": 0.62
+   },
+   "deco": false,
+   "vo": "If both are a yes, we book a thirty-minute video call, whenever we're both free, and walk you through everything in detail.",
+   "lines": [
+    {
+     "text": "If both are a *yes,*",
+     "size": "lg"
+    },
+    {
+     "text": "we book a *thirty-minute video call,*",
+     "size": "md"
+    },
+    {
+     "icon": "video",
+     "w": 130,
+     "color": "#FFFFFF",
+     "bg": "#8B5CF6",
+     "after": "video"
+    },
+    {
+     "text": "and walk you through everything in detail.",
+     "size": "sm"
+    }
+   ],
+   "camera": {
+    "zoom": [
+     1,
+     1.05
+    ],
+    "pan": [
+     20,
+     10
+    ]
+   }
+  },
+  {
+   "id": "guarantee",
+   "transition": "push",
+   "bg": {
+    "color": "#1B2CF5"
+   },
+   "deco": false,
+   "vo": "And the guarantee: if you're not profitable after ninety days, you get every dollar back. No questions.",
+   "lines": [
+    {
+     "text": "The *guarantee:*",
+     "size": "md",
+     "emphColor": "#FFFFFF"
+    },
+    {
+     "icon": "shield-check",
+     "w": 110,
+     "color": "#FFFFFF",
+     "bg": "#8B5CF6",
+     "after": "guarantee"
+    },
+    {
+     "text": "not profitable after ninety days,",
+     "size": "sm"
+    },
+    {
+     "text": "you get *every dollar back.*",
+     "size": "lg",
+     "emphColor": "#FFFFFF",
+     "annot": "highlight"
+    },
+    {
+     "text": "No questions.",
+     "size": "sm"
+    }
+   ]
+  },
+  {
+   "id": "cta",
+   "transition": "leak",
+   "deco": false,
+   "vo": "Pick your time below.",
+   "lines": [
+    {
+     "text": "*Pick your time below.*",
+     "size": "xl",
+     "annot": "box"
+    },
+    {
+     "icon": "calendar-check",
+     "w": 170,
+     "color": "#B47CFD",
+     "after": "below"
+    }
+   ]
+  }
+ ]
+}

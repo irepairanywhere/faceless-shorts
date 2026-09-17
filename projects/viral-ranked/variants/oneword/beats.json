@@ -1,0 +1,304 @@
+{
+  "title": "I typed one word and got every viral video in my niche, ranked (A5)",
+  "theme": "paper",
+  "anim": "pop",
+  "speed": 1.1,
+  "watermark": "rocketlaunchmedia.com",
+  "sfx_level": 0.7,
+  "music": {
+    "prompt": "minimal lo-fi hip hop beat, soft vinyl crackle, warm bass, 84 bpm, upbeat but calm, no vocals",
+    "volume": 0.1
+  },
+  "beats": [
+    {
+      "id": "typed",
+      "vo": "I typed one word and got every viral video in my niche, ranked.",
+      "lines": [
+        {
+          "text": "I typed *one word*",
+          "size": "lg"
+        },
+        {
+          "text": "and got every *viral* video in my niche,",
+          "size": "md"
+        },
+        {
+          "text": "*ranked.*",
+          "size": "xl",
+          "annot": "circle"
+        },
+        {
+          "emoji": "chart-increasing",
+          "w": 220,
+          "after": "ranked."
+        }
+      ]
+    },
+    {
+      "id": "word",
+      "transition": "flip",
+      "vo": "The word was claude code. Here's what came back.",
+      "layout": "top",
+      "lines": [
+        {
+          "text": "The word was",
+          "size": "md"
+        },
+        {
+          "chat": "claude code",
+          "who": "you",
+          "w": 700,
+          "after": "code."
+        },
+        {
+          "text": "Here's what *came back.*",
+          "size": "md"
+        },
+        {
+          "terminal": [
+            "$ tiktok-search \"claude code\" --rank viral",
+            "\u2713 12 videos \u00b7 ranked by views \u00f7 followers",
+            "#1  711K views   10.9K followers   65\u00d7",
+            "#2  98K views    1.6K followers    62\u00d7",
+            "#3  2.5M views   51K followers     48\u00d7"
+          ],
+          "w": 940,
+          "title": "claude",
+          "after": "back."
+        }
+      ]
+    },
+    {
+      "id": "back",
+      "transition": "glass",
+      "vo": "Here's what came back.",
+      "layout": "top",
+      "lines": [
+        {
+          "text": "Here's what *came back.*",
+          "size": "md"
+        },
+        {
+          "terminal": [
+            "$ tiktok-search \"claude code\" --rank viral",
+            "\u2713 12 videos \u00b7 ranked by views \u00f7 followers",
+            "#1  711K views   10.9K followers   65\u00d7",
+            "#2  98K views    1.6K followers    62\u00d7",
+            "#3  2.5M views   51K followers     48\u00d7"
+          ],
+          "w": 940,
+          "title": "claude",
+          "at": 0.1
+        }
+      ]
+    },
+    {
+      "id": "one",
+      "transition": "zoom",
+      "vo": "Number one: seven hundred eleven thousand views, from a creator with eleven thousand followers.",
+      "lines": [
+        {
+          "badge": "1",
+          "size": 150,
+          "at": 0.05
+        },
+        {
+          "text": "*711,000* views",
+          "size": "xl",
+          "silent": true,
+          "after": "hundred"
+        },
+        {
+          "text": "from *11,000* followers",
+          "size": "md",
+          "silent": true,
+          "after": "with"
+        }
+      ]
+    },
+    {
+      "id": "sixtyfive",
+      "transition": "cut",
+      "vo": "Sixty-five times their audience.",
+      "lines": [
+        {
+          "text": "*65\u00d7* their audience.",
+          "size": "xl",
+          "fit": true
+        },
+        {
+          "gif": "mind blown",
+          "w": 640,
+          "after": "times"
+        }
+      ]
+    },
+    {
+      "id": "two",
+      "transition": "blur",
+      "vo": "Number two: ninety-eight thousand views, sixteen hundred followers. Sixty-two times.",
+      "lines": [
+        {
+          "badge": "2",
+          "size": 150,
+          "at": 0.05
+        },
+        {
+          "text": "*98,600* views",
+          "size": "xl",
+          "silent": true,
+          "after": "thousand"
+        },
+        {
+          "text": "from *1,600* followers",
+          "size": "md",
+          "silent": true,
+          "after": "hundred"
+        },
+        {
+          "text": "*62\u00d7*",
+          "size": "lg",
+          "silent": true,
+          "after": "Sixty-two",
+          "emphColor": "#E5744C"
+        },
+        {
+          "emoji": "fire",
+          "animated": true,
+          "w": 200,
+          "after": "times."
+        }
+      ]
+    },
+    {
+      "id": "three",
+      "transition": "clock",
+      "vo": "Number three: two and a half million views. Forty-eight times.",
+      "lines": [
+        {
+          "badge": "3",
+          "size": 150,
+          "at": 0.05
+        },
+        {
+          "text": "*2.5M* views",
+          "size": "xl",
+          "silent": true,
+          "after": "million"
+        },
+        {
+          "emoji": "eyes",
+          "w": 220,
+          "after": "views."
+        },
+        {
+          "text": "*48\u00d7*",
+          "size": "lg",
+          "silent": true,
+          "after": "Forty-eight",
+          "emphColor": "#E5744C"
+        }
+      ]
+    },
+    {
+      "id": "pattern",
+      "transition": "whip",
+      "vo": "The top two are plugin announcements. Number three literally opens with not a tutorial.",
+      "lines": [
+        {
+          "text": "The top two are *plugin* announcements.",
+          "size": "md"
+        },
+        {
+          "emoji": "puzzle-piece",
+          "w": 200,
+          "after": "announcements."
+        },
+        {
+          "text": "Number three literally opens with",
+          "size": "md"
+        },
+        {
+          "text": "*\"not a tutorial.\"*",
+          "size": "lg",
+          "annot": "box"
+        }
+      ]
+    },
+    {
+      "id": "tools",
+      "transition": "flip",
+      "vo": "So this week's videos are about tools, not how-tos.",
+      "lines": [
+        {
+          "text": "So this week's videos are about *tools,*",
+          "size": "md"
+        },
+        {
+          "emoji": "toolbox",
+          "w": 220,
+          "after": "tools,"
+        },
+        {
+          "text": "not *how-tos.*",
+          "size": "lg"
+        }
+      ]
+    },
+    {
+      "id": "step",
+      "transition": "glass",
+      "vo": "That's the whole research step. One word, one ranked list, three platforms.",
+      "lines": [
+        {
+          "text": "That's the whole *research step.*",
+          "size": "md"
+        },
+        {
+          "text": "*One word,* one ranked list,",
+          "size": "md"
+        },
+        {
+          "icon": "si:tiktok",
+          "w": 120,
+          "after": "list,"
+        },
+        {
+          "icon": "si:instagram",
+          "w": 120,
+          "at": 2.3
+        },
+        {
+          "icon": "si:youtube",
+          "w": 120,
+          "at": 2.55
+        }
+      ]
+    },
+    {
+      "id": "cta",
+      "transition": "chromatic",
+      "bg": {
+        "stock": "person scrolling phone at night dark",
+        "overlay": 0.6
+      },
+      "vo": "Comment RANK and I'll send you the exact prompt.",
+      "lines": [
+        {
+          "text": "Comment *RANK*",
+          "size": "xl",
+          "annot": "circle"
+        },
+        {
+          "text": "and I'll send you the *exact prompt.*",
+          "size": "md"
+        },
+        {
+          "emoji": "rocket",
+          "w": 220,
+          "after": "prompt."
+        }
+      ]
+    }
+  ]
+}

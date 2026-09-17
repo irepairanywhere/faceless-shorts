@@ -1,0 +1,7 @@
+voice: cached
+music: cached
+timeline: 21 beats, 114.20s, sfx=on
+  $ npx remotion render src/index.ts KineticShort /Users/tiny/Developer/faceless-shorts/projects/law-marketing-vsl/final.prenorm.mp4 --props=/Users/tiny/Developer/faceless-shorts/projects/law-marketing-vsl/timeline.json --codec=h264 …
+  loudnorm: -24.11 LUFS -> -14.0 LUFS
+  size guard: re-encoded to 20.7 MiB
+done: /Users/tiny/Developer/faceless-shorts/projects/law-marketing-vsl/final.mp4  [1920,1080,  114.300000]

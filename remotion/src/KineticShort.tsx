@@ -5,7 +5,21 @@ import {TransitionSeries, linearTiming, springTiming, pushCut} from "@remotion/t
 import {fade} from "@remotion/transitions/fade";
 import {slide} from "@remotion/transitions/slide";
 import {wipe} from "@remotion/transitions/wipe";
-import {Annot, LeakOverlay, LottieEl, fitSize, withAlpha, type AnnotKind} from "./components/Fx";
+import {flip} from "@remotion/transitions/flip";
+import {clockWipe} from "@remotion/transitions/clock-wipe";
+import {filmBurn} from "@remotion/transitions/film-burn";
+import {ripple} from "@remotion/transitions/ripple";
+import {zoomBlur} from "@remotion/transitions/zoom-blur";
+import {dissolve} from "@remotion/transitions/dissolve";
+import {dreamyZoom} from "@remotion/transitions/dreamy-zoom";
+import {glassWipe} from "./components/onda/transitions/glass-wipe/glassWipe";
+import {chromaticAberration} from "./components/onda/transitions/chromatic-aberration/chromaticAberration";
+import {iris} from "./components/onda/transitions/iris/iris";
+import {BarChart, barChartSchema} from "./components/onda/bar-chart/BarChart";
+import {BrowserFrame, browserFrameSchema} from "./components/onda/browser-frame/BrowserFrame";
+import {DeviceFrame, deviceFrameSchema} from "./components/onda/device-frame/DeviceFrame";
+import {Cursor, cursorSchema} from "./components/onda/cursor/Cursor";
+import {Annot, EmojiEl, GifEl, LeakOverlay, LottieEl, fitSize, withAlpha, type AnnotKind} from "./components/Fx";
 import {CodeBlock} from "./components/Code";
 import {Trail} from "@remotion/motion-blur";
 import {noise2D} from "@remotion/noise";
@@ -20,6 +34,7 @@ import {Icon} from "./components/Icons";
 import {Card, Shot} from "./components/Cards";
 import {BridgeDiagram, TreeDiagram} from "./components/Diagrams";
 import {Badge, Chat, Phone, Terminal} from "./components/Widgets";
+import {TierBoard} from "./components/TierBoard";
 import {Grain, Orbs, Scanlines, Starbursts, StockBg} from "./components/Decor";
 import type {Beat, Line, ShortProps} from "./types";
 
@@ -80,7 +95,8 @@ const Word: React.FC<{w: {text: string; t: number; end: number; emph?: boolean};
 
 const TextLine: React.FC<{line: Extract<Line, {kind: "text"}>; beatStart: number; frame: number; fps: number; index: number; anim: AnimName; ink: string; boxBg: string; boxText: string}> = ({line, beatStart, frame, fps, index, anim, ink, boxBg, boxText}) => {
   const {theme, annot: annotDefault} = React.useContext(Ctx);
-  const base = theme.sizes[line.size ?? "md"] ?? theme.sizes.md;
+  const {width: VW, height: VH} = useVideoConfig(); const wide = VW > VH;
+  const base = (theme.sizes[line.size ?? "md"] ?? theme.sizes.md) * (wide ? 1.22 : 1);
   const allEmph = line.words.length > 0 && line.words.every((w) => w.emph);
   const mul = allEmph ? 1 : theme.emphMul;
   const annot: AnnotKind | undefined = line.annot ?? (annotDefault && (line.size === "lg" || line.size === "xl") ? annotDefault : undefined);
@@ -94,8 +110,8 @@ const TextLine: React.FC<{line: Extract<Line, {kind: "text"}>; beatStart: number
     const weight = anyEmph ? 800 : 500;
     const ls = anyEmph ? (theme.uppercase ? 1 : -1) : 0;
     const text = line.words.map((w) => w.text).join(" ");
-    const col = 940 - (line.box ? base * 1.1 : 0) - (annot === "box" || annot === "circle" || annot === "bracket" ? 70 : 0);
-    const cap = Math.round(theme.sizes.xl * 1.75);
+    const col = (wide ? 1460 : 940) - (line.box ? base * 1.1 : 0) - (annot === "box" || annot === "circle" || annot === "bracket" ? 70 : 0);
+    const cap = Math.round(theme.sizes.xl * 1.75 * (wide ? 1.22 : 1));
     const fb = base * (anyEmph ? mul : 1);
     const gaps = Math.max(0, line.words.length - 1);
     const f0 = fitSize(text, col, fam, weight, cap, fb, ls, theme.uppercase);
@@ -110,7 +126,7 @@ const TextLine: React.FC<{line: Extract<Line, {kind: "text"}>; beatStart: number
     <Word key={i} w={w} i={i} base={base} mul={mul} color={color} beatStart={beatStart} frame={frame} fps={fps} anim={anim} theme={theme} box={!!line.box} emphColor={line.emphColor} lineStartF={lineStartF} annot={wordAnnot} fsOverride={fsFit}
       showBar={!annot && !!w.emph && !line.box && line.underline !== false && (line.size === "lg" || line.size === "xl") && !theme.gradient && anim !== "typewriter"} />
   ));
-  const inner = <div style={{display: "flex", flexWrap: "wrap", justifyContent: theme.name === "terminal" ? "flex-start" : "center", alignItems: "baseline", columnGap: (fsFit ?? base) * 0.26, rowGap: 6, textAlign: theme.name === "terminal" ? "left" : "center", maxWidth: 960, transform: `translateX(${slide.x}px)`}}>{theme.name === "terminal" && index === 0 ? <span style={{color: theme.accent, fontFamily: FONTS.Mono, fontSize: base}}>›</span> : null}{words}</div>;
+  const inner = <div style={{display: "flex", flexWrap: "wrap", justifyContent: theme.name === "terminal" ? "flex-start" : "center", alignItems: "baseline", columnGap: (fsFit ?? base) * 0.26, rowGap: 6, textAlign: theme.name === "terminal" ? "left" : "center", maxWidth: wide ? 1500 : 960, transform: `translateX(${slide.x}px)`}}>{theme.name === "terminal" && index === 0 ? <span style={{color: theme.accent, fontFamily: FONTS.Mono, fontSize: base}}>›</span> : null}{words}</div>;
   const lastWf = line.words.length ? sec((line.words[line.words.length - 1].t) - beatStart, fps) : firstF;
   const annotColor = annot === "highlight" ? withAlpha(theme.accent, 0.55) : (line.emphColor ?? theme.accent);
   const annotated = lineAnnot && annot ? <Annot kind={annot} color={annotColor} frame={frame} startFrame={lastWf + 4} fps={fps} durSec={0.5}>{inner}</Annot> : inner;
@@ -135,7 +151,8 @@ const Clip: React.FC<{src: string; w?: number; h?: number}> = ({src, w, h}) => (
 
 const Scene: React.FC<{beat: Beat; index: number; firstDecoIndex: number}> = ({beat, index, firstDecoIndex}) => {
   const frame = useCurrentFrame();
-  const {fps} = useVideoConfig();
+  const {fps, width: W, height: H} = useVideoConfig();
+  const wide = W > H;
   const {theme, anim: animDefault} = React.useContext(Ctx);
   const anim = beat.anim ?? animDefault;
   const len = Math.max(1, sec(beat.end - beat.start, fps));
@@ -155,9 +172,10 @@ const Scene: React.FC<{beat: Beat; index: number; firstDecoIndex: number}> = ({b
   const bgColor = beat.bg?.color ?? (theme.altBg && index % 2 === 1 ? theme.altBg : theme.bg);
   const onAlt = !!theme.altBg && bgColor === theme.altBg;
   const overFootage = !!beat.bg?.src;
-  const ink = overFootage ? "#FFFFFF" : onAlt ? theme.bg : theme.ink;
-  const boxBg = overFootage ? "rgba(0,0,0,0.6)" : onAlt ? theme.bg : theme.boxBg;
-  const boxText = overFootage ? "#FFFFFF" : onAlt ? (theme.altBg as string) : theme.boxText;
+  const darkOnLight = !!beat.bg?.color && isDark(beat.bg.color) && !isDark(theme.bg); // v8: a dark color beat on a light theme flips to white ink
+  const ink = overFootage || darkOnLight ? "#FFFFFF" : onAlt ? theme.bg : theme.ink;
+  const boxBg = overFootage || darkOnLight ? "rgba(255,255,255,0.12)" : onAlt ? theme.bg : theme.boxBg;
+  const boxText = overFootage || darkOnLight ? "#FFFFFF" : onAlt ? (theme.altBg as string) : theme.boxText;
   const emphOver = theme.name === "bold" ? "#F5D90A" : theme.name === "paper" ? "#FFB27A" : theme.accent;
   let elIndex = 0;
   return (
@@ -167,17 +185,19 @@ const Scene: React.FC<{beat: Beat; index: number; firstDecoIndex: number}> = ({b
         {theme.grid && beat.grid !== false && <DotGrid opacity={gridOp} frame={frame} />}
         {theme.decor === "starburst" && beat.deco && index >= 2 && index === firstDecoIndex && <Starbursts frame={frame} fps={fps} color={theme.accent} />}
         {theme.decor === "orbs" && beat.deco !== false && <Orbs frame={frame} colors={theme.gradient ?? [theme.accent]} />}
-        <div style={{position: "absolute", left: 0, top: 0, width: 1080, height: 1920, display: "flex", flexDirection: "column", alignItems: theme.name === "terminal" ? "flex-start" : "center", justifyContent: layout === "top" ? "flex-start" : "center", paddingTop: layout === "top" ? 250 : 0, paddingBottom: layout === "center" ? 220 : 0, paddingLeft: theme.name === "terminal" ? 90 : 60, paddingRight: 60, gap: 30, boxSizing: "border-box", fontFamily: FONTS[theme.fontBody]}}>
+        <div style={{position: "absolute", left: 0, top: 0, width: W, height: H, display: "flex", flexDirection: "column", alignItems: theme.name === "terminal" ? "flex-start" : "center", justifyContent: layout === "top" ? "flex-start" : "center", paddingTop: layout === "top" ? (wide ? 110 : 250) : 0, paddingBottom: layout === "center" ? (wide ? 90 : 220) : 0, paddingLeft: theme.name === "terminal" ? 90 : (wide ? 140 : 60), paddingRight: wide ? 140 : 60, gap: 30, boxSizing: "border-box", fontFamily: FONTS[theme.fontBody]}}>
           {beat.lines.map((line, i) => {
-            if (line.kind === "text") return <TextLine key={i} line={overFootage && !line.emphColor && !line.box ? {...line, emphColor: emphOver} : line} beatStart={beat.start} frame={frame} fps={fps} index={i} anim={anim} ink={ink} boxBg={boxBg} boxText={boxText} />;
+            if (line.kind === "text") return <TextLine key={i} line={(overFootage || darkOnLight) && !line.emphColor && !line.box ? {...line, emphColor: emphOver} : line} beatStart={beat.start} frame={frame} fps={fps} index={i} anim={anim} ink={ink} boxBg={boxBg} boxText={boxText} />;
             if (line.kind === "gap") return <div key={i} style={{height: line.h}} />;
             const startF = sec(line.t - beat.start, fps);
             const lenF = len - startF;
             const side = (elIndex++ % 2 ? 1 : -1) * 140;
             if (line.kind === "icon") {
               const sz = line.w ?? 160;
-              return <PopLine key={i} t={line.t} beatStart={beat.start} frame={frame} fps={fps} rotate={line.rotate} fromRot={-14}><div style={{position: "relative", width: sz * 1.5, height: sz * 1.5, display: "flex", alignItems: "center", justifyContent: "center"}}><Trail layers={3} lagInFrames={0.6} trailOpacity={0.35}><div style={{display: "flex", alignItems: "center", justifyContent: "center", width: "100%", height: "100%"}}><Icon name={line.name} size={sz} color={line.color} bg={line.bg} /></div></Trail></div></PopLine>;
+              return <PopLine key={i} t={line.t} beatStart={beat.start} frame={frame} fps={fps} rotate={line.rotate} fromRot={-14}><div style={{position: "relative", width: sz * 1.5, height: sz * 1.5, display: "flex", alignItems: "center", justifyContent: "center"}}><Trail layers={3} lagInFrames={0.6} trailOpacity={0.35}><div style={{display: "flex", alignItems: "center", justifyContent: "center", width: "100%", height: "100%"}}><Icon name={line.name} src={line.src} size={sz} color={line.color} bg={line.bg} /></div></Trail></div></PopLine>;
             }
+            if (line.kind === "emoji") return <PopLine key={i} t={line.t} beatStart={beat.start} frame={frame} fps={fps} rotate={line.rotate} fromRot={-22} fromX={side * 0.5}><EmojiEl src={line.src} name={line.name} animated={line.animated} w={line.w} frame={frame} startF={startF} float={line.float} /></PopLine>;
+            if (line.kind === "gif") return <PopLine key={i} t={line.t} beatStart={beat.start} frame={frame} fps={fps} fromX={side} fromRot={0}><GifEl src={line.src} w={line.w} h={line.h} /></PopLine>;
             if (line.kind === "lottie") return <PopLine key={i} t={line.t} beatStart={beat.start} frame={frame} fps={fps} fromRot={0}><LottieEl src={line.src} w={line.w} loop={line.loop} speed={line.speed} /></PopLine>;
             if (line.kind === "code") return <PopLine key={i} t={line.t} beatStart={beat.start} frame={frame} fps={fps} fromRot={-3}><CodeBlock lines={line.lines} lang={line.lang} title={line.title} w={line.w} themeName={line.theme} typing={line.typing} frame={frame} startF={startF} fps={fps} dark={theme.name !== "paper" || !!overFootage || !!beat.bg?.color} /></PopLine>;
             if (line.kind === "card") return <PopLine key={i} t={line.t} beatStart={beat.start} frame={frame} fps={fps} fromRot={-4}><Card name={line.name} w={line.w} title={line.title} subtitle={line.subtitle} /></PopLine>;
@@ -186,7 +206,24 @@ const Scene: React.FC<{beat: Beat; index: number; firstDecoIndex: number}> = ({b
             if (line.kind === "terminal") return <PopLine key={i} t={line.t} beatStart={beat.start} frame={frame} fps={fps} fromRot={-3}><Terminal lines={line.lines} w={line.w} title={line.title} frame={frame} startF={startF} fps={fps} /></PopLine>;
             if (line.kind === "chat") return <PopLine key={i} t={line.t} beatStart={beat.start} frame={frame} fps={fps} fromX={line.who === "ai" ? -120 : 120} fromRot={0}><Chat text={line.text} who={line.who} w={line.w} label={line.label} /></PopLine>;
             if (line.kind === "phone") return <PopLine key={i} t={line.t} beatStart={beat.start} frame={frame} fps={fps} fromRot={-6}><Phone src={line.src} w={line.w} /></PopLine>;
-            if (line.kind === "badge") return <PopLine key={i} t={line.t} beatStart={beat.start} frame={frame} fps={fps} fromRot={-25}><Badge text={line.text} icon={line.icon} size={line.size} /></PopLine>;
+            if (line.kind === "badge") return <PopLine key={i} t={line.t} beatStart={beat.start} frame={frame} fps={fps} fromRot={-25}><Badge text={line.text} icon={line.icon} iconSrc={line.iconSrc} size={line.size} /></PopLine>;
+            if (line.kind === "tierboard") {
+              const darkBoard = overFootage || darkOnLight || isDark(bgColor);
+              const addsF = line.adds ? line.adds.map((a) => ({label: a.label, grade: a.grade, appearF: sec(a.t - beat.start, fps), landF: sec((a.land ?? a.t) - beat.start, fps), drop: true})) : undefined;
+              return <div key={i} style={{lineHeight: 0}}><TierBoard tiers={line.tiers} placed={line.placed} add={line.add} adds={addsF} pulse={line.pulse} enter={line.enter} pop={line.pop} stamp={line.stamp} w={line.w} ratio={line.ratio} frame={frame} startF={startF} appearF={line.appear != null ? sec(line.appear - beat.start, fps) : undefined} landF={line.land != null ? sec(line.land - beat.start, fps) : undefined} fps={fps} dark={darkBoard} font={FONTS[theme.fontHead]} uppercase={theme.uppercase} colors={line.colors} /></div>;
+            }
+            if (line.kind === "bar-chart") {
+              // Onda's own defaults assume a dark canvas (near-white label text) — override with this
+              // beat's actual ink/accent so bars stay legible on light themes too (paper, bold).
+              // No `placement`: PlacementBox's wrapper has no explicit width, which collapses BarChart's
+              // `width: 80%` to zero — omitting it lets the beat's own flex column size it instead
+              // (PlacementBox passes through untouched when placement is undefined, per its own docs).
+              const chartDefaults = {color: ink, trackColor: withAlpha(ink, 0.15), barColor: withAlpha(ink, 0.4), accentColor: theme.accent};
+              return <div key={i} style={{lineHeight: 0, width: "100%"}}><BarChart {...barChartSchema.parse({...chartDefaults, ...line, delay: startF})} /></div>;
+            }
+            if (line.kind === "browser-frame") return <div key={i} style={{lineHeight: 0}}><BrowserFrame {...browserFrameSchema.parse({...line, delay: startF})} /></div>;
+            if (line.kind === "device-frame") return <div key={i} style={{lineHeight: 0}}><DeviceFrame {...deviceFrameSchema.parse({...line, delay: startF})} /></div>;
+            if (line.kind === "cursor") return <Cursor key={i} {...cursorSchema.parse({...line, delay: startF})} />;
             if (line.kind === "diagram") {
               return line.variant === "tree"
                 ? <TreeDiagram key={i} frame={frame} startF={startF} fps={fps} nodes={line.nodes} />
@@ -209,40 +246,50 @@ const collectSfx = (beats: Beat[], theme: Theme, level: number): SfxEvent[] => {
   // Sound families rotate through a small pool (original ElevenLabs hit + CC0 Kenney variants) so the same clink never repeats back-to-back.
   const POOL: Record<string, string[]> = {
     tick: ["tick", "kenney/click1", "kenney/click3", "kenney/click2"],
-    ding: ["ding", "kenney/confirm1", "kenney/confirm3"],
-    pop: ["pop", "kenney/drop1", "kenney/pep1", "kenney/drop3"],
-    shutter: ["shutter", "kenney/card1", "kenney/card2"],
-    thud: ["thud", "kenney/thud0", "kenney/thud1"],
-    whoosh: ["whoosh", "kenney/maximize1", "kenney/maximize2"],
+    ding: ["ding", "kenney/confirm3", "kenney/confirm4"],
+    pop: ["pop", "kenney/drop1", "kenney/pep3"],
+    shutter: ["shutter", "kenney/card2", "kenney/card3"],
+    // NO thud/boom sounds, ever (Ahmed, 4th time, 2026-09-09): whoosh.mp3 + thud*.mp3 are moved out of public/sfx/ (.retired-sfx/).
+    thud: [],
+    whoosh: ["kenney/maximize1", "kenney/maximize2", "kenney/maximize3"],
     swish: ["swish", "kenney/minimize1", "kenney/open1"],
-    notify: ["notify", "kenney/glass1", "kenney/bong1"],
+    notify: ["notify", "kenney/glass1", "kenney/glass2"],
   };
   const rr: Record<string, number> = {};
+  const BANNED = /thud|whoosh\.mp3|boom|hit|impact|bong/;
   const push = (t: number, family: string, vol: number) => {
-    const pool = POOL[family] ?? [family];
+    const pool = (POOL[family] ?? [family]).filter((f) => !BANNED.test(`${f}.mp3`));
+    if (pool.length === 0) return;
     const pick = pool[(rr[family] ?? 0) % pool.length]; rr[family] = (rr[family] ?? 0) + 1;
     ev.push({t, file: `sfx/${pick}.mp3`, vol: vol * level, family});
   };
   beats.forEach((b, i) => {
     const tr = b.transition ?? theme.transition;
     if (i > 0) {
-      if (tr === "wipe") push(b.start, "thud", 0.5);
+      if (tr === "wipe") push(b.start, "swish", 0.35);
       else if (tr === "whip" || tr === "slide") push(b.start, "whoosh", 0.4);
       else if (tr === "zoom" || tr === "leak") push(b.start, "swish", 0.35);
-      else if (tr === "push") push(b.start, "thud", 0.42);
+      else if (tr === "push") push(b.start, "swish", 0.35);
+      else if (tr === "flip" || tr === "clock" || tr === "glass" || tr === "iris") push(b.start, "whoosh", 0.4);
+      else if (tr === "film" || tr === "ripple" || tr === "blur" || tr === "dissolve" || tr === "dreamy" || tr === "chromatic") push(b.start, "swish", 0.35);
     }
     for (const l of b.lines) {
       if (l.kind === "text") {
         for (const w of l.words) {
           if (!w.emph) continue;
           if (NUMISH.test(w.text) && parseInt(w.text.replace(/[^0-9]/g, ""), 10) >= 100) push(w.t + 0.7, "ding", 0.3);
-          else if (l.size === "xl" && (theme.name === "bold" || theme.name === "film")) push(w.t, "thud", 0.32);
         }
       } else if (l.kind === "chat") push(l.t, "notify", 0.35);
       else if (l.kind === "badge") push(l.t, "tick", 0.3);
       else if (l.kind === "image" || l.kind === "card" || l.kind === "clip" || l.kind === "phone") push(l.t, "shutter", 0.3);
       else if (l.kind === "icon") push(l.t, "pop", 0.25);
+      else if (l.kind === "emoji") push(l.t, "pop", 0.3);
+      else if (l.kind === "gif") push(l.t, "shutter", 0.3);
+      else if (l.kind === "browser-frame" || l.kind === "device-frame") push(l.t, "shutter", 0.3);
+      else if (l.kind === "bar-chart") push(l.t, "swish", 0.3);
+      else if (l.kind === "cursor" && l.click !== false) push(l.t + 1.2, "tick", 0.25); // approx. arrival + click, matches Onda's default 24f travel + 6f click delay
       else if (l.kind === "terminal") l.lines.slice(0, 2).forEach((_, k) => push(l.t + 0.5 * k, "tick", 0.2));
+      else if (l.kind === "tierboard") { if (l.stamp) push(l.t + 0.25, "shutter", 0.35); if (l.adds) l.adds.forEach((a) => push(a.t + 0.3, "pop", 0.3)); else if (l.add) push(l.land ?? l.t + 0.9, "pop", 0.3); else if (l.enter || l.pop) push(l.t, "swish", 0.3); } // v9: pops on landings (pool rotates, capped); stamp = shutter, never a thud
     }
   });
   ev.sort((a, b) => a.t - b.t);
@@ -260,7 +307,18 @@ const collectSfx = (beats: Beat[], theme: Theme, level: number): SfxEvent[] => {
 const LEAK_FRAMES = 18;
 const isDark = (c: string) => { if (!c.startsWith("#") || c.length !== 7) return false; const r = parseInt(c.slice(1, 3), 16), g = parseInt(c.slice(3, 5), 16), b = parseInt(c.slice(5, 7), 16); return (0.2126 * r + 0.7152 * g + 0.0722 * b) < 110; };
 type Pres = {p: ReturnType<typeof fade>; t: ReturnType<typeof linearTiming>};
-const presentationFor = (tr: string, i: number): Pres | null => {
+const presentationFor = (tr: string, i: number, W = 1080, H = 1920): Pres | null => {
+  // v8: Remotion built-ins (flip/clock/film/ripple/blur/dissolve/dreamy) + Onda copy-paste presentations (glass/chromatic/iris).
+  if (tr === "flip") return {p: flip({direction: i % 2 ? "from-left" : "from-right", perspective: 1400}) as Pres["p"], t: springTiming({config: {damping: 200}, durationInFrames: 14})};
+  if (tr === "clock") return {p: clockWipe({width: W, height: H}) as Pres["p"], t: linearTiming({durationInFrames: 16})};
+  if (tr === "film") return {p: filmBurn({seed: i}) as Pres["p"], t: linearTiming({durationInFrames: 14})};
+  if (tr === "ripple") return {p: ripple({}) as Pres["p"], t: linearTiming({durationInFrames: 14})};
+  if (tr === "blur") return {p: zoomBlur({}) as Pres["p"], t: linearTiming({durationInFrames: 11})};
+  if (tr === "dissolve") return {p: dissolve({}) as Pres["p"], t: linearTiming({durationInFrames: 14})};
+  if (tr === "dreamy") return {p: dreamyZoom({}) as Pres["p"], t: linearTiming({durationInFrames: 14})};
+  if (tr === "glass") return {p: glassWipe({direction: i % 2 ? "left" : "right", frost: 14}) as Pres["p"], t: linearTiming({durationInFrames: 14})};
+  if (tr === "chromatic") return {p: chromaticAberration({intensity: 28}) as Pres["p"], t: linearTiming({durationInFrames: 10})};
+  if (tr === "iris") return {p: iris({width: W, height: H}) as Pres["p"], t: linearTiming({durationInFrames: 14})};
   if (tr === "whip") return {p: slide({direction: i % 2 ? "from-left" : "from-right"}) as Pres["p"], t: springTiming({config: {damping: 200}, durationInFrames: 12})};
   if (tr === "slide") return {p: slide({direction: "from-bottom"}) as Pres["p"], t: springTiming({config: {damping: 200}, durationInFrames: 14})};
   if (tr === "wipe") return {p: wipe({direction: i % 2 ? "from-right" : "from-left"}) as Pres["p"], t: linearTiming({durationInFrames: 12})};
@@ -271,7 +329,8 @@ const presentationFor = (tr: string, i: number): Pres | null => {
 };
 
 export const KineticShort: React.FC<ShortProps> = (props) => {
-  const {fps, durationInFrames} = useVideoConfig();
+  const {fps, durationInFrames, width: W, height: H} = useVideoConfig();
+  const wide = W > H;
   const theme = THEMES[props.theme ?? "paper"] ?? THEMES.paper;
   const anim = props.anim ?? theme.anim;
   const musicVol = props.musicVolume ?? 0.12;
@@ -283,9 +342,9 @@ export const KineticShort: React.FC<ShortProps> = (props) => {
   const items: React.ReactNode[] = [];
   props.beats.forEach((beat, i) => {
     const trName = i === 0 ? "cut" : (beat.transition ?? theme.transition);
-    const pres = i === 0 ? null : presentationFor(trName, i);
+    const pres = i === 0 ? null : presentationFor(trName, i, W, H);
     const next = props.beats[i + 1];
-    const nextPres = next ? presentationFor(next.transition ?? theme.transition, i + 1) : null;
+    const nextPres = next ? presentationFor(next.transition ?? theme.transition, i + 1, W, H) : null;
     const outDur = nextPres ? nextPres.t.getDurationInFrames({fps}) : 0;
     const end = i + 1 < props.beats.length ? starts[i + 1] : durationInFrames;
     const len = Math.max(1, end - starts[i]);
@@ -300,7 +359,7 @@ export const KineticShort: React.FC<ShortProps> = (props) => {
       <AbsoluteFill style={{background: theme.bg, fontFamily: FONTS[theme.fontBody]}}>
         <TransitionSeries>{items}</TransitionSeries>
         {props.watermark ? (
-          <div style={{position: "absolute", left: 0, right: 0, top: 1650, textAlign: "center", fontSize: 46, fontWeight: 600, color: theme.watermark, fontFamily: FONTS[theme.fontBody], letterSpacing: 0.5, zIndex: 60}}>{props.watermark}</div>
+          <div style={{position: "absolute", left: 0, right: 0, top: wide ? H - 96 : 1650, textAlign: "center", fontSize: wide ? 34 : 46, fontWeight: 600, color: theme.watermark, fontFamily: FONTS[theme.fontBody], letterSpacing: 0.5, zIndex: 60}}>{props.watermark}</div>
         ) : null}
         {props.voSrc ? <Audio src={staticFile(props.voSrc)} /> : null}
         {props.musicSrc ? <Audio src={staticFile(props.musicSrc)} loop volume={(f) => musicVol * Math.min(1, f / 15, Math.max(0, (durationInFrames - f) / 30))} /> : null}

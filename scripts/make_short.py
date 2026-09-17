@@ -16,22 +16,32 @@ REMOTION = ROOT / "remotion"
 sys.path.insert(0, str(ROOT / "scripts"))
 from tts_timestamps import load_key, synthesize, words_from_alignment  # noqa: E402
 from build_timeline import build  # noqa: E402
-from fetch_stock import fetch_stock  # noqa: E402
+from fetch_stock import fetch_stock, fetch_gif  # noqa: E402
 
 def resolve_stock(tl: dict, proj: Path, slug: str):
     """Turn {"bg": {"stock": "query"}} and clip stock queries into files under remotion/public/stock/<slug>/."""
     pub = REMOTION / "public" / "stock" / slug
+    wide = int(tl.get("width", 1080)) > int(tl.get("height", 1920))
     for b in tl["beats"]:
         bg = b.get("bg")
         if bg and bg.get("stock"):
-            f = fetch_stock(bg["stock"], proj / "stock", pick=int(bg.get("pick", 0)))
+            f = fetch_stock(bg["stock"], proj / "stock", pick=int(bg.get("pick", 0)), landscape=wide, source=bg.get("source", "auto"))
             pub.mkdir(parents=True, exist_ok=True); shutil.copy(f, pub / f.name)
-            bg["src"] = f"stock/{slug}/{f.name}"; bg.pop("stock", None); bg.pop("pick", None)
+            bg["src"] = f"stock/{slug}/{f.name}"; bg.pop("stock", None); bg.pop("pick", None); bg.pop("source", None)
         for l in b["lines"]:
             if l.get("kind") == "clip" and l.get("stock"):
-                f = fetch_stock(l["stock"], proj / "stock")
+                f = fetch_stock(l["stock"], proj / "stock", landscape=wide)
                 pub.mkdir(parents=True, exist_ok=True); shutil.copy(f, pub / f.name)
                 l["src"] = f"stock/{slug}/{f.name}"; l.pop("stock", None)
+            if l.get("kind") == "gif" and l.get("stock"):
+                try:
+                    f = fetch_gif(l["stock"], proj / "stock")
+                    pub.mkdir(parents=True, exist_ok=True); shutil.copy(f, pub / f.name)
+                    l["src"] = f"stock/{slug}/{f.name}"; l.pop("stock", None)
+                except BaseException as e:  # Klipy down / no key: fall back to a 3D sticker so the beat still has a visual
+                    from build_timeline import resolve_emoji
+                    print(f"  warn: gif '{l['stock']}' failed ({str(e)[:80]}); using an emoji sticker instead")
+                    t0 = l.get("t", b["start"] + 0.3); l.clear(); l.update({"kind": "emoji", **resolve_emoji("exploding head"), "w": 260, "t": t0})
 
 def sh(cmd, cwd=None):
     print("  $", " ".join(str(c) for c in cmd[:8]), "…" if len(cmd) > 8 else "")
@@ -138,7 +148,7 @@ def main():
     tl = build(proj, slug, proj / "voice.mp3", proj / "words.json", has_music, f"images/{slug}")
     for b in tl["beats"]:
         if b.get("bg", {}).get("stock") or any(l.get("stock") for l in b["lines"]): pass
-    tl["sfx"] = (REMOTION / "public" / "sfx" / "whoosh.mp3").exists() and not spec.get("no_sfx", False)
+    tl["sfx"] = (REMOTION / "public" / "sfx" / "pop.mp3").exists() and not spec.get("no_sfx", False)
     tl["sfxLevel"] = float(spec.get("sfx_level", 0.8))
     resolve_stock(tl, proj, slug)
     (proj / "timeline.json").write_text(json.dumps(tl, indent=1))

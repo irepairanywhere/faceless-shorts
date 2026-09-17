@@ -19,7 +19,9 @@ const demo: ShortProps = {
   ],
 };
 
+
 export const Root: React.FC = () => (
+  <>
   <Composition
     id="KineticShort"
     component={KineticShort}
@@ -28,6 +30,7 @@ export const Root: React.FC = () => (
     fps={30}
     durationInFrames={180}
     defaultProps={demo}
-    calculateMetadata={async ({props}) => ({durationInFrames: Math.max(30, Math.ceil(props.durationSec * 30)), fps: 30})}
+    calculateMetadata={async ({props}) => ({durationInFrames: Math.max(30, Math.ceil(props.durationSec * 30)), fps: 30, width: props.width ?? 1080, height: props.height ?? 1920})}
   />
+  </>
 );

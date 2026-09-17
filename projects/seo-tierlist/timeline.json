@@ -1,0 +1,1339 @@
+{
+ "fps": 30,
+ "durationSec": 40.631,
+ "voSrc": "audio/seo-tierlist/voice.mp3",
+ "musicSrc": "audio/seo-tierlist/music.mp3",
+ "musicVolume": 0.1,
+ "watermark": "rocketlaunchmedia.com",
+ "theme": "bold",
+ "width": 1080,
+ "height": 1920,
+ "anim": "rise",
+ "annot": null,
+ "beats": [
+  {
+   "id": "hook",
+   "start": 0.0,
+   "lines": [
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "If",
+       "t": 0.0,
+       "end": 0.151,
+       "emph": false
+      },
+      {
+       "text": "your",
+       "t": 0.197,
+       "end": 0.36,
+       "emph": false
+      },
+      {
+       "text": "SEO",
+       "t": 0.464,
+       "end": 0.894,
+       "emph": true
+      },
+      {
+       "text": "agency",
+       "t": 0.94,
+       "end": 1.312,
+       "emph": true
+      },
+      {
+       "text": "is",
+       "t": 1.37,
+       "end": 1.44,
+       "emph": false
+      },
+      {
+       "text": "still",
+       "t": 1.474,
+       "end": 1.683,
+       "emph": false
+      },
+      {
+       "text": "doing",
+       "t": 1.741,
+       "end": 1.927,
+       "emph": false
+      }
+     ],
+     "size": "sm",
+     "box": false
+    },
+    {
+     "kind": "tierboard",
+     "tiers": [
+      "F"
+     ],
+     "placed": [],
+     "adds": [
+      {
+       "label": "DA score",
+       "grade": "F",
+       "t": 2.198
+      },
+      {
+       "label": "llms.txt",
+       "grade": "F",
+       "t": 2.453
+      },
+      {
+       "label": "Keyword stuffing",
+       "grade": "F",
+       "t": 2.767
+      }
+     ],
+     "enter": false,
+     "stamp": true,
+     "pop": false,
+     "w": 960,
+     "ratio": 0.24,
+     "t": 0.3
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "that's",
+       "t": 2.717,
+       "end": 2.926,
+       "emph": false
+      },
+      {
+       "text": "F-tier",
+       "t": 2.995,
+       "end": 3.344,
+       "emph": true
+      },
+      {
+       "text": "work.",
+       "t": 3.402,
+       "end": 3.762,
+       "emph": true
+      }
+     ],
+     "size": "lg",
+     "box": false
+    }
+   ],
+   "layout": "center",
+   "grid": true,
+   "deco": false,
+   "camera": {
+    "zoom": [
+     1,
+     1.05
+    ]
+   },
+   "end": 3.99
+  },
+  {
+   "id": "backlinks",
+   "start": 3.99,
+   "lines": [
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "Backlinks",
+       "t": 4.11,
+       "end": 4.865,
+       "emph": true
+      }
+     ],
+     "size": "lg",
+     "box": false
+    },
+    {
+     "kind": "tierboard",
+     "placed": [
+      {
+       "label": "DA score",
+       "grade": "F"
+      },
+      {
+       "label": "llms.txt",
+       "grade": "F"
+      },
+      {
+       "label": "Keyword stuffing",
+       "grade": "F"
+      }
+     ],
+     "add": {
+      "label": "Backlinks",
+      "grade": "S"
+     },
+     "enter": false,
+     "pop": false,
+     "w": 960,
+     "ratio": 0.15,
+     "t": 4.11,
+     "appear": 4.16,
+     "land": 5.263
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "Still",
+       "t": 5.213,
+       "end": 5.573,
+       "emph": false
+      },
+      {
+       "text": "the",
+       "t": 5.933,
+       "end": 6.002,
+       "emph": false
+      },
+      {
+       "text": "thing.",
+       "t": 6.049,
+       "end": 6.467,
+       "emph": false
+      }
+     ],
+     "size": "sm",
+     "box": false
+    }
+   ],
+   "layout": "top",
+   "grid": true,
+   "deco": false,
+   "camera": {
+    "zoom": [
+     1,
+     1
+    ]
+   },
+   "transition": "wipe",
+   "bg": {
+    "color": "#111111"
+   },
+   "end": 6.637
+  },
+  {
+   "id": "speed",
+   "start": 6.637,
+   "lines": [
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "Page",
+       "t": 6.757,
+       "end": 7.047,
+       "emph": true
+      },
+      {
+       "text": "speed",
+       "t": 7.07,
+       "end": 7.314,
+       "emph": true
+      }
+     ],
+     "size": "lg",
+     "box": false
+    },
+    {
+     "kind": "tierboard",
+     "placed": [
+      {
+       "label": "DA score",
+       "grade": "F"
+      },
+      {
+       "label": "llms.txt",
+       "grade": "F"
+      },
+      {
+       "label": "Keyword stuffing",
+       "grade": "F"
+      },
+      {
+       "label": "Backlinks",
+       "grade": "S"
+      }
+     ],
+     "add": {
+      "label": "Page speed",
+      "grade": "C"
+     },
+     "enter": false,
+     "pop": false,
+     "w": 960,
+     "ratio": 0.15,
+     "t": 6.757,
+     "appear": 7.782,
+     "land": 8.618
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "Fix",
+       "t": 8.893,
+       "end": 9.056,
+       "emph": false
+      },
+      {
+       "text": "it",
+       "t": 9.114,
+       "end": 9.172,
+       "emph": false
+      },
+      {
+       "text": "once",
+       "t": 9.218,
+       "end": 9.392,
+       "emph": false
+      },
+      {
+       "text": "and",
+       "t": 9.416,
+       "end": 9.485,
+       "emph": false
+      },
+      {
+       "text": "move",
+       "t": 9.532,
+       "end": 9.694,
+       "emph": false
+      },
+      {
+       "text": "on.",
+       "t": 9.752,
+       "end": 10.066,
+       "emph": false
+      }
+     ],
+     "size": "sm",
+     "box": false
+    }
+   ],
+   "layout": "top",
+   "grid": true,
+   "deco": false,
+   "camera": {
+    "zoom": [
+     1,
+     1
+    ]
+   },
+   "transition": "cut",
+   "bg": {
+    "color": "#111111"
+   },
+   "end": 10.236
+  },
+  {
+   "id": "da",
+   "start": 10.236,
+   "lines": [
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "Domain",
+       "t": 10.356,
+       "end": 10.646,
+       "emph": true
+      },
+      {
+       "text": "authority",
+       "t": 10.693,
+       "end": 11.006,
+       "emph": true
+      }
+     ],
+     "size": "lg",
+     "box": false
+    },
+    {
+     "kind": "tierboard",
+     "placed": [
+      {
+       "label": "DA score",
+       "grade": "F"
+      },
+      {
+       "label": "llms.txt",
+       "grade": "F"
+      },
+      {
+       "label": "Keyword stuffing",
+       "grade": "F"
+      },
+      {
+       "label": "Backlinks",
+       "grade": "S"
+      },
+      {
+       "label": "Page speed",
+       "grade": "C"
+      }
+     ],
+     "pulse": "DA score",
+     "enter": false,
+     "pop": false,
+     "w": 960,
+     "ratio": 0.15,
+     "t": 10.356,
+     "appear": 11.103,
+     "land": 11.927
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "A",
+       "t": 12.341,
+       "end": 12.411,
+       "emph": false
+      },
+      {
+       "text": "third-party",
+       "t": 12.481,
+       "end": 12.945,
+       "emph": false
+      },
+      {
+       "text": "number,",
+       "t": 13.003,
+       "end": 13.386,
+       "emph": false
+      },
+      {
+       "text": "not",
+       "t": 13.526,
+       "end": 13.688,
+       "emph": true
+      },
+      {
+       "text": "a",
+       "t": 13.723,
+       "end": 13.746,
+       "emph": false
+      },
+      {
+       "text": "ranking",
+       "t": 13.804,
+       "end": 14.083,
+       "emph": false
+      },
+      {
+       "text": "factor.",
+       "t": 14.13,
+       "end": 14.571,
+       "emph": false
+      }
+     ],
+     "size": "sm",
+     "box": false
+    }
+   ],
+   "layout": "top",
+   "grid": true,
+   "deco": false,
+   "camera": {
+    "zoom": [
+     1,
+     1
+    ]
+   },
+   "transition": "cut",
+   "bg": {
+    "color": "#111111"
+   },
+   "end": 14.741
+  },
+  {
+   "id": "llms",
+   "start": 14.741,
+   "lines": [
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "llms.txt",
+       "t": 14.861,
+       "end": 15.279,
+       "emph": true
+      }
+     ],
+     "size": "lg",
+     "box": false
+    },
+    {
+     "kind": "tierboard",
+     "placed": [
+      {
+       "label": "DA score",
+       "grade": "F"
+      },
+      {
+       "label": "llms.txt",
+       "grade": "F"
+      },
+      {
+       "label": "Keyword stuffing",
+       "grade": "F"
+      },
+      {
+       "label": "Backlinks",
+       "grade": "S"
+      },
+      {
+       "label": "Page speed",
+       "grade": "C"
+      }
+     ],
+     "pulse": "llms.txt",
+     "enter": false,
+     "pop": false,
+     "w": 960,
+     "ratio": 0.15,
+     "t": 14.861,
+     "appear": 15.608,
+     "land": 16.293
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "Nobody",
+       "t": 16.603,
+       "end": 16.881,
+       "emph": false
+      },
+      {
+       "text": "reads",
+       "t": 16.939,
+       "end": 17.148,
+       "emph": false
+      },
+      {
+       "text": "it.",
+       "t": 17.195,
+       "end": 17.346,
+       "emph": false
+      },
+      {
+       "text": "Stop",
+       "t": 17.636,
+       "end": 17.903,
+       "emph": true
+      },
+      {
+       "text": "DMing",
+       "t": 17.961,
+       "end": 18.274,
+       "emph": true
+      },
+      {
+       "text": "me.",
+       "t": 18.321,
+       "end": 18.576,
+       "emph": true
+      }
+     ],
+     "size": "sm",
+     "box": false
+    }
+   ],
+   "layout": "top",
+   "grid": true,
+   "deco": false,
+   "camera": {
+    "zoom": [
+     1,
+     1
+    ]
+   },
+   "transition": "cut",
+   "bg": {
+    "color": "#111111"
+   },
+   "end": 18.747
+  },
+  {
+   "id": "stuffing",
+   "start": 18.747,
+   "lines": [
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "Keyword",
+       "t": 18.867,
+       "end": 19.215,
+       "emph": true
+      },
+      {
+       "text": "stuffing",
+       "t": 19.25,
+       "end": 19.737,
+       "emph": true
+      }
+     ],
+     "size": "lg",
+     "box": false
+    },
+    {
+     "kind": "tierboard",
+     "placed": [
+      {
+       "label": "DA score",
+       "grade": "F"
+      },
+      {
+       "label": "llms.txt",
+       "grade": "F"
+      },
+      {
+       "label": "Keyword stuffing",
+       "grade": "F"
+      },
+      {
+       "label": "Backlinks",
+       "grade": "S"
+      },
+      {
+       "label": "Page speed",
+       "grade": "C"
+      }
+     ],
+     "pulse": "Keyword stuffing",
+     "enter": false,
+     "pop": false,
+     "w": 960,
+     "ratio": 0.15,
+     "t": 18.867,
+     "appear": 19.3,
+     "land": 19.973
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "It's",
+       "t": 20.167,
+       "end": 20.295,
+       "emph": false
+      },
+      {
+       "text": "not",
+       "t": 20.364,
+       "end": 20.55,
+       "emph": false
+      },
+      {
+       "text": "2012.",
+       "t": 20.608,
+       "end": 21.339,
+       "emph": true
+      }
+     ],
+     "size": "sm",
+     "box": false
+    }
+   ],
+   "layout": "top",
+   "grid": true,
+   "deco": false,
+   "camera": {
+    "zoom": [
+     1,
+     1
+    ]
+   },
+   "transition": "cut",
+   "bg": {
+    "color": "#111111"
+   },
+   "end": 21.44
+  },
+  {
+   "id": "reviews",
+   "start": 21.44,
+   "lines": [
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "Real",
+       "t": 21.56,
+       "end": 21.757,
+       "emph": true
+      },
+      {
+       "text": "reviews",
+       "t": 21.815,
+       "end": 22.431,
+       "emph": true
+      }
+     ],
+     "size": "lg",
+     "box": false
+    },
+    {
+     "kind": "tierboard",
+     "placed": [
+      {
+       "label": "DA score",
+       "grade": "F"
+      },
+      {
+       "label": "llms.txt",
+       "grade": "F"
+      },
+      {
+       "label": "Keyword stuffing",
+       "grade": "F"
+      },
+      {
+       "label": "Backlinks",
+       "grade": "S"
+      },
+      {
+       "label": "Page speed",
+       "grade": "C"
+      }
+     ],
+     "add": {
+      "label": "Reviews",
+      "grade": "B"
+     },
+     "enter": false,
+     "pop": false,
+     "w": 960,
+     "ratio": 0.15,
+     "t": 21.56,
+     "appear": 21.865,
+     "land": 22.667
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "Expected,",
+       "t": 22.965,
+       "end": 23.452,
+       "emph": false
+      },
+      {
+       "text": "not",
+       "t": 23.487,
+       "end": 23.615,
+       "emph": false
+      },
+      {
+       "text": "a",
+       "t": 23.65,
+       "end": 23.673,
+       "emph": false
+      },
+      {
+       "text": "tactic.",
+       "t": 23.719,
+       "end": 24.184,
+       "emph": false
+      }
+     ],
+     "size": "sm",
+     "box": false
+    }
+   ],
+   "layout": "top",
+   "grid": true,
+   "deco": false,
+   "camera": {
+    "zoom": [
+     1,
+     1
+    ]
+   },
+   "transition": "cut",
+   "bg": {
+    "color": "#111111"
+   },
+   "end": 24.319
+  },
+  {
+   "id": "schema",
+   "start": 24.319,
+   "lines": [
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "Schema",
+       "t": 24.439,
+       "end": 24.811,
+       "emph": true
+      },
+      {
+       "text": "markup",
+       "t": 24.869,
+       "end": 25.368,
+       "emph": true
+      }
+     ],
+     "size": "lg",
+     "box": false
+    },
+    {
+     "kind": "tierboard",
+     "placed": [
+      {
+       "label": "DA score",
+       "grade": "F"
+      },
+      {
+       "label": "llms.txt",
+       "grade": "F"
+      },
+      {
+       "label": "Keyword stuffing",
+       "grade": "F"
+      },
+      {
+       "label": "Backlinks",
+       "grade": "S"
+      },
+      {
+       "label": "Page speed",
+       "grade": "C"
+      },
+      {
+       "label": "Reviews",
+       "grade": "B"
+      }
+     ],
+     "add": {
+      "label": "Schema",
+      "grade": "B"
+     },
+     "enter": false,
+     "pop": false,
+     "w": 960,
+     "ratio": 0.15,
+     "t": 24.439,
+     "appear": 24.919,
+     "land": 25.674
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "Helps",
+       "t": 25.995,
+       "end": 26.25,
+       "emph": false
+      },
+      {
+       "text": "machines",
+       "t": 26.309,
+       "end": 26.68,
+       "emph": false
+      },
+      {
+       "text": "read",
+       "t": 26.738,
+       "end": 26.912,
+       "emph": false
+      },
+      {
+       "text": "you.",
+       "t": 26.959,
+       "end": 27.226,
+       "emph": false
+      },
+      {
+       "text": "Doesn't",
+       "t": 27.388,
+       "end": 27.69,
+       "emph": false
+      },
+      {
+       "text": "rank",
+       "t": 27.737,
+       "end": 27.934,
+       "emph": true
+      },
+      {
+       "text": "you.",
+       "t": 27.992,
+       "end": 28.224,
+       "emph": false
+      }
+     ],
+     "size": "sm",
+     "box": false
+    }
+   ],
+   "layout": "top",
+   "grid": true,
+   "deco": false,
+   "camera": {
+    "zoom": [
+     1,
+     1
+    ]
+   },
+   "transition": "cut",
+   "bg": {
+    "color": "#111111"
+   },
+   "end": 28.151
+  },
+  {
+   "id": "internal",
+   "start": 28.151,
+   "lines": [
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "Internal",
+       "t": 28.271,
+       "end": 28.689,
+       "emph": true
+      },
+      {
+       "text": "linking",
+       "t": 28.735,
+       "end": 29.176,
+       "emph": true
+      }
+     ],
+     "size": "lg",
+     "box": false
+    },
+    {
+     "kind": "tierboard",
+     "placed": [
+      {
+       "label": "DA score",
+       "grade": "F"
+      },
+      {
+       "label": "llms.txt",
+       "grade": "F"
+      },
+      {
+       "label": "Keyword stuffing",
+       "grade": "F"
+      },
+      {
+       "label": "Backlinks",
+       "grade": "S"
+      },
+      {
+       "label": "Page speed",
+       "grade": "C"
+      },
+      {
+       "label": "Reviews",
+       "grade": "B"
+      },
+      {
+       "label": "Schema",
+       "grade": "B"
+      }
+     ],
+     "add": {
+      "label": "Internal links",
+      "grade": "A"
+     },
+     "enter": false,
+     "pop": false,
+     "w": 960,
+     "ratio": 0.15,
+     "t": 28.271,
+     "appear": 28.785,
+     "land": 29.365
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "The",
+       "t": 29.629,
+       "end": 29.722,
+       "emph": false
+      },
+      {
+       "text": "cheapest",
+       "t": 29.78,
+       "end": 30.14,
+       "emph": false
+      },
+      {
+       "text": "way",
+       "t": 30.186,
+       "end": 30.279,
+       "emph": false
+      },
+      {
+       "text": "to",
+       "t": 30.314,
+       "end": 30.361,
+       "emph": false
+      },
+      {
+       "text": "point",
+       "t": 30.419,
+       "end": 30.581,
+       "emph": false
+      },
+      {
+       "text": "authority",
+       "t": 30.616,
+       "end": 30.941,
+       "emph": true
+      },
+      {
+       "text": "where",
+       "t": 30.964,
+       "end": 31.08,
+       "emph": false
+      },
+      {
+       "text": "you",
+       "t": 31.104,
+       "end": 31.173,
+       "emph": false
+      },
+      {
+       "text": "want",
+       "t": 31.231,
+       "end": 31.382,
+       "emph": false
+      },
+      {
+       "text": "it.",
+       "t": 31.405,
+       "end": 31.556,
+       "emph": false
+      }
+     ],
+     "size": "sm",
+     "box": false
+    }
+   ],
+   "layout": "top",
+   "grid": true,
+   "deco": false,
+   "camera": {
+    "zoom": [
+     1,
+     1
+    ]
+   },
+   "transition": "cut",
+   "bg": {
+    "color": "#111111"
+   },
+   "end": 31.843
+  },
+  {
+   "id": "cited",
+   "start": 31.843,
+   "lines": [
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "Cited",
+       "t": 32.265,
+       "end": 32.566,
+       "emph": true
+      },
+      {
+       "text": "by",
+       "t": 32.601,
+       "end": 32.706,
+       "emph": true
+      },
+      {
+       "text": "AI",
+       "t": 32.764,
+       "end": 33.066,
+       "emph": true
+      }
+     ],
+     "size": "lg",
+     "box": false
+    },
+    {
+     "kind": "tierboard",
+     "placed": [
+      {
+       "label": "DA score",
+       "grade": "F"
+      },
+      {
+       "label": "llms.txt",
+       "grade": "F"
+      },
+      {
+       "label": "Keyword stuffing",
+       "grade": "F"
+      },
+      {
+       "label": "Backlinks",
+       "grade": "S"
+      },
+      {
+       "label": "Page speed",
+       "grade": "C"
+      },
+      {
+       "label": "Reviews",
+       "grade": "B"
+      },
+      {
+       "label": "Schema",
+       "grade": "B"
+      },
+      {
+       "label": "Internal links",
+       "grade": "A"
+      }
+     ],
+     "add": {
+      "label": "AI citations",
+      "grade": "S"
+     },
+     "enter": false,
+     "pop": false,
+     "w": 960,
+     "ratio": 0.15,
+     "t": 31.963,
+     "appear": 33.174,
+     "land": 33.882
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "That's",
+       "t": 34.134,
+       "end": 34.354,
+       "emph": false
+      },
+      {
+       "text": "the",
+       "t": 34.389,
+       "end": 34.459,
+       "emph": false
+      },
+      {
+       "text": "new",
+       "t": 34.505,
+       "end": 34.61,
+       "emph": true
+      },
+      {
+       "text": "backlink.",
+       "t": 34.668,
+       "end": 35.19,
+       "emph": true
+      }
+     ],
+     "size": "sm",
+     "box": false
+    }
+   ],
+   "layout": "top",
+   "grid": true,
+   "deco": false,
+   "camera": {
+    "zoom": [
+     1,
+     1
+    ]
+   },
+   "transition": "cut",
+   "bg": {
+    "color": "#111111"
+   },
+   "end": 35.419
+  },
+  {
+   "id": "cta",
+   "start": 35.419,
+   "lines": [
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "Disagree?",
+       "t": 35.539,
+       "end": 36.189,
+       "emph": true
+      }
+     ],
+     "size": "xl",
+     "box": false
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "That's",
+       "t": 36.444,
+       "end": 36.676,
+       "emph": false
+      },
+      {
+       "text": "what",
+       "t": 36.7,
+       "end": 36.827,
+       "emph": false
+      },
+      {
+       "text": "the",
+       "t": 36.851,
+       "end": 36.92,
+       "emph": false
+      },
+      {
+       "text": "comments",
+       "t": 36.955,
+       "end": 37.303,
+       "emph": true
+      },
+      {
+       "text": "are",
+       "t": 37.327,
+       "end": 37.431,
+       "emph": false
+      },
+      {
+       "text": "for.",
+       "t": 37.466,
+       "end": 37.814,
+       "emph": false
+      }
+     ],
+     "size": "md",
+     "box": false
+    },
+    {
+     "kind": "tierboard",
+     "placed": [
+      {
+       "label": "DA score",
+       "grade": "F"
+      },
+      {
+       "label": "llms.txt",
+       "grade": "F"
+      },
+      {
+       "label": "Keyword stuffing",
+       "grade": "F"
+      },
+      {
+       "label": "Backlinks",
+       "grade": "S"
+      },
+      {
+       "label": "Page speed",
+       "grade": "C"
+      },
+      {
+       "label": "Reviews",
+       "grade": "B"
+      },
+      {
+       "label": "Schema",
+       "grade": "B"
+      },
+      {
+       "label": "Internal links",
+       "grade": "A"
+      },
+      {
+       "label": "AI citations",
+       "grade": "S"
+      }
+     ],
+     "enter": false,
+     "pop": true,
+     "w": 760,
+     "t": 37.814
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "Save",
+       "t": 38.104,
+       "end": 38.383,
+       "emph": false
+      },
+      {
+       "text": "this",
+       "t": 38.406,
+       "end": 38.546,
+       "emph": false
+      },
+      {
+       "text": "for",
+       "t": 38.604,
+       "end": 38.708,
+       "emph": false
+      },
+      {
+       "text": "your",
+       "t": 38.755,
+       "end": 38.871,
+       "emph": false
+      },
+      {
+       "text": "next",
+       "t": 38.929,
+       "end": 39.138,
+       "emph": false
+      },
+      {
+       "text": "SEO",
+       "t": 39.242,
+       "end": 39.463,
+       "emph": false
+      },
+      {
+       "text": "call.",
+       "t": 39.509,
+       "end": 40.032,
+       "emph": false
+      }
+     ],
+     "size": "sm",
+     "box": false
+    }
+   ],
+   "layout": "center",
+   "grid": true,
+   "deco": false,
+   "camera": {
+    "zoom": [
+     1,
+     1.05
+    ]
+   },
+   "transition": "wipe",
+   "end": 40.631
+  }
+ ],
+ "sfx": true,
+ "sfxLevel": 0.7
+}

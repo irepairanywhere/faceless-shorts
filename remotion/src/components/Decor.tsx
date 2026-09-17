@@ -1,4 +1,5 @@
 import React from "react";
+import {useVideoConfig} from "remotion";
 import {staticFile} from "remotion";
 import {Video} from "@remotion/media";
 import {Starburst} from "./Starburst";
@@ -18,6 +19,7 @@ export const Starbursts: React.FC<{frame: number; fps: number; color: string}> =
 };
 
 export const Orbs: React.FC<{frame: number; colors: string[]}> = ({frame, colors}) => {
+  const {width: W, height: H} = useVideoConfig(); const sx = W / 1080, sy = H / 1920;
   const orbs = [
     {x: 120 + 60 * Math.sin(frame / 41), y: 260 + 40 * Math.cos(frame / 37), s: 620, c: colors[0]},
     {x: 640 + 50 * Math.cos(frame / 47), y: 1180 + 70 * Math.sin(frame / 43), s: 720, c: colors[1]},
@@ -26,34 +28,38 @@ export const Orbs: React.FC<{frame: number; colors: string[]}> = ({frame, colors
   return (
     <>
       {orbs.map((o, i) => (
-        <div key={i} style={{position: "absolute", left: o.x - o.s / 2, top: o.y - o.s / 2, width: o.s, height: o.s, borderRadius: "50%", background: `radial-gradient(circle, ${o.c} 0%, rgba(0,0,0,0) 65%)`, opacity: 0.85, filter: "blur(50px)"}} />
+        <div key={i} style={{position: "absolute", left: o.x * sx - o.s / 2, top: o.y * sy - o.s / 2, width: o.s, height: o.s, borderRadius: "50%", background: `radial-gradient(circle, ${o.c} 0%, rgba(0,0,0,0) 65%)`, opacity: 0.85, filter: "blur(50px)"}} />
       ))}
     </>
   );
 };
 
-export const Grain: React.FC<{frame: number}> = ({frame}) => (
+export const Grain: React.FC<{frame: number}> = ({frame}) => {
+  const {width: W, height: H} = useVideoConfig();
+  return (
   <>
-    <svg width={1080} height={1920} style={{position: "absolute", left: 0, top: 0, opacity: 0.09, mixBlendMode: "overlay"}}>
+    <svg width={W} height={H} style={{position: "absolute", left: 0, top: 0, opacity: 0.09, mixBlendMode: "overlay"}}>
       <filter id="grain"><feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" seed={frame % 7} stitchTiles="stitch" /><feColorMatrix type="saturate" values="0" /></filter>
       <rect width="100%" height="100%" filter="url(#grain)" />
     </svg>
     <div style={{position: "absolute", inset: 0, background: "radial-gradient(ellipse at center, rgba(0,0,0,0) 45%, rgba(0,0,0,0.65) 100%)"}} />
   </>
-);
+  );
+};
 
 export const Scanlines: React.FC = () => (
   <div style={{position: "absolute", inset: 0, backgroundImage: "repeating-linear-gradient(0deg, rgba(255,255,255,0.035) 0px, rgba(255,255,255,0.035) 1px, rgba(0,0,0,0) 3px, rgba(0,0,0,0) 6px)", pointerEvents: "none"}} />
 );
 
 export const StockBg: React.FC<{src: string; frame: number; lenF: number; overlay?: number; theme: Theme; start?: number; rate?: number; fps?: number}> = ({src, frame, lenF, overlay, theme, start, rate, fps}) => {
+  const {width: W, height: H} = useVideoConfig();
   const p = lenF > 0 ? Math.min(1, frame / lenF) : 0;
   const scale = 1.06 + 0.08 * p;
   const ov = overlay ?? 0.55;
   return (
     <>
       <div style={{position: "absolute", inset: 0, overflow: "hidden", background: theme.bg}}>
-        <Video src={staticFile(src)} muted loop objectFit="cover" trimBefore={Math.round((start ?? 0) * (fps ?? 30))} playbackRate={rate ?? 1} style={{width: 1080, height: 1920, transform: `scale(${scale})`}} />
+        <Video src={staticFile(src)} muted loop objectFit="cover" trimBefore={Math.round((start ?? 0) * (fps ?? 30))} playbackRate={rate ?? 1} style={{width: W, height: H, transform: `scale(${scale})`}} />
       </div>
       <div style={{position: "absolute", inset: 0, background: `linear-gradient(180deg, rgba(0,0,0,${ov * 0.7}) 0%, rgba(0,0,0,${ov}) 50%, rgba(0,0,0,${Math.min(1, ov + 0.25)}) 100%)`}} />
     </>

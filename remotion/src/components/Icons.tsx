@@ -71,9 +71,13 @@ export const LucideIcon: React.FC<{name: string; size?: number; color?: string; 
   );
 };
 
-export const Icon: React.FC<{name: string; size?: number; withShadow?: boolean; color?: string; bg?: string}> = ({name, size, withShadow = true, color, bg}) => {
+/** `src` = a brand SVG staged by build_timeline.py into public/brand/ (lobehub AI/LLM logos or simple-icons, colored at build time). */
+export const Icon: React.FC<{name: string; size?: number; withShadow?: boolean; color?: string; bg?: string; src?: string}> = ({name, size, withShadow = true, color, bg, src}) => {
   let el: React.ReactNode = null;
-  switch (name) {
+  if (src) {
+    const sz = size ?? 160; const pad = bg ? sz * 0.2 : 0;
+    el = <div style={{width: sz + pad * 2, height: sz + pad * 2, borderRadius: sz * 0.28, background: bg, display: "flex", alignItems: "center", justifyContent: "center"}}><Img src={staticFile(src)} style={{width: sz, height: sz, objectFit: "contain"}} /></div>;
+  } else switch (name) {
     case "github": el = <GithubIcon size={size ?? 200} />; break;
     case "gemini": el = <GeminiIcon size={size ?? 130} />; break;
     case "kimi": el = <KimiIcon size={size ?? 130} />; break;

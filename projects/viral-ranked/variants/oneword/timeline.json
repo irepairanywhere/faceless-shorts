@@ -1,0 +1,1002 @@
+{
+ "fps": 30,
+ "durationSec": 41.85,
+ "voSrc": "audio/viral-ranked-oneword/voice.mp3",
+ "musicSrc": "audio/viral-ranked-oneword/music.mp3",
+ "musicVolume": 0.1,
+ "watermark": "rocketlaunchmedia.com",
+ "theme": "paper",
+ "width": 1080,
+ "height": 1920,
+ "anim": "pop",
+ "annot": null,
+ "beats": [
+  {
+   "id": "typed",
+   "start": 0.0,
+   "lines": [
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "I",
+       "t": 0.0,
+       "end": 0.093,
+       "emph": false
+      },
+      {
+       "text": "typed",
+       "t": 0.197,
+       "end": 0.464,
+       "emph": false
+      },
+      {
+       "text": "one",
+       "t": 0.534,
+       "end": 0.731,
+       "emph": true
+      },
+      {
+       "text": "word",
+       "t": 0.778,
+       "end": 1.033,
+       "emph": true
+      }
+     ],
+     "size": "lg",
+     "box": false
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "and",
+       "t": 1.068,
+       "end": 1.149,
+       "emph": false
+      },
+      {
+       "text": "got",
+       "t": 1.196,
+       "end": 1.335,
+       "emph": false
+      },
+      {
+       "text": "every",
+       "t": 1.405,
+       "end": 1.695,
+       "emph": false
+      },
+      {
+       "text": "viral",
+       "t": 1.753,
+       "end": 2.09,
+       "emph": true
+      },
+      {
+       "text": "video",
+       "t": 2.136,
+       "end": 2.438,
+       "emph": false
+      },
+      {
+       "text": "in",
+       "t": 2.496,
+       "end": 2.554,
+       "emph": false
+      },
+      {
+       "text": "my",
+       "t": 2.612,
+       "end": 2.694,
+       "emph": false
+      },
+      {
+       "text": "niche,",
+       "t": 2.763,
+       "end": 3.17,
+       "emph": false
+      }
+     ],
+     "size": "md",
+     "box": false
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "ranked.",
+       "t": 3.355,
+       "end": 3.878,
+       "emph": true
+      }
+     ],
+     "size": "xl",
+     "box": false,
+     "annot": "circle"
+    },
+    {
+     "kind": "emoji",
+     "src": "emoji/chart-increasing_3d.png",
+     "w": 220,
+     "t": 3.506,
+     "rotate": 0,
+     "float": true
+    }
+   ],
+   "layout": "center",
+   "grid": true,
+   "deco": false,
+   "camera": {
+    "zoom": [
+     1,
+     1.05
+    ]
+   },
+   "end": 4.106
+  },
+  {
+   "id": "word",
+   "start": 4.106,
+   "lines": [
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "The",
+       "t": 4.226,
+       "end": 4.354,
+       "emph": false
+      },
+      {
+       "text": "word",
+       "t": 4.412,
+       "end": 4.632,
+       "emph": false
+      },
+      {
+       "text": "was",
+       "t": 4.69,
+       "end": 4.818,
+       "emph": false
+      }
+     ],
+     "size": "md",
+     "box": false
+    },
+    {
+     "kind": "chat",
+     "text": "claude code",
+     "who": "you",
+     "w": 700,
+     "t": 5.863
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "Here's",
+       "t": 6.211,
+       "end": 6.455,
+       "emph": false
+      },
+      {
+       "text": "what",
+       "t": 6.49,
+       "end": 6.606,
+       "emph": false
+      },
+      {
+       "text": "came",
+       "t": 6.653,
+       "end": 6.838,
+       "emph": true
+      },
+      {
+       "text": "back.",
+       "t": 6.873,
+       "end": 7.21,
+       "emph": true
+      }
+     ],
+     "size": "md",
+     "box": false
+    },
+    {
+     "kind": "terminal",
+     "lines": [
+      "$ tiktok-search \"claude code\" --rank viral",
+      "\u2713 12 videos \u00b7 ranked by views \u00f7 followers",
+      "#1  711K views   10.9K followers   65\u00d7",
+      "#2  98K views    1.6K followers    62\u00d7",
+      "#3  2.5M views   51K followers     48\u00d7"
+     ],
+     "w": 940,
+     "title": "claude",
+     "t": 6.745
+    }
+   ],
+   "layout": "top",
+   "grid": true,
+   "deco": false,
+   "camera": {
+    "zoom": [
+     1,
+     1.05
+    ]
+   },
+   "transition": "flip",
+   "end": 7.345
+  },
+  {
+   "id": "back",
+   "start": 7.345,
+   "lines": [
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "Here's",
+       "t": 7.465,
+       "end": 7.721,
+       "emph": false
+      },
+      {
+       "text": "what",
+       "t": 7.755,
+       "end": 7.895,
+       "emph": false
+      },
+      {
+       "text": "came",
+       "t": 7.953,
+       "end": 8.173,
+       "emph": true
+      },
+      {
+       "text": "back.",
+       "t": 8.22,
+       "end": 8.638,
+       "emph": true
+      }
+     ],
+     "size": "md",
+     "box": false
+    },
+    {
+     "kind": "terminal",
+     "lines": [
+      "$ tiktok-search \"claude code\" --rank viral",
+      "\u2713 12 videos \u00b7 ranked by views \u00f7 followers",
+      "#1  711K views   10.9K followers   65\u00d7",
+      "#2  98K views    1.6K followers    62\u00d7",
+      "#3  2.5M views   51K followers     48\u00d7"
+     ],
+     "w": 940,
+     "title": "claude",
+     "t": 7.565
+    }
+   ],
+   "layout": "top",
+   "grid": true,
+   "deco": false,
+   "camera": {
+    "zoom": [
+     1,
+     1.05
+    ]
+   },
+   "transition": "glass",
+   "end": 8.808
+  },
+  {
+   "id": "one",
+   "start": 8.808,
+   "lines": [
+    {
+     "kind": "badge",
+     "text": "1",
+     "size": 150,
+     "t": 8.978
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "711,000",
+       "t": 10.236,
+       "end": 10.436,
+       "emph": true
+      },
+      {
+       "text": "views",
+       "t": 10.316,
+       "end": 10.516,
+       "emph": false
+      }
+     ],
+     "size": "xl",
+     "box": false
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "from",
+       "t": 12.767,
+       "end": 12.967,
+       "emph": false
+      },
+      {
+       "text": "11,000",
+       "t": 12.847,
+       "end": 13.047,
+       "emph": true
+      },
+      {
+       "text": "followers",
+       "t": 12.927,
+       "end": 13.127,
+       "emph": false
+      }
+     ],
+     "size": "md",
+     "box": false
+    }
+   ],
+   "layout": "center",
+   "grid": true,
+   "deco": false,
+   "camera": {
+    "zoom": [
+     1,
+     1.05
+    ]
+   },
+   "transition": "zoom",
+   "end": 14.497
+  },
+  {
+   "id": "sixtyfive",
+   "start": 14.497,
+   "lines": [
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "65\u00d7",
+       "t": 14.617,
+       "end": 15.29,
+       "emph": true
+      },
+      {
+       "text": "their",
+       "t": 15.616,
+       "end": 15.755,
+       "emph": false
+      },
+      {
+       "text": "audience.",
+       "t": 15.801,
+       "end": 16.289,
+       "emph": false
+      }
+     ],
+     "size": "xl",
+     "box": false,
+     "fit": true
+    },
+    {
+     "kind": "gif",
+     "w": 640,
+     "t": 15.592,
+     "src": "stock/viral-ranked-oneword/gif-mind-blown.mp4"
+    }
+   ],
+   "layout": "center",
+   "grid": true,
+   "deco": false,
+   "camera": {
+    "zoom": [
+     1,
+     1.05
+    ]
+   },
+   "transition": "cut",
+   "end": 16.575
+  },
+  {
+   "id": "two",
+   "start": 16.575,
+   "lines": [
+    {
+     "kind": "badge",
+     "text": "2",
+     "size": 150,
+     "t": 16.745
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "98,600",
+       "t": 18.201,
+       "end": 18.401,
+       "emph": true
+      },
+      {
+       "text": "views",
+       "t": 18.281,
+       "end": 18.481,
+       "emph": false
+      }
+     ],
+     "size": "xl",
+     "box": false
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "from",
+       "t": 19.408,
+       "end": 19.608,
+       "emph": false
+      },
+      {
+       "text": "1,600",
+       "t": 19.488,
+       "end": 19.688,
+       "emph": true
+      },
+      {
+       "text": "followers",
+       "t": 19.568,
+       "end": 19.768,
+       "emph": false
+      }
+     ],
+     "size": "md",
+     "box": false
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "62\u00d7",
+       "t": 20.372,
+       "end": 20.572,
+       "emph": true
+      }
+     ],
+     "size": "lg",
+     "box": false,
+     "emphColor": "#E5744C"
+    },
+    {
+     "kind": "emoji",
+     "name": "fire",
+     "animated": true,
+     "w": 200,
+     "t": 21.084,
+     "rotate": 0,
+     "float": true
+    }
+   ],
+   "layout": "center",
+   "grid": true,
+   "deco": false,
+   "camera": {
+    "zoom": [
+     1,
+     1.05
+    ]
+   },
+   "transition": "blur",
+   "end": 21.684
+  },
+  {
+   "id": "three",
+   "start": 21.684,
+   "lines": [
+    {
+     "kind": "badge",
+     "text": "3",
+     "size": 150,
+     "t": 21.854
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "2.5M",
+       "t": 23.344,
+       "end": 23.544,
+       "emph": true
+      },
+      {
+       "text": "views",
+       "t": 23.424,
+       "end": 23.624,
+       "emph": false
+      }
+     ],
+     "size": "xl",
+     "box": false
+    },
+    {
+     "kind": "emoji",
+     "src": "emoji/eyes_3d.png",
+     "w": 220,
+     "t": 24.207,
+     "rotate": 0,
+     "float": true
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "48\u00d7",
+       "t": 24.319,
+       "end": 24.519,
+       "emph": true
+      }
+     ],
+     "size": "lg",
+     "box": false,
+     "emphColor": "#E5744C"
+    }
+   ],
+   "layout": "center",
+   "grid": true,
+   "deco": false,
+   "camera": {
+    "zoom": [
+     1,
+     1.05
+    ]
+   },
+   "transition": "clock",
+   "end": 25.631
+  },
+  {
+   "id": "pattern",
+   "start": 25.631,
+   "lines": [
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "The",
+       "t": 25.751,
+       "end": 25.867,
+       "emph": false
+      },
+      {
+       "text": "top",
+       "t": 25.925,
+       "end": 26.146,
+       "emph": false
+      },
+      {
+       "text": "two",
+       "t": 26.204,
+       "end": 26.332,
+       "emph": false
+      },
+      {
+       "text": "are",
+       "t": 26.39,
+       "end": 26.494,
+       "emph": false
+      },
+      {
+       "text": "plugin",
+       "t": 26.529,
+       "end": 26.808,
+       "emph": true
+      },
+      {
+       "text": "announcements.",
+       "t": 26.854,
+       "end": 27.516,
+       "emph": false
+      }
+     ],
+     "size": "md",
+     "box": false
+    },
+    {
+     "kind": "emoji",
+     "src": "emoji/puzzle-piece_3d.png",
+     "w": 200,
+     "t": 27.516,
+     "rotate": 0,
+     "float": true
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "Number",
+       "t": 27.806,
+       "end": 28.073,
+       "emph": false
+      },
+      {
+       "text": "three",
+       "t": 28.132,
+       "end": 28.433,
+       "emph": false
+      },
+      {
+       "text": "literally",
+       "t": 28.573,
+       "end": 29.014,
+       "emph": false
+      },
+      {
+       "text": "opens",
+       "t": 29.084,
+       "end": 29.478,
+       "emph": false
+      },
+      {
+       "text": "with",
+       "t": 29.583,
+       "end": 29.757,
+       "emph": false
+      }
+     ],
+     "size": "md",
+     "box": false
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "\"not",
+       "t": 29.827,
+       "end": 30.012,
+       "emph": true
+      },
+      {
+       "text": "a",
+       "t": 30.059,
+       "end": 30.082,
+       "emph": true
+      },
+      {
+       "text": "tutorial.\"",
+       "t": 30.128,
+       "end": 30.813,
+       "emph": true
+      }
+     ],
+     "size": "lg",
+     "box": false,
+     "annot": "box"
+    }
+   ],
+   "layout": "center",
+   "grid": true,
+   "deco": false,
+   "camera": {
+    "zoom": [
+     1,
+     1.05
+    ]
+   },
+   "transition": "whip",
+   "end": 31.1
+  },
+  {
+   "id": "tools",
+   "start": 31.1,
+   "lines": [
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "So",
+       "t": 31.22,
+       "end": 31.348,
+       "emph": false
+      },
+      {
+       "text": "this",
+       "t": 31.406,
+       "end": 31.556,
+       "emph": false
+      },
+      {
+       "text": "week's",
+       "t": 31.615,
+       "end": 31.824,
+       "emph": false
+      },
+      {
+       "text": "videos",
+       "t": 31.858,
+       "end": 32.218,
+       "emph": false
+      },
+      {
+       "text": "are",
+       "t": 32.253,
+       "end": 32.358,
+       "emph": false
+      },
+      {
+       "text": "about",
+       "t": 32.381,
+       "end": 32.601,
+       "emph": false
+      },
+      {
+       "text": "tools,",
+       "t": 32.648,
+       "end": 33.019,
+       "emph": true
+      }
+     ],
+     "size": "md",
+     "box": false
+    },
+    {
+     "kind": "emoji",
+     "src": "emoji/toolbox_3d.png",
+     "w": 220,
+     "t": 33.019,
+     "rotate": 0,
+     "float": true
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "not",
+       "t": 33.054,
+       "end": 33.205,
+       "emph": false
+      },
+      {
+       "text": "how-tos.",
+       "t": 33.252,
+       "end": 33.867,
+       "emph": true
+      }
+     ],
+     "size": "lg",
+     "box": false
+    }
+   ],
+   "layout": "center",
+   "grid": true,
+   "deco": false,
+   "camera": {
+    "zoom": [
+     1,
+     1.05
+    ]
+   },
+   "transition": "flip",
+   "end": 34.095
+  },
+  {
+   "id": "step",
+   "start": 34.095,
+   "lines": [
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "That's",
+       "t": 34.215,
+       "end": 34.471,
+       "emph": false
+      },
+      {
+       "text": "the",
+       "t": 34.505,
+       "end": 34.587,
+       "emph": false
+      },
+      {
+       "text": "whole",
+       "t": 34.633,
+       "end": 34.854,
+       "emph": false
+      },
+      {
+       "text": "research",
+       "t": 34.912,
+       "end": 35.307,
+       "emph": true
+      },
+      {
+       "text": "step.",
+       "t": 35.33,
+       "end": 35.701,
+       "emph": true
+      }
+     ],
+     "size": "md",
+     "box": false
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "One",
+       "t": 35.922,
+       "end": 36.142,
+       "emph": true
+      },
+      {
+       "text": "word,",
+       "t": 36.189,
+       "end": 36.433,
+       "emph": true
+      },
+      {
+       "text": "one",
+       "t": 36.479,
+       "end": 36.63,
+       "emph": false
+      },
+      {
+       "text": "ranked",
+       "t": 36.676,
+       "end": 36.897,
+       "emph": false
+      },
+      {
+       "text": "list,",
+       "t": 36.955,
+       "end": 37.361,
+       "emph": false
+      }
+     ],
+     "size": "md",
+     "box": false
+    },
+    {
+     "kind": "icon",
+     "name": "tiktok",
+     "src": "brand/si-tiktok-000000.svg",
+     "w": 120,
+     "t": 37.361,
+     "rotate": 0
+    },
+    {
+     "kind": "icon",
+     "name": "instagram",
+     "src": "brand/si-instagram-ff0069.svg",
+     "w": 120,
+     "t": 36.515,
+     "rotate": 0
+    },
+    {
+     "kind": "icon",
+     "name": "youtube",
+     "src": "brand/si-youtube-ff0000.svg",
+     "w": 120,
+     "t": 36.765,
+     "rotate": 0
+    }
+   ],
+   "layout": "center",
+   "grid": true,
+   "deco": false,
+   "camera": {
+    "zoom": [
+     1,
+     1.05
+    ]
+   },
+   "transition": "glass",
+   "end": 38.716
+  },
+  {
+   "id": "cta",
+   "start": 38.716,
+   "lines": [
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "Comment",
+       "t": 38.836,
+       "end": 39.242,
+       "emph": false
+      },
+      {
+       "text": "RANK",
+       "t": 39.3,
+       "end": 39.533,
+       "emph": true
+      }
+     ],
+     "size": "xl",
+     "box": false,
+     "annot": "circle"
+    },
+    {
+     "kind": "text",
+     "words": [
+      {
+       "text": "and",
+       "t": 39.567,
+       "end": 39.637,
+       "emph": false
+      },
+      {
+       "text": "I'll",
+       "t": 39.683,
+       "end": 39.811,
+       "emph": false
+      },
+      {
+       "text": "send",
+       "t": 39.858,
+       "end": 40.009,
+       "emph": false
+      },
+      {
+       "text": "you",
+       "t": 40.043,
+       "end": 40.113,
+       "emph": false
+      },
+      {
+       "text": "the",
+       "t": 40.159,
+       "end": 40.229,
+       "emph": false
+      },
+      {
+       "text": "exact",
+       "t": 40.287,
+       "end": 40.589,
+       "emph": true
+      },
+      {
+       "text": "prompt.",
+       "t": 40.635,
+       "end": 41.251,
+       "emph": true
+      }
+     ],
+     "size": "md",
+     "box": false
+    },
+    {
+     "kind": "emoji",
+     "src": "emoji/rocket_3d.png",
+     "w": 220,
+     "t": 41.25,
+     "rotate": 0,
+     "float": true
+    }
+   ],
+   "layout": "center",
+   "grid": true,
+   "deco": false,
+   "camera": {
+    "zoom": [
+     1,
+     1.05
+    ]
+   },
+   "transition": "chromatic",
+   "bg": {
+    "overlay": 0.6,
+    "src": "stock/viral-ranked-oneword/person-scrolling-phone-at-night-dark.mp4"
+   },
+   "end": 41.85
+  }
+ ],
+ "sfx": true,
+ "sfxLevel": 0.7
+}

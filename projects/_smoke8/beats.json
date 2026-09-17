@@ -1,0 +1,34 @@
+{
+  "title": "template smoke test (v8 elements)",
+  "theme": "paper",
+  "anim": "pop",
+  "speed": 1.1,
+  "watermark": "rocketlaunchmedia.com",
+  "no_music": true,
+  "sfx_level": 0.7,
+  "beats": [
+    {"id": "one", "vo": "3D emoji stickers,", "lines": [
+      {"text": "*3D* emoji stickers,", "size": "lg"},
+      {"emoji": "rocket", "w": 300, "rotate": -8, "after": "stickers,"}
+    ]},
+    {"id": "two", "transition": "flip", "vo": "animated emoji,", "lines": [
+      {"text": "*animated* emoji,", "size": "lg"},
+      {"emoji": "fire", "animated": true, "w": 300, "after": "emoji,"}
+    ]},
+    {"id": "three", "transition": "glass", "bg": {"color": "#0B0B11"}, "vo": "real brand logos,", "lines": [
+      {"text": "real *brand* logos,", "size": "lg"},
+      {"icon": "lobe:claude", "w": 170, "after": "brand"},
+      {"icon": "openai", "w": 150, "after": "logos,"},
+      {"icon": "si:tiktok", "w": 150, "at": 1.0},
+      {"badge": "icon:googleads", "size": 170, "at": 1.3}
+    ]},
+    {"id": "four", "transition": "chromatic", "vo": "and ten new transitions.", "lines": [
+      {"text": "and *ten* new transitions.", "size": "lg", "annot": "circle"},
+      {"emoji": "🤯", "w": 240, "after": "transitions."}
+    ]},
+    {"id": "five", "transition": "clock", "vo": "All in one text file.", "lines": [
+      {"text": "All in one *text file.*", "size": "lg", "fit": true},
+      {"icon": "sparkles", "w": 140, "bg": "#E5744C", "color": "#FFFFFF", "after": "file."}
+    ]}
+  ]
+}

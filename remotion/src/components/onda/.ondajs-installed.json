@@ -1,0 +1,120 @@
+{
+  "components": [
+    {
+      "slug": "bar-chart",
+      "componentName": "BarChart",
+      "schemaName": "barChartSchema",
+      "importPath": "./bar-chart/BarChart"
+    },
+    {
+      "slug": "browser-frame",
+      "componentName": "BrowserFrame",
+      "schemaName": "browserFrameSchema",
+      "importPath": "./browser-frame/BrowserFrame"
+    },
+    {
+      "slug": "confetti",
+      "componentName": "Confetti",
+      "schemaName": "confettiSchema",
+      "importPath": "./confetti/Confetti"
+    },
+    {
+      "slug": "count-up",
+      "componentName": "CountUp",
+      "schemaName": "countUpSchema",
+      "importPath": "./count-up/CountUp"
+    },
+    {
+      "slug": "cursor",
+      "componentName": "Cursor",
+      "schemaName": "cursorSchema",
+      "importPath": "./cursor/Cursor"
+    },
+    {
+      "slug": "device-frame",
+      "componentName": "DeviceFrame",
+      "schemaName": "deviceFrameSchema",
+      "importPath": "./device-frame/DeviceFrame"
+    },
+    {
+      "slug": "draw-on",
+      "componentName": "DrawOn",
+      "schemaName": "drawOnSchema",
+      "importPath": "./draw-on/DrawOn"
+    },
+    {
+      "slug": "icon-pop",
+      "componentName": "IconPop",
+      "schemaName": "iconPopSchema",
+      "importPath": "./icon-pop/IconPop"
+    },
+    {
+      "slug": "mesh-gradient",
+      "componentName": "MeshGradient",
+      "schemaName": "meshGradientSchema",
+      "importPath": "./mesh-gradient/MeshGradient"
+    },
+    {
+      "slug": "slot-machine-roll",
+      "componentName": "SlotMachineRoll",
+      "schemaName": "slotMachineRollSchema",
+      "importPath": "./slot-machine-roll/SlotMachineRoll"
+    },
+    {
+      "slug": "stat-card",
+      "componentName": "StatCard",
+      "schemaName": "statCardSchema",
+      "importPath": "./stat-card/StatCard"
+    },
+    {
+      "slug": "underline",
+      "componentName": "Underline",
+      "schemaName": "underlineSchema",
+      "importPath": "./underline/Underline"
+    },
+    {
+      "slug": "word-stagger",
+      "componentName": "WordStagger",
+      "schemaName": "wordStaggerSchema",
+      "importPath": "./word-stagger/WordStagger"
+    }
+  ],
+  "transitions": [
+    {
+      "slug": "chromatic-aberration",
+      "factoryName": "chromaticAberration",
+      "schemaName": "chromaticAberrationSchema",
+      "importPath": "./transitions/chromatic-aberration/chromaticAberration"
+    },
+    {
+      "slug": "clock-wipe",
+      "factoryName": "clockWipe",
+      "schemaName": "clockWipeSchema",
+      "importPath": "./transitions/clock-wipe/clockWipe"
+    },
+    {
+      "slug": "device-pullback",
+      "factoryName": "devicePullback",
+      "schemaName": "devicePullbackSchema",
+      "importPath": "./transitions/device-pullback/devicePullback"
+    },
+    {
+      "slug": "glass-wipe",
+      "factoryName": "glassWipe",
+      "schemaName": "glassWipeSchema",
+      "importPath": "./transitions/glass-wipe/glassWipe"
+    },
+    {
+      "slug": "iris",
+      "factoryName": "iris",
+      "schemaName": "irisSchema",
+      "importPath": "./transitions/iris/iris"
+    },
+    {
+      "slug": "type-mask",
+      "factoryName": "typeMask",
+      "schemaName": "typeMaskSchema",
+      "importPath": "./transitions/type-mask/typeMask"
+    }
+  ]
+}

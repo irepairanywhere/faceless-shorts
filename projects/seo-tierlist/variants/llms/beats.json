@@ -1,0 +1,412 @@
+{
+  "title": "SEO tactics of 2026, ranked S to F (idea 5, Sep 9 scan)",
+  "theme": "bold",
+  "anim": "rise",
+  "speed": 1.1,
+  "watermark": "rocketlaunchmedia.com",
+  "sfx_level": 0.7,
+  "music": {
+    "prompt": "punchy upbeat electronic beat, tight drums, confident bassline, 105 bpm, no vocals, clean mix",
+    "volume": 0.1
+  },
+  "beats": [
+    {
+      "id": "hook",
+      "vo": "LLMs dot text is F tier. Stop DMing me about it. Here's every other SEO tactic, ranked.",
+      "layout": "top",
+      "lines": [
+        {
+          "text": "*llms.txt* is *F tier.*",
+          "size": "lg"
+        },
+        {
+          "tierboard": {
+            "add": {
+              "label": "llms.txt",
+              "grade": "F"
+            }
+          },
+          "w": 900,
+          "at": 0.05,
+          "appear": "text",
+          "land": "tier."
+        },
+        {
+          "text": "Stop DMing me about it.",
+          "size": "sm"
+        },
+        {
+          "text": "Here's every other tactic, *ranked.*",
+          "size": "sm"
+        }
+      ]
+    },
+    {
+      "id": "backlinks",
+      "transition": "flip",
+      "bg": {
+        "color": "#111111"
+      },
+      "layout": "top",
+      "camera": {
+        "zoom": [
+          1,
+          1
+        ]
+      },
+      "vo": "Backlinks. S. Still the thing.",
+      "lines": [
+        {
+          "text": "*Backlinks*",
+          "size": "lg"
+        },
+        {
+          "tierboard": {
+            "add": {
+              "label": "Backlinks",
+              "grade": "S"
+            }
+          },
+          "w": 960,
+          "at": 0,
+          "appear": "Backlinks.",
+          "land": "S.",
+          "ratio": 0.15
+        },
+        {
+          "text": "Still the thing.",
+          "size": "sm"
+        }
+      ]
+    },
+    {
+      "id": "speed",
+      "transition": "cut",
+      "bg": {
+        "color": "#111111"
+      },
+      "layout": "top",
+      "camera": {
+        "zoom": [
+          1,
+          1
+        ]
+      },
+      "vo": "Page speed past the basics. C. Fix it once and move on.",
+      "lines": [
+        {
+          "text": "*Page speed*",
+          "size": "lg"
+        },
+        {
+          "tierboard": {
+            "add": {
+              "label": "Page speed",
+              "grade": "C"
+            }
+          },
+          "w": 960,
+          "at": 0,
+          "appear": "basics.",
+          "land": "C.",
+          "ratio": 0.15
+        },
+        {
+          "text": "Fix it once and move on.",
+          "size": "sm"
+        }
+      ]
+    },
+    {
+      "id": "da",
+      "transition": "cut",
+      "bg": {
+        "color": "#111111"
+      },
+      "layout": "top",
+      "camera": {
+        "zoom": [
+          1,
+          1
+        ]
+      },
+      "vo": "Domain authority score. F. A third-party number, not a ranking factor.",
+      "lines": [
+        {
+          "text": "*Domain authority*",
+          "size": "lg"
+        },
+        {
+          "tierboard": {
+            "add": {
+              "label": "DA score",
+              "grade": "F"
+            }
+          },
+          "w": 960,
+          "at": 0,
+          "appear": "score.",
+          "land": "F.",
+          "ratio": 0.15
+        },
+        {
+          "text": "A third-party number, *not* a ranking factor.",
+          "size": "sm"
+        }
+      ]
+    },
+    {
+      "id": "llms",
+      "transition": "cut",
+      "bg": {
+        "color": "#111111"
+      },
+      "layout": "top",
+      "camera": {
+        "zoom": [
+          1,
+          1
+        ]
+      },
+      "vo": "LLMs dot text. F. Nobody reads it. Stop DMing me.",
+      "lines": [
+        {
+          "text": "*llms.txt*",
+          "size": "lg"
+        },
+        {
+          "tierboard": {
+            "add": {
+              "label": "llms.txt",
+              "grade": "F"
+            }
+          },
+          "w": 960,
+          "at": 0,
+          "appear": "text.",
+          "land": "F.",
+          "ratio": 0.15
+        },
+        {
+          "text": "Nobody reads it. *Stop DMing me.*",
+          "size": "sm"
+        }
+      ]
+    },
+    {
+      "id": "stuffing",
+      "transition": "cut",
+      "bg": {
+        "color": "#111111"
+      },
+      "layout": "top",
+      "camera": {
+        "zoom": [
+          1,
+          1
+        ]
+      },
+      "vo": "Keyword stuffing. F. It's not 2012.",
+      "lines": [
+        {
+          "text": "*Keyword stuffing*",
+          "size": "lg"
+        },
+        {
+          "tierboard": {
+            "add": {
+              "label": "Keyword stuffing",
+              "grade": "F"
+            }
+          },
+          "w": 960,
+          "at": 0,
+          "appear": "stuffing.",
+          "land": "F.",
+          "ratio": 0.15
+        },
+        {
+          "text": "It's not *2012.*",
+          "size": "sm"
+        }
+      ]
+    },
+    {
+      "id": "reviews",
+      "transition": "cut",
+      "bg": {
+        "color": "#111111"
+      },
+      "layout": "top",
+      "camera": {
+        "zoom": [
+          1,
+          1
+        ]
+      },
+      "vo": "Real reviews. B. Expected, not a tactic.",
+      "lines": [
+        {
+          "text": "*Real reviews*",
+          "size": "lg"
+        },
+        {
+          "tierboard": {
+            "add": {
+              "label": "Reviews",
+              "grade": "B"
+            }
+          },
+          "w": 960,
+          "at": 0,
+          "appear": "reviews.",
+          "land": "B.",
+          "ratio": 0.15
+        },
+        {
+          "text": "Expected, not a tactic.",
+          "size": "sm"
+        }
+      ]
+    },
+    {
+      "id": "schema",
+      "transition": "cut",
+      "bg": {
+        "color": "#111111"
+      },
+      "layout": "top",
+      "camera": {
+        "zoom": [
+          1,
+          1
+        ]
+      },
+      "vo": "Schema markup. B. Helps machines read you. Doesn't rank you.",
+      "lines": [
+        {
+          "text": "*Schema markup*",
+          "size": "lg"
+        },
+        {
+          "tierboard": {
+            "add": {
+              "label": "Schema",
+              "grade": "B"
+            }
+          },
+          "w": 960,
+          "at": 0,
+          "appear": "markup.",
+          "land": "B.",
+          "ratio": 0.15
+        },
+        {
+          "text": "Helps machines read you. Doesn't *rank* you.",
+          "size": "sm"
+        }
+      ]
+    },
+    {
+      "id": "internal",
+      "transition": "cut",
+      "bg": {
+        "color": "#111111"
+      },
+      "layout": "top",
+      "camera": {
+        "zoom": [
+          1,
+          1
+        ]
+      },
+      "vo": "Internal linking. A. The cheapest way to point authority where you want it.",
+      "lines": [
+        {
+          "text": "*Internal linking*",
+          "size": "lg"
+        },
+        {
+          "tierboard": {
+            "add": {
+              "label": "Internal links",
+              "grade": "A"
+            }
+          },
+          "w": 960,
+          "at": 0,
+          "appear": "linking.",
+          "land": "A.",
+          "ratio": 0.15
+        },
+        {
+          "text": "The cheapest way to point *authority* where you want it.",
+          "size": "sm"
+        }
+      ]
+    },
+    {
+      "id": "cited",
+      "transition": "cut",
+      "bg": {
+        "color": "#111111"
+      },
+      "layout": "top",
+      "camera": {
+        "zoom": [
+          1,
+          1
+        ]
+      },
+      "vo": "Being cited by AI answers. S. That's the new backlink.",
+      "lines": [
+        {
+          "text": "*Cited by AI*",
+          "size": "lg"
+        },
+        {
+          "tierboard": {
+            "add": {
+              "label": "AI citations",
+              "grade": "S"
+            }
+          },
+          "w": 960,
+          "at": 0,
+          "appear": "answers.",
+          "land": "S.",
+          "ratio": 0.15
+        },
+        {
+          "text": "That's the *new backlink.*",
+          "size": "sm"
+        }
+      ]
+    },
+    {
+      "id": "cta",
+      "transition": "wipe",
+      "layout": "center",
+      "vo": "Disagree? That's what the comments are for. Save this for your next SEO call.",
+      "lines": [
+        {
+          "text": "*Disagree?*",
+          "size": "xl"
+        },
+        {
+          "text": "That's what the *comments* are for.",
+          "size": "md"
+        },
+        {
+          "tierboard": {},
+          "w": 760,
+          "after": "for."
+        },
+        {
+          "text": "Save this for your next SEO call.",
+          "size": "sm"
+        }
+      ]
+    }
+  ]
+}

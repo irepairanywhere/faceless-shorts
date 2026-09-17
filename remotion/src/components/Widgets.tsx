@@ -58,11 +58,11 @@ export const Phone: React.FC<{src: string; w?: number}> = ({src, w: wIn}) => {
   );
 };
 
-export const Badge: React.FC<{text?: string; icon?: string; size?: number}> = ({text, icon, size: sIn}) => {
+export const Badge: React.FC<{text?: string; icon?: string; iconSrc?: string; size?: number}> = ({text, icon, iconSrc, size: sIn}) => {
   const size = sIn ?? 150;
   return (
     <div style={{width: size, height: size, borderRadius: "50%", background: "#1B1B1B", display: "flex", alignItems: "center", justifyContent: "center", boxShadow: "-16px 22px 30px rgba(0,0,0,0.28)", color: "#fff", fontFamily: theme.font, fontSize: size * 0.5, fontWeight: 800}}>
-      {icon ? <div style={{filter: icon === "github" ? "invert(1)" : undefined, lineHeight: 0}}><Icon name={icon} size={size * 0.55} withShadow={false} /></div> : text}
+      {icon || iconSrc ? <div style={{filter: icon === "github" ? "invert(1)" : undefined, lineHeight: 0}}><Icon name={icon} src={iconSrc} size={size * 0.55} withShadow={false} /></div> : text}
     </div>
   );
 };
